@@ -20,17 +20,23 @@ Built as a single static HTML file. No framework, no database, no build step. Op
 | Fonts | Bebas Neue, Instrument Serif, DM Sans (Google Fonts) |
 | Form submissions | [Fillout](https://fillout.com) (free tier) — form ID: `wkoEmzfZQ4us` |
 | Support | [Buy Me a Coffee](https://buymeacoffee.com/theskateboard) |
-| Hosting | [Netlify](https://netlify.com) (free tier) |
+| Version control | GitHub |
+| Hosting | [Netlify](https://netlify.com) (free tier, auto-deploys from `main`) |
 | Domain | Registered separately, DNS pointed to Netlify |
 
 ---
 
 ## Deploying
 
-1. Make your changes to `the-skate-board.html`
-2. Rename it to `index.html`
-3. Drag it onto [app.netlify.com](https://app.netlify.com) — drop it onto your existing site to redeploy
-4. Done — live in ~30 seconds
+The site deploys automatically via Netlify's GitHub integration. Any push to `main` triggers a new deploy — live in ~30 seconds.
+
+```bash
+git add index.html
+git commit -m "your message"
+git push
+```
+
+No build step required. Netlify serves `index.html` directly from the repo root.
 
 ---
 
@@ -117,7 +123,7 @@ All colours are CSS variables at the top of the file:
 2. **Next.js** — rebuild as a proper app with server-side rendering for SEO
 3. **Vercel** — better fit once on Next.js
 4. **Eventbrite API** — pull events automatically to supplement community submissions
-5. **Enrich event details: recurring events, age restrictions, beginner friendly, organiser contact details. 
+5. **Enrich event details** — recurring events, age restrictions, beginner-friendly flag, organiser contact details
 
 ---
 
