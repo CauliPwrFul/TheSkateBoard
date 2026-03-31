@@ -677,8 +677,47 @@ const events = [
 document.getElementById('venue-count').textContent = new Set(events.map(e => e.venue)).size;
 
 let currentFilter = 'all';
+let currentMonth = null; // null = all months; "Apr 2026" format when set
 
-// ── Filter ─────────────────────────────────────────────────────────────────
+// ── Month filter ───────────────────────────────────────────────────────────
+function initMonthFilter() {
+  const select = document.getElementById('month-filter');
+  const monthMap = { Jan:0, Feb:1, Mar:2, Apr:3, May:4, Jun:5, Jul:6, Aug:7, Sep:8, Oct:9, Nov:10, Dec:11 };
+  const monthNames = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+
+  // Collect unique month/year combos from events, sorted chronologically
+  const months = [...new Set(events.map(e => `${e.month} ${e.year}`))]
+    .sort((a, b) => {
+      const [ma, ya] = a.split(' ');
+      const [mb, yb] = b.split(' ');
+      return new Date(parseInt(ya), monthMap[ma]) - new Date(parseInt(yb), monthMap[mb]);
+    });
+
+  months.forEach(m => {
+    const opt = document.createElement('option');
+    opt.value = m;
+    opt.textContent = m;
+    select.appendChild(opt);
+  });
+
+  // Default to current month if it has events
+  const now = new Date();
+  const currentKey = `${monthNames[now.getMonth()]} ${now.getFullYear()}`;
+  if (months.includes(currentKey)) {
+    select.value = currentKey;
+    currentMonth = currentKey;
+    select.classList.add('active');
+  }
+}
+
+function setMonth(value) {
+  const select = document.getElementById('month-filter');
+  currentMonth = value === 'all' ? null : value;
+  select.classList.toggle('active', value !== 'all');
+  renderEvents();
+}
+
+// ── Type filter ────────────────────────────────────────────────────────────
 function setFilter(type, btn) {
   currentFilter = type;
   document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
@@ -699,11 +738,13 @@ function renderEvents() {
 
   const monthMap = { Jan:0, Feb:1, Mar:2, Apr:3, May:4, Jun:5, Jul:6, Aug:7, Sep:8, Oct:9, Nov:10, Dec:11 };
 
-  // Filter out past events and sort ascending
+  // Filter out past events, apply month filter, and sort ascending
   const upcoming = events
     .filter(e => {
       const eventDate = new Date(parseInt(e.year), monthMap[e.month], parseInt(e.day));
-      return eventDate >= today;
+      if (eventDate < today) return false;
+      if (currentMonth && `${e.month} ${e.year}` !== currentMonth) return false;
+      return true;
     })
     .sort((a, b) => {
       const da = new Date(parseInt(a.year), monthMap[a.month], parseInt(a.day));
@@ -755,6 +796,7 @@ function renderEvents() {
   noResults.classList.toggle('visible', visible === 0);
 }
 
+initMonthFilter();
 renderEvents();
 
 // ── Fillout popup ──────────────────────────────────────────────────────────

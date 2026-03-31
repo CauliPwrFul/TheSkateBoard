@@ -66,6 +66,13 @@
   <button class="filter-btn" onclick="setFilter('free', this)">🆓 Free</button>
 </div>
 
+<div class="filters-month-wrap">
+  <span class="filter-label">Month</span>
+  <select id="month-filter" class="month-select" onchange="setMonth(this.value)">
+    <option value="all">All months</option>
+  </select>
+</div>
+
 <section class="events-section">
   <div class="events-grid" id="events-grid"></div>
   <div class="no-results" id="no-results">

@@ -272,6 +272,46 @@ header {
 
 .filter-btn.active { font-weight: 500; }
 
+/* ── Month filter ── */
+.filters-month-wrap {
+  padding: 1rem 2rem;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.month-select {
+  background: var(--tag-bg);
+  border: 1px solid var(--border);
+  color: var(--muted);
+  padding: 0.35rem 2rem 0.35rem 0.85rem;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.8rem;
+  cursor: pointer;
+  border-radius: 2px;
+  appearance: none;
+  -webkit-appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%237a7672'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.7rem center;
+  transition: all 0.15s;
+}
+
+.month-select:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  background-color: rgba(245,230,66,0.06);
+}
+
+.month-select.active {
+  border-color: var(--accent);
+  color: var(--accent);
+  font-weight: 500;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%23f5e642'/%3E%3C/svg%3E");
+  background-color: rgba(245,230,66,0.06);
+}
+
 /* ── Events grid ── */
 .events-section { padding: 2rem; }
 
