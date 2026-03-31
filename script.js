@@ -810,7 +810,7 @@ const events = [
     venue: "Leeds Dock",
     location: "Leeds, LS10",
     price: "From £11.75",
-    types: ["social", "family", "indoor", "outdoor", "workshop", "derby", "disco"],
+    types: ["social", "family", "indoor", "outdoor"],
     desc: "The centrepiece of the festival. Expect DJs, workshops, open skating, roller dance sessions and roller derby.",
     link: "https://www.theskatescholarship.com/northern-roll",
     free: false
