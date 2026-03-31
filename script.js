@@ -81,7 +81,7 @@ const events = [
     venue: "Sovereign Square",
     location: "Leeds City Centre",
     price: "Free",
-    types: ["outdoor", "social", "free"],
+    types: ["outdoor", "social"],
     desc: "Annual Worldwide Rollout Day skate through Leeds city centre landmarks. One of the year's biggest community skate events.",
     link: "#",
     free: true
