@@ -779,7 +779,7 @@ const events = [
     link: "https://www.theskatescholarship.com/product-page/2026-monday-community-roller-dance",
     free: false
   },
-      {
+    {
     id: 62,
     name: "Monday Community Roller Dance Class",
     day: "06", month: "Jul", year: "2026",
@@ -789,6 +789,42 @@ const events = [
     types: ["skillshare", "lesson"],
     desc: "Beginner-friendly roller dance sessions alternating between taught lessons and skill shares. Block booking recommended.",
     link: "https://www.theskatescholarship.com/product-page/2026-monday-community-roller-dance",
+    free: false
+  },
+    {
+    id: 63,
+    name: "Northern Roll 2026: Skate’n Play Friday",
+    day: "21", month: "Aug", year: "2026",
+    venue: "Leeds Dock",
+    location: "Leeds, LS10",
+    price: "From £16.75",
+    types: ["social", "family", "indoor"],
+    desc: "Inclusive, low-pressure, kick-off session built for families and anyone who wants a warm-up session before the main weekend",
+    link: "https://www.theskatescholarship.com/northern-roll",
+    free: false
+  },
+    {
+    id: 64,
+    name: "Northern Roll 2026: Saturday Roller Day",
+    day: "22", month: "Aug", year: "2026",
+    venue: "Leeds Dock",
+    location: "Leeds, LS10",
+    price: "From £11.75",
+    types: ["social", "family", "indoor", "outdoor", "workshop", "derby", "disco"],
+    desc: "The centrepiece of the festival. Expect DJs, workshops, open skating, roller dance sessions and roller derby.",
+    link: "https://www.theskatescholarship.com/northern-roll",
+    free: false
+  },
+    {
+    id: 65,
+    name: "Northern Roll 2026: Sunday Sessions",
+    day: "23", month: "Aug", year: "2026",
+    venue: "Leeds Dock",
+    location: "Leeds, LS10",
+    price: "From £16.75",
+    types: ["social", "family", "indoor", "outdoor"],
+    desc: "Signature skatepark takeover. Bowls, ramps, rails, coaching support - welcoming for all skill levels.",
+    link: "https://www.theskatescholarship.com/northern-roll",
     free: false
   }
 ];
