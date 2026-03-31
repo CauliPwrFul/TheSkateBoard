@@ -856,12 +856,15 @@ function initMonthFilter() {
     select.appendChild(opt);
   });
 
-  // Default to current month if it has events
+  // Use hash if present, otherwise default to current month
+  const hash = decodeURIComponent(window.location.hash.slice(1));
   const now = new Date();
   const currentKey = `${monthNames[now.getMonth()]} ${now.getFullYear()}`;
-  if (months.includes(currentKey)) {
-    select.value = currentKey;
-    currentMonth = currentKey;
+  const target = months.includes(hash) ? hash : months.includes(currentKey) ? currentKey : null;
+
+  if (target) {
+    select.value = target;
+    currentMonth = target;
     select.classList.add('active');
   }
 }
@@ -870,8 +873,20 @@ function setMonth(value) {
   const select = document.getElementById('month-filter');
   currentMonth = value === 'all' ? null : value;
   select.classList.toggle('active', value !== 'all');
+  window.location.hash = value === 'all' ? '' : encodeURIComponent(value);
   renderEvents();
 }
+
+// Keep filter in sync with browser back/forward navigation
+window.addEventListener('hashchange', () => {
+  const select = document.getElementById('month-filter');
+  const hash = decodeURIComponent(window.location.hash.slice(1));
+  const value = hash || 'all';
+  select.value = value;
+  currentMonth = value === 'all' ? null : value;
+  select.classList.toggle('active', value !== 'all');
+  renderEvents();
+});
 
 // ── Type filter ────────────────────────────────────────────────────────────
 function setFilter(type, btn) {
