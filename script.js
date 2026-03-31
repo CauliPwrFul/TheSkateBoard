@@ -671,6 +671,126 @@ const events = [
     link: "https://www.theskatesanctuary.co.uk/book",
     free: false
   },
+    {
+    id: 53,
+    name: "Monday Community Roller Dance Class",
+    day: "20", month: "Apr", year: "2026",
+    venue: "Skate Scholarship - Yorks Dance",
+    location: "Leeds, LS9",
+    price: "From £9",
+    types: ["lesson"],
+    desc: "Beginner-friendly roller dance sessions alternating between taught lessons and skill shares. Block booking recommended.",
+    link: "https://www.theskatescholarship.com/product-page/2026-monday-community-roller-dance",
+    free: false
+  },
+    {
+    id: 54,
+    name: "Monday Community Roller Dance Class",
+    day: "27", month: "Apr", year: "2026",
+    venue: "Skate Scholarship - Yorks Dance",
+    location: "Leeds, LS9",
+    price: "From £9",
+    types: ["lesson"],
+    desc: "Beginner-friendly roller dance sessions alternating between taught lessons and skill shares. Block booking recommended.",
+    link: "https://www.theskatescholarship.com/product-page/2026-monday-community-roller-dance",
+    free: false
+  },
+    {
+    id: 55,
+    name: "Monday Community Roller Dance Class",
+    day: "11", month: "May", year: "2026",
+    venue: "Skate Scholarship - Yorks Dance",
+    location: "Leeds, LS9",
+    price: "From £9",
+    types: ["lesson"],
+    desc: "Beginner-friendly roller dance sessions alternating between taught lessons and skill shares. Block booking recommended.",
+    link: "https://www.theskatescholarship.com/product-page/2026-monday-community-roller-dance",
+    free: false
+  },
+    {
+    id: 56,
+    name: "Monday Community Roller Dance Class",
+    day: "18", month: "May", year: "2026",
+    venue: "Skate Scholarship - Yorks Dance",
+    location: "Leeds, LS9",
+    price: "From £9",
+    types: ["lesson"],
+    desc: "Beginner-friendly roller dance sessions alternating between taught lessons and skill shares. Block booking recommended.",
+    link: "https://www.theskatescholarship.com/product-page/2026-monday-community-roller-dance",
+    free: false
+  },
+    {
+    id: 57,
+    name: "Monday Community Roller Dance Class",
+    day: "01", month: "Jun", year: "2026",
+    venue: "Skate Scholarship - Yorks Dance",
+    location: "Leeds, LS9",
+    price: "From £9",
+    types: ["lesson"],
+    desc: "Beginner-friendly roller dance sessions alternating between taught lessons and skill shares. Block booking recommended.",
+    link: "https://www.theskatescholarship.com/product-page/2026-monday-community-roller-dance",
+    free: false
+  },
+    {
+    id: 58,
+    name: "Monday Community Roller Dance Class",
+    day: "08", month: "Jun", year: "2026",
+    venue: "Skate Scholarship - Yorks Dance",
+    location: "Leeds, LS9",
+    price: "From £9",
+    types: ["lesson"],
+    desc: "Beginner-friendly roller dance sessions alternating between taught lessons and skill shares. Block booking recommended.",
+    link: "https://www.theskatescholarship.com/product-page/2026-monday-community-roller-dance",
+    free: false
+  },
+    {
+    id: 59,
+    name: "Monday Community Roller Dance Class",
+    day: "15", month: "Jun", year: "2026",
+    venue: "Skate Scholarship - Yorks Dance",
+    location: "Leeds, LS9",
+    price: "From £9",
+    types: ["skillshare", "lesson"],
+    desc: "Beginner-friendly roller dance sessions alternating between taught lessons and skill shares. Block booking recommended.",
+    link: "https://www.theskatescholarship.com/product-page/2026-monday-community-roller-dance",
+    free: false
+  },
+    {
+    id: 60,
+    name: "Monday Community Roller Dance Class",
+    day: "22", month: "Jun", year: "2026",
+    venue: "Skate Scholarship - Yorks Dance",
+    location: "Leeds, LS9",
+    price: "From £9",
+    types: ["lesson"],
+    desc: "Beginner-friendly roller dance sessions alternating between taught lessons and skill shares. Block booking recommended.",
+    link: "https://www.theskatescholarship.com/product-page/2026-monday-community-roller-dance",
+    free: false
+  },
+    {
+    id: 61,
+    name: "Monday Community Roller Dance Class",
+    day: "29", month: "Jun", year: "2026",
+    venue: "Skate Scholarship - Yorks Dance",
+    location: "Leeds, LS9",
+    price: "From £9",
+    types: ["lesson"],
+    desc: "Beginner-friendly roller dance sessions alternating between taught lessons and skill shares. Block booking recommended.",
+    link: "https://www.theskatescholarship.com/product-page/2026-monday-community-roller-dance",
+    free: false
+  },
+      {
+    id: 62,
+    name: "Monday Community Roller Dance Class",
+    day: "06", month: "Jul", year: "2026",
+    venue: "Skate Scholarship - Yorks Dance",
+    location: "Leeds, LS9",
+    price: "From £9",
+    types: ["skillshare", "lesson"],
+    desc: "Beginner-friendly roller dance sessions alternating between taught lessons and skill shares. Block booking recommended.",
+    link: "https://www.theskatescholarship.com/product-page/2026-monday-community-roller-dance",
+    free: false
+  }
 ];
 
 // ── Stats ──────────────────────────────────────────────────────────────────
