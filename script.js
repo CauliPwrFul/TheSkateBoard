@@ -798,7 +798,7 @@ const events = [
     venue: "Leeds Dock",
     location: "Leeds, LS10",
     price: "From £16.75",
-    types: ["social", "family", "indoor"],
+    types: ["social", "family"],
     desc: "Inclusive, low-pressure, kick-off session built for families and anyone who wants a warm-up session before the main weekend",
     link: "https://www.theskatescholarship.com/northern-roll",
     free: false
@@ -810,7 +810,7 @@ const events = [
     venue: "Leeds Dock",
     location: "Leeds, LS10",
     price: "From £11.75",
-    types: ["social", "family", "indoor", "outdoor"],
+    types: ["social", "family", "outdoor"],
     desc: "The centrepiece of the festival. Expect DJs, workshops, open skating, roller dance sessions and roller derby.",
     link: "https://www.theskatescholarship.com/northern-roll",
     free: false
@@ -822,7 +822,7 @@ const events = [
     venue: "Leeds Dock",
     location: "Leeds, LS10",
     price: "From £16.75",
-    types: ["social", "family", "indoor", "outdoor"],
+    types: ["social", "family", "outdoor"],
     desc: "Signature skatepark takeover. Bowls, ramps, rails, coaching support - welcoming for all skill levels.",
     link: "https://www.theskatescholarship.com/northern-roll",
     free: false
