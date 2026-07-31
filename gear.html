@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>The Skate Board — Rollerskating Events in Leeds</title>
+  <title>Skate Gear — The Skate Board</title>
   <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
   <script src="https://server.fillout.com/embed/v1/"></script>
@@ -11,7 +11,7 @@
 <body>
 
 <header>
-  <a href="#" class="logo">
+  <a href="index.html" class="logo">
     <span class="logo-the">the</span>
     <div class="logo-wrap">
       <span class="logo-notice">the roller skating notice board</span>
@@ -37,8 +37,8 @@
       style="position:absolute;opacity:0;pointer-events:none;width:0;height:0;overflow:hidden;">
     </div>
     <nav class="site-nav">
-      <a href="index.html" class="nav-link active">Find Events</a>
-      <a href="gear.html" class="nav-link">Get Gear</a>
+      <a href="index.html" class="nav-link">Find Events</a>
+      <a href="gear.html" class="nav-link active">Get Gear</a>
     </nav>
     <!-- Visible CTA — calls openFillout() -->
     <button class="submit-cta" onclick="openFillout()">+ Submit an Event</button>
@@ -52,43 +52,15 @@
 <section class="hero">
   <div class="hero-wheel">🛼</div>
   <p class="hero-eyebrow">Leeds & West Yorkshire</p>
-  <h1>Find your<br><em>next skate.</em></h1>
-  <p class="hero-sub">Roller discos, lessons, outdoor skates, derby bouts — every Leeds skating event, one place.</p>
+  <h1>Find your<br><em>next skate gear.</em></h1>
+  <p class="hero-sub">Boots, wheels, protection, tools — the kit we've actually bought, worn out and bought again.</p>
 </section>
 
-<div class="stats-bar">
-  <div class="stat"><strong id="upcoming-count">—</strong>Upcoming events</div>
-  <div class="stat"><strong id="venue-count">—</strong>Venues</div>
-  <div class="stat"><strong>Leeds</strong>Based in</div>
-</div>
-
-<div class="filters-wrap">
-  <span class="filter-label">Filter</span>
-  <button class="filter-btn active" onclick="setFilter('all', this)">All</button>
-  <button class="filter-btn" onclick="setFilter('disco', this)">🪩 Disco</button>
-  <button class="filter-btn" onclick="setFilter('lesson', this)">🎓 Lessons</button>
-  <button class="filter-btn" onclick="setFilter('outdoor', this)">🌳 Outdoor</button>
-  <button class="filter-btn" onclick="setFilter('social', this)">🤝 Social</button>
-  <button class="filter-btn" onclick="setFilter('derby', this)">⚡ Derby</button>
-  <button class="filter-btn" onclick="setFilter('family', this)">👨‍👩‍👧 Family</button>
-  <button class="filter-btn" onclick="setFilter('free', this)">🆓 Free</button>
-</div>
-
-<div class="filters-month-wrap">
-  <span class="filter-label">Month</span>
-  <select id="month-filter" class="month-select" onchange="setMonth(this.value)">
-    <option value="all">All months</option>
-  </select>
-</div>
-
-<section class="events-section">
-  <div class="events-grid" id="events-grid"></div>
-  <div class="no-results" id="no-results">
-    <p style="font-size:2rem;margin-bottom:0.5rem">🛼</p>
-    <p>No events found for that filter.<br>
-    Know of one? <span class="fillout-trigger" onclick="openFillout()">Add it →</span></p>
-  </div>
+<section class="gear-section">
+  <div class="gear-grid" id="gear-grid"></div>
 </section>
+
+<p class="gear-disclosure">As an Amazon Associate, The Skate Board earns from qualifying purchases — this doesn't change the price you pay.</p>
 
 <div class="support-strip">
   <div class="support-text">
@@ -101,7 +73,7 @@
 </div>
 
 <footer>
-  <a href="#" class="footer-logo">
+  <a href="index.html" class="footer-logo">
     <span class="footer-the">the</span>
     <span class="footer-skate">Skate</span>
     <span class="footer-board">Board</span>
@@ -116,6 +88,6 @@
   <aside class="sidebar sidebar-right"></aside>
 </div><!-- /.page-body -->
 
-<script src="script.js"></script>
+<script src="gear.js"></script>
 </body>
 </html>
