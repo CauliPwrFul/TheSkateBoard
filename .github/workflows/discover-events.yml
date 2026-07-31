@@ -1,0 +1,49 @@
+name: Discover events
+
+on:
+  schedule:
+    # Runs daily at 07:00 UTC. To review less often, change to every 3 days
+    # ('0 7 */3 * *') or weekly ('0 7 * * 1') — compute cost is negligible
+    # either way, this only affects how often new PRs show up.
+    - cron: "0 7 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Configure git identity
+        run: |
+          git config user.name "skate-board-bot"
+          git config user.email "actions@github.com"
+
+      - name: Ensure auto-discovered label exists
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh label create auto-discovered --color FBCA04 --description "Opened automatically by the event discovery workflow" || true
+
+      - name: Run event discovery
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/discover-events/main.py --apply
+
+      - name: Commit updated dedupe ledger
+        run: |
+          git checkout main
+          if [ -n "$(git status --porcelain -- data/discovered-events-seen.json)" ]; then
+            git add data/discovered-events-seen.json
+            git commit -m "Update discovered-events ledger"
+            git push origin main
+          fi
