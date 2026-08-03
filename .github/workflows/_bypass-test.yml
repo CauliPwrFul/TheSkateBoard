@@ -1,0 +1,20 @@
+name: Bypass test (temporary)
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  test-push:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          git config user.name "skate-board-bot"
+          git config user.email "actions@github.com"
+          echo "bypass test $(date -u)" >> .github/BYPASS_TEST.txt
+          git add .github/BYPASS_TEST.txt
+          git commit -m "Bypass test push"
+          git push origin main
