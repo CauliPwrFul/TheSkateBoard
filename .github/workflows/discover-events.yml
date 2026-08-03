@@ -40,10 +40,19 @@ jobs:
         run: python3 scripts/discover-events/main.py --apply
 
       - name: Commit updated dedupe ledger
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           git checkout main
           if [ -n "$(git status --porcelain -- data/discovered-events-seen.json)" ]; then
+            branch="chore/update-ledger-$(date -u +%Y%m%d-%H%M%S)"
+            git checkout -b "$branch"
             git add data/discovered-events-seen.json
             git commit -m "Update discovered-events ledger"
-            git push origin main
+            git push origin "$branch"
+            gh pr create --base main --head "$branch" \
+              --title "Update discovered-events ledger" \
+              --body "Automated bookkeeping — records which events have already been proposed so they aren't proposed again." \
+              --label auto-discovered
+            gh pr merge "$branch" --squash --delete-branch
           fi
