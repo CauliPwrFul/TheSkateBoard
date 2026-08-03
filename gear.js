@@ -49,25 +49,44 @@ const products = [
   }
 ];
 
+function escapeHtml(value) {
+  const div = document.createElement('div');
+  div.textContent = value ?? '';
+  return div.innerHTML;
+}
+
+function safeHref(url) {
+  try {
+    const parsed = new URL(url, window.location.href);
+    return parsed.protocol === 'http:' || parsed.protocol === 'https:' ? parsed.href : null;
+  } catch {
+    return null;
+  }
+}
+
 function renderGear() {
   const grid = document.getElementById('gear-grid');
   grid.innerHTML = '';
 
   products.forEach((p, i) => {
+    const href = safeHref(p.link);
+    const imgSrc = safeHref(p.image);
+    if (!href || !imgSrc) return; // don't render a card we can't safely link/image
+
     const card = document.createElement('a');
     card.className = 'gear-card';
-    card.href = p.link;
+    card.href = href;
     card.target = '_blank';
     card.rel = 'nofollow sponsored noopener';
     card.style.animationDelay = `${i * 0.05}s`;
     card.innerHTML = `
       <div class="gear-photo">
-        <span class="gear-cat">${p.category}</span>
-        <img src="${p.image}" alt="${p.name}" loading="lazy">
+        <span class="gear-cat">${escapeHtml(p.category)}</span>
+        <img src="${escapeHtml(imgSrc)}" alt="${escapeHtml(p.name)}" loading="lazy">
       </div>
       <div class="gear-body">
-        <div class="gear-name">${p.name}</div>
-        <div class="gear-desc">${p.desc}</div>
+        <div class="gear-name">${escapeHtml(p.name)}</div>
+        <div class="gear-desc">${escapeHtml(p.desc)}</div>
         <div class="gear-footer">
           <span class="gear-link">Shop on Amazon →</span>
         </div>

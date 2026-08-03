@@ -897,6 +897,23 @@ function setFilter(type, btn) {
 }
 
 // ── Render ─────────────────────────────────────────────────────────────────
+// Event data now includes anything auto-discovered by scraping third-party
+// sites, so it's untrusted input — never interpolate it into innerHTML raw.
+function escapeHtml(value) {
+  const div = document.createElement('div');
+  div.textContent = value ?? '';
+  return div.innerHTML;
+}
+
+function safeHref(url) {
+  try {
+    const parsed = new URL(url, window.location.href);
+    return parsed.protocol === 'http:' || parsed.protocol === 'https:' ? parsed.href : null;
+  } catch {
+    return null;
+  }
+}
+
 function renderEvents() {
   const grid = document.getElementById('events-grid');
   const noResults = document.getElementById('no-results');
@@ -933,8 +950,10 @@ function renderEvents() {
     if (!show) return;
     visible++;
 
-    const tagHtml = e.types.map(t => `<span class="tag tag-${t}">${t}</span>`).join('')
+    const tagHtml = e.types.map(t => `<span class="tag tag-${escapeHtml(t)}">${escapeHtml(t)}</span>`).join('')
       + (e.free ? '<span class="tag tag-free">free</span>' : '');
+
+    const href = e.link && e.link !== '#' ? safeHref(e.link) : null;
 
     const card = document.createElement('div');
     card.className = 'event-card';
@@ -942,22 +961,22 @@ function renderEvents() {
     card.innerHTML = `
       <div class="card-top">
         <div class="event-date">
-          <span class="date-day">${e.day}</span>
-          <span class="date-month">${e.month} '${e.year.slice(2)}</span>
+          <span class="date-day">${escapeHtml(e.day)}</span>
+          <span class="date-month">${escapeHtml(e.month)} '${escapeHtml(e.year.slice(2))}</span>
         </div>
         <div class="event-tags">${tagHtml}</div>
       </div>
-      <div class="event-name">${e.name}</div>
+      <div class="event-name">${escapeHtml(e.name)}</div>
       <div class="event-meta">
-        <div class="meta-row"><span class="meta-icon">📍</span>${e.venue}</div>
-        <div class="meta-row"><span class="meta-icon">🗺</span>${e.location}</div>
-        ${e.time ? `<div class="meta-row"><span class="meta-icon">🕐</span>${e.time}</div>` : ''}
+        <div class="meta-row"><span class="meta-icon">📍</span>${escapeHtml(e.venue)}</div>
+        <div class="meta-row"><span class="meta-icon">🗺</span>${escapeHtml(e.location)}</div>
+        ${e.time ? `<div class="meta-row"><span class="meta-icon">🕐</span>${escapeHtml(e.time)}</div>` : ''}
       </div>
-      <div class="event-desc">${e.desc}</div>
+      <div class="event-desc">${escapeHtml(e.desc)}</div>
       <div class="card-footer">
-        <span class="event-price">${e.price}</span>
-        ${e.link && e.link !== '#'
-          ? `<a href="${e.link}" target="_blank" rel="nofollow noopener" class="event-link">More info →</a>`
+        <span class="event-price">${escapeHtml(e.price)}</span>
+        ${href
+          ? `<a href="${escapeHtml(href)}" target="_blank" rel="nofollow noopener" class="event-link">More info →</a>`
           : `<span style="color:var(--muted);font-size:0.78rem">Details TBC</span>`}
       </div>
     `;
