@@ -82,6 +82,10 @@ def fetch_events():
             else ["Price not available from source page — please confirm and edit."]
         )
 
+        types, types_matched = infer_types(name, desc)
+        if not types_matched:
+            notes.append('No keyword match for a type — defaulted to "social", please check.')
+
         results.append(
             {
                 "source_key": f"sanctuary:{event['id']}",
@@ -95,7 +99,7 @@ def fetch_events():
                 "location": location,
                 "price": price,
                 "desc": desc,
-                "types": infer_types(name, desc),
+                "types": types,
                 "free": infer_free(price, name, desc),
                 "link": f"{SOURCE_URL}event-details/{event['slug']}",
                 "region": "West Yorkshire",
