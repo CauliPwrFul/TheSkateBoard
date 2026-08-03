@@ -841,8 +841,17 @@ function initMonthFilter() {
   const monthMap = { Jan:0, Feb:1, Mar:2, Apr:3, May:4, Jun:5, Jul:6, Aug:7, Sep:8, Oct:9, Nov:10, Dec:11 };
   const monthNames = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
 
-  // Collect unique month/year combos from events, sorted chronologically
+  const now = new Date();
+  const currentMonthStart = new Date(now.getFullYear(), now.getMonth(), 1);
+
+  // Collect unique month/year combos from events, dropping any that are
+  // entirely in the past (selecting one always shows zero events, since
+  // renderEvents() hides past events regardless of the month filter).
   const months = [...new Set(events.map(e => `${e.month} ${e.year}`))]
+    .filter(m => {
+      const [mo, yr] = m.split(' ');
+      return new Date(parseInt(yr), monthMap[mo], 1) >= currentMonthStart;
+    })
     .sort((a, b) => {
       const [ma, ya] = a.split(' ');
       const [mb, yb] = b.split(' ');
@@ -858,7 +867,6 @@ function initMonthFilter() {
 
   // Use hash if present, otherwise default to current month
   const hash = decodeURIComponent(window.location.hash.slice(1));
-  const now = new Date();
   const currentKey = `${monthNames[now.getMonth()]} ${now.getFullYear()}`;
   const target = months.includes(hash) ? hash : months.includes(currentKey) ? currentKey : null;
 
