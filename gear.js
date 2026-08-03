@@ -46,6 +46,54 @@ const products = [
     desc: "Well-ventilated and genuinely adjustable as heads grow — comes in plenty of colours.",
     image: "https://m.media-amazon.com/images/I/619Pgk8RbAL._AC_SL1500_.jpg",
     link: "https://amzn.to/3RDMRAH"
+  },
+  {
+    id: 7,
+    name: "Rookie Rosa Quad Roller Skates",
+    category: "Boots",
+    desc: "The black pair I actually learned on — a solid, forgiving starter boot for finding your feet.",
+    image: "https://m.media-amazon.com/images/I/81BVPIUyErL._AC_SL1500_.jpg",
+    link: "https://amzn.to/4bs0BFi"
+  },
+  {
+    id: 8,
+    name: "ROOKIE Artistic Roller Skates",
+    category: "Boots",
+    desc: "What I upgraded to once I outgrew my starters — my indoor pair until they were stolen.",
+    image: "https://m.media-amazon.com/images/I/61Yf-I0sMoL._AC_SL1000_.jpg",
+    link: "https://amzn.to/4wC42BD"
+  },
+  {
+    id: 9,
+    name: "Rookie Rosa Roller Skates (White)",
+    category: "Boots",
+    desc: "Still my go-to pair today — reliable enough that I've never felt the need to replace them.",
+    image: "https://m.media-amazon.com/images/I/51nuiaPAgvL._AC_SL1000_.jpg",
+    link: "https://amzn.to/4w0JyS5"
+  },
+  {
+    id: 10,
+    name: "Closca Foldable Helmet",
+    category: "Safety",
+    desc: "Folds flat enough to actually fit in a bag — no excuse not to wear it.",
+    image: "https://m.media-amazon.com/images/I/51uLMaCcszL._AC_SL1400_.jpg",
+    link: "https://amzn.to/4yX1zDt"
+  },
+  {
+    id: 11,
+    name: "XIZHI Training Cones (50 Pack + Bag)",
+    category: "Training",
+    desc: "What I set up for footwork and edge drills — genuinely useful once you're past total beginner.",
+    image: "https://m.media-amazon.com/images/I/51EwlZmkGoL._AC_SL1000_.jpg",
+    link: "https://amzn.to/4bqqm8Z"
+  },
+  {
+    id: 12,
+    name: "Anker Soundcore Bluetooth Speaker",
+    category: "Extras",
+    desc: "Skating's just better with a soundtrack — clips on, loud enough for a driveway session.",
+    image: "https://m.media-amazon.com/images/I/61y+b4M0RZL._AC_SL1200_.jpg",
+    link: "https://amzn.to/3TCnqA3"
   }
 ];
 
