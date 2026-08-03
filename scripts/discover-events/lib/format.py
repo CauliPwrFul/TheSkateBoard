@@ -35,14 +35,18 @@ def clean_text(text):
 
 
 def infer_types(name, desc=""):
+    """Returns (types, matched) — matched is False when nothing in
+    TYPE_KEYWORDS hit and we fell back to the "social" default, so callers
+    can flag that guess for review rather than presenting it as confident."""
     haystack = f"{name} {desc}".lower()
     types = []
     for keyword, tag in TYPE_KEYWORDS:
         if keyword in haystack and tag not in types:
             types.append(tag)
+    matched = bool(types)
     if not types:
         types.append("social")
-    return types
+    return types, matched
 
 
 def extract_price_from_text(text):

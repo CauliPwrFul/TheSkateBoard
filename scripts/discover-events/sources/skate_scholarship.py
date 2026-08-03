@@ -85,6 +85,14 @@ def fetch_events():
         if parsed_date < date.today():
             continue
 
+        types, types_matched = infer_types(name)
+        type_notes = notes + [
+            "Venue/location defaulted to the org's general Leeds address — the listing page doesn't show the specific venue, please confirm.",
+            "No description available from the shop grid — consider adding one.",
+        ]
+        if not types_matched:
+            type_notes.append('No keyword match for a type — defaulted to "social", please check.')
+
         results.append(
             {
                 "source_key": f"scholarship:{slug}",
@@ -98,14 +106,11 @@ def fetch_events():
                 "location": "Leeds",
                 "price": price,
                 "desc": "",
-                "types": infer_types(name),
+                "types": types,
                 "free": infer_free(price, name),
                 "link": link,
                 "region": "West Yorkshire",
-                "_confidence_notes": notes + [
-                    "Venue/location defaulted to the org's general Leeds address — the listing page doesn't show the specific venue, please confirm.",
-                    "No description available from the shop grid — consider adding one.",
-                ],
+                "_confidence_notes": type_notes,
             }
         )
 
