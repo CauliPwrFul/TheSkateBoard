@@ -94,6 +94,14 @@ const products = [
     desc: "Skating's just better with a soundtrack — clips on, loud enough for a driveway session.",
     image: "https://m.media-amazon.com/images/I/61y+b4M0RZL._AC_SL1200_.jpg",
     link: "https://amzn.to/3TCnqA3"
+  },
+  {
+    id: 13,
+    name: "SKATEWIZ Protective Set (6 Pieces)",
+    category: "Protection",
+    desc: "Knee, elbow and wrist guards in one set — what I actually wear, not just knee pads on their own.",
+    image: "https://m.media-amazon.com/images/I/81lY7xWg2DL._AC_SL1500_.jpg",
+    link: "https://amzn.to/4pTl5Nh"
   }
 ];
 

@@ -8,7 +8,114 @@ fetch('events.json')
     document.getElementById('venue-count').textContent = new Set(events.map(e => e.venue)).size;
     initMonthFilter();
     renderEvents();
+    renderEventStructuredData(events);
   });
+
+// ── Structured data (schema.org Event) ───────────────────────────────────────
+// Describes every upcoming event regardless of the visitor's active filter
+// or month selection, so search engines see the full catalogue rather than
+// whatever happens to be showing on first load.
+const SD_MONTH_MAP = { Jan:0, Feb:1, Mar:2, Apr:3, May:4, Jun:5, Jul:6, Aug:7, Sep:8, Oct:9, Nov:10, Dec:11 };
+
+function isBST(date) {
+  const year = date.getUTCFullYear();
+  const lastSunday = (month) => {
+    const d = new Date(Date.UTC(year, month + 1, 0)); // last day of that month
+    d.setUTCDate(d.getUTCDate() - d.getUTCDay());
+    d.setUTCHours(1, 0, 0, 0); // clocks change at 01:00 UTC
+    return d;
+  };
+  const bstStart = lastSunday(2); // last Sunday in March
+  const bstEnd = lastSunday(9); // last Sunday in October
+  return date >= bstStart && date < bstEnd;
+}
+
+function sdClockTime(str) {
+  const match = str && str.match(/(\d{1,2}):(\d{2})\s*(am|pm)/i);
+  if (!match) return null;
+  let hh = parseInt(match[1], 10);
+  const period = match[3].toLowerCase();
+  if (period === 'pm' && hh !== 12) hh += 12;
+  if (period === 'am' && hh === 12) hh = 0;
+  return { hh: String(hh).padStart(2, '0'), mm: match[2] };
+}
+
+function sdTimeRange(timeStr) {
+  if (!timeStr) return { start: null, end: null };
+  const parts = timeStr.split(/[–-]/).map(s => s.trim());
+  return { start: sdClockTime(parts[0]), end: parts[1] ? sdClockTime(parts[1]) : null };
+}
+
+function sdDateOnly(e) {
+  const m = SD_MONTH_MAP[e.month];
+  return `${e.year}-${String(m + 1).padStart(2, '0')}-${String(parseInt(e.day, 10)).padStart(2, '0')}`;
+}
+
+function sdOffset(e) {
+  const m = SD_MONTH_MAP[e.month];
+  const noon = new Date(Date.UTC(parseInt(e.year, 10), m, parseInt(e.day, 10), 12));
+  return isBST(noon) ? '+01:00' : '+00:00';
+}
+
+function sdDateTime(e, clock) {
+  const dateOnly = sdDateOnly(e);
+  return clock ? `${dateOnly}T${clock.hh}:${clock.mm}:00${sdOffset(e)}` : dateOnly;
+}
+
+function sdOfferPrice(priceStr) {
+  if (!priceStr) return null;
+  if (/free/i.test(priceStr)) return 0;
+  const match = priceStr.match(/£\s?(\d+(?:\.\d{2})?)/);
+  return match ? parseFloat(match[1]) : null;
+}
+
+function renderEventStructuredData(allEvents) {
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+
+  const upcomingAll = allEvents.filter(e => {
+    const eventDate = new Date(parseInt(e.year), SD_MONTH_MAP[e.month], parseInt(e.day));
+    return eventDate >= today;
+  });
+
+  const items = upcomingAll.map(e => {
+    const { start, end } = sdTimeRange(e.time);
+    const item = {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": e.name,
+      "startDate": sdDateTime(e, start),
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": e.venue,
+        "address": e.location
+      },
+      "description": e.desc
+    };
+    if (end) item.endDate = sdDateTime(e, end);
+    if (e.link && e.link !== '#') {
+      const price = sdOfferPrice(e.price);
+      item.offers = {
+        "@type": "Offer",
+        "url": e.link,
+        "availability": "https://schema.org/InStock",
+        ...(price !== null ? { "price": price, "priceCurrency": "GBP" } : {})
+      };
+    }
+    return item;
+  });
+
+  let script = document.getElementById('event-structured-data');
+  if (!script) {
+    script = document.createElement('script');
+    script.type = 'application/ld+json';
+    script.id = 'event-structured-data';
+    document.head.appendChild(script);
+  }
+  script.textContent = JSON.stringify(items);
+}
 
 let currentFilter = 'all';
 let currentMonth = null; // null = all months; "Apr 2026" format when set
