@@ -1,0 +1,1185 @@
+[
+  {
+    "id": 1,
+    "name": "Friday Night Social Roller Skate Disco",
+    "day": "10",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "From £10-£15",
+    "types": [
+      "disco",
+      "social"
+    ],
+    "desc": "Weekly Friday night roller disco for ages 17+. All abilities welcome. Music, lights, and good vibes.",
+    "time": "7:00pm – 10:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 2,
+    "name": "Improvers: Learn to Rollerskate",
+    "day": "02",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "Skate Scholarship - Youth Hub",
+    "location": "Leeds, LS10",
+    "price": "From £8",
+    "types": [
+      "lesson"
+    ],
+    "desc": "These sessions focus on improving technique, control, balance, and introducing new skills.",
+    "link": "https://www.theskatescholarship.com/product-page/improvers-learn-to-rollerskate",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 3,
+    "name": "Monday Community Roller Dance Class",
+    "day": "30",
+    "month": "Mar",
+    "year": "2026",
+    "venue": "Skate Scholarship - Yorks Dance",
+    "location": "Leeds, LS9",
+    "price": "From £9",
+    "types": [
+      "lesson"
+    ],
+    "desc": "A friendly, no-pressure space to learn the art of roller dance together",
+    "link": "https://www.theskatescholarship.com/product-page/2026-monday-community-roller-dance",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 4,
+    "name": "AJ's Roller Disco — Sunday Session",
+    "day": "12",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "AJ's Roller Disco",
+    "location": "Bradford, BD3",
+    "price": "£6–£8",
+    "types": [
+      "disco",
+      "family"
+    ],
+    "desc": "Classic roller disco every Sunday afternoon 2–4pm. All ages, all levels. Skate hire on site.",
+    "time": "2:00pm – 4:00pm",
+    "link": "https://www.ajsrollerdisco.co.uk/",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 5,
+    "name": "AJ's Roller Disco — Sunday Session",
+    "day": "19",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "AJ's Roller Disco",
+    "location": "Bradford, BD3",
+    "price": "£6–£8",
+    "types": [
+      "disco",
+      "family"
+    ],
+    "desc": "Classic roller disco every Sunday afternoon 2–4pm. All ages, all levels. Skate hire on site.",
+    "time": "2:00pm – 4:00pm",
+    "link": "https://www.ajsrollerdisco.co.uk/",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 6,
+    "name": "Friday Nights for the Quad and Inline Skaters",
+    "day": "03",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "LS-TEN Skatepark",
+    "location": "Leeds, LS10",
+    "price": "£11.50",
+    "types": [
+      "social"
+    ],
+    "desc": "Open sessions at Leeds' premier indoor skatepark.",
+    "link": "https://ls-ten.org/quad-and-roller-skate-night",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 7,
+    "name": "Worldwide Rollout Day",
+    "day": "26",
+    "month": "Jul",
+    "year": "2026",
+    "venue": "Sovereign Square",
+    "location": "Leeds City Centre",
+    "price": "Free",
+    "types": [
+      "outdoor",
+      "social"
+    ],
+    "desc": "Annual Worldwide Rollout Day skate through Leeds city centre landmarks. One of the year's biggest community skate events.",
+    "link": "#",
+    "free": true,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 8,
+    "name": "Skate Meetup @ The Tetley",
+    "day": "04",
+    "month": "May",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "Free",
+    "types": [
+      "outdoor",
+      "social",
+      "free"
+    ],
+    "desc": "This year's skate meetup is funded by Sports England. Attend and receive a voucher for a free gift.",
+    "time": "6:00pm – 8:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/events/free-skate-meetup-the-tetley-2026-05-04-18-00",
+    "free": true,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 9,
+    "name": "Level 1 Roller Skate Fundamentals",
+    "day": "12",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "£9",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Skate Sanctuary will support you to feel more confident on your wheels. Skate hire available for a small additional fee.",
+    "time": "10:00am – 11:00am",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 10,
+    "name": "Level 1 Roller Skate Fundamentals",
+    "day": "19",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "£9",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Skate Sanctuary will support you to feel more confident on your wheels. Skate hire available for a small additional fee.",
+    "time": "10:00am – 11:00am",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 11,
+    "name": "Level 1 Roller Skate Fundamentals",
+    "day": "26",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "£9",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Skate Sanctuary will support you to feel more confident on your wheels. Skate hire available for a small additional fee.",
+    "time": "10:00am – 11:00am",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 12,
+    "name": "Roller Skate Super Session Level 2-4 (14+)",
+    "day": "26",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£16-£20",
+    "types": [
+      "lesson"
+    ],
+    "desc": "2hrs to develop new skills at the Sikh Sports Hall. Build on the techniques you have learnt in a larger space.",
+    "time": "4:00pm – 6:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 13,
+    "name": "Roller Skate Super Session Level 2-4 (14+)",
+    "day": "24",
+    "month": "May",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£16-£20",
+    "types": [
+      "lesson"
+    ],
+    "desc": "2hrs to develop new skills at the Sikh Sports Hall. Build on the techniques you have learnt in a larger space.",
+    "time": "4:00pm – 6:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 14,
+    "name": "Roller Skate Super Session Level 2-4 (14+)",
+    "day": "26",
+    "month": "Jun",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£16-£20",
+    "types": [
+      "lesson"
+    ],
+    "desc": "2hrs to develop new skills at the Sikh Sports Hall. Build on the techniques you have learnt in a larger space.",
+    "time": "4:00pm – 6:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 15,
+    "name": "Roller Skate Super Session Level 2-4 (14+)",
+    "day": "26",
+    "month": "Jul",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£16-£20",
+    "types": [
+      "lesson"
+    ],
+    "desc": "2hrs to develop new skills at the Sikh Sports Hall. Build on the techniques you have learnt in a larger space.",
+    "time": "4:00pm – 6:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 16,
+    "name": "Roller Skate Super Session Level 2-4 (14+)",
+    "day": "23",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£16-£20",
+    "types": [
+      "lesson"
+    ],
+    "desc": "2hrs to develop new skills at the Sikh Sports Hall. Build on the techniques you have learnt in a larger space.",
+    "time": "4:00pm – 6:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 17,
+    "name": "Roller Skate Super Session Level 2-4 (14+)",
+    "day": "20",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£16-£20",
+    "types": [
+      "lesson"
+    ],
+    "desc": "2hrs to develop new skills at the Sikh Sports Hall. Build on the techniques you have learnt in a larger space.",
+    "time": "4:00pm – 6:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 18,
+    "name": "Roller Skate Super Session Level 2-4 (14+)",
+    "day": "18",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£16-£20",
+    "types": [
+      "lesson"
+    ],
+    "desc": "2hrs to develop new skills at the Sikh Sports Hall. Build on the techniques you have learnt in a larger space.",
+    "time": "4:00pm – 6:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 19,
+    "name": "Roller Skate Super Session Level 2-4 (14+)",
+    "day": "22",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£16-£20",
+    "types": [
+      "lesson"
+    ],
+    "desc": "2hrs to develop new skills at the Sikh Sports Hall. Build on the techniques you have learnt in a larger space.",
+    "time": "4:00pm – 6:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 20,
+    "name": "Adult Learn to Roller Skate Taster Session",
+    "day": "04",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "£9.23",
+    "types": [
+      "taster"
+    ],
+    "desc": "Get rolling with the big kids. Most of our adult sessions are attended by people 40+.",
+    "time": "10:00am – 11:00am",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 21,
+    "name": "Adult Learn to Roller Skate Taster Session",
+    "day": "04",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "£9.23",
+    "types": [
+      "taster"
+    ],
+    "desc": "Get rolling with the big kids. Most of our adult sessions are attended by people 40+.",
+    "time": "11:00am – 12:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 22,
+    "name": "Adult Learn to Roller Skate Taster Session",
+    "day": "13",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "£9.23",
+    "types": [
+      "taster"
+    ],
+    "desc": "Get rolling with the big kids. Most of our adult sessions are attended by people 40+.",
+    "time": "6:00pm – 7:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 23,
+    "name": "Neurodivergent friendly - Wheels of Connection",
+    "day": "07",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "£0-£3.08",
+    "types": [
+      "lesson"
+    ],
+    "desc": "A session, with coaches, specifically for skaters with neurodivergence to come together in a low-stimulus environment.",
+    "time": "6:00pm – 7:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 24,
+    "name": "Neurodivergent friendly - Wheels of Connection",
+    "day": "21",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "£0-£3.08",
+    "types": [
+      "lesson"
+    ],
+    "desc": "A session, with coaches, specifically for skaters with neurodivergence to come together in a low-stimulus environment.",
+    "time": "6:00pm – 7:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 25,
+    "name": "Neurodivergent friendly - Wheels of Connection",
+    "day": "28",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "£0-£3.08",
+    "types": [
+      "lesson"
+    ],
+    "desc": "A session, with coaches, specifically for skaters with neurodivergence to come together in a low-stimulus environment.",
+    "time": "6:00pm – 7:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 26,
+    "name": "Introduction to Dribbles and Crazy Legs",
+    "day": "07",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "£13.33",
+    "types": [
+      "lesson"
+    ],
+    "desc": "A session designed to introduce the roller dance skills and techniques.",
+    "time": "8:00pm – 9:15pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 27,
+    "name": "Introduction to Combos & Re-Cap",
+    "day": "21",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "£13.33",
+    "types": [
+      "lesson"
+    ],
+    "desc": "A session designed to introduce the roller dance skills and techniques.",
+    "time": "8:00pm – 9:15pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 28,
+    "name": "Roller Dance Drills - Level 2-3 (Age 17+)",
+    "day": "01",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "£13.00",
+    "types": [
+      "lesson"
+    ],
+    "desc": "A roller dance drills session to learn or revisit the most effective drills for roller dance. A good session to isolate skills and measure your progress.",
+    "time": "7:30pm – 9:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 29,
+    "name": "LGBTQ+ Wheels of Connection",
+    "day": "02",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "£3.08",
+    "types": [
+      "lesson"
+    ],
+    "desc": "A supportive, affirming, and celebratory roller skate session for Trans, Gender Non-Conforming (GNC) folks, and their Allies!",
+    "time": "7:30pm – 9:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 30,
+    "name": "LGBTQ+ Wheels of Connection",
+    "day": "09",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "£3.08",
+    "types": [
+      "lesson"
+    ],
+    "desc": "A supportive, affirming, and celebratory roller skate session for Trans, Gender Non-Conforming (GNC) folks, and their Allies!",
+    "time": "7:30pm – 9:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 31,
+    "name": "LGBTQ+ Wheels of Connection",
+    "day": "16",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "£3.08",
+    "types": [
+      "lesson"
+    ],
+    "desc": "A supportive, affirming, and celebratory roller skate session for Trans, Gender Non-Conforming (GNC) folks, and their Allies!",
+    "time": "7:30pm – 9:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 32,
+    "name": "LGBTQ+ Wheels of Connection",
+    "day": "23",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "£3.08",
+    "types": [
+      "lesson"
+    ],
+    "desc": "A supportive, affirming, and celebratory roller skate session for Trans, Gender Non-Conforming (GNC) folks, and their Allies!",
+    "time": "7:30pm – 9:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 33,
+    "name": "LGBTQ+ Wheels of Connection",
+    "day": "30",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "£3.08",
+    "types": [
+      "lesson"
+    ],
+    "desc": "A supportive, affirming, and celebratory roller skate session for Trans, Gender Non-Conforming (GNC) folks, and their Allies!",
+    "time": "7:30pm – 9:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 34,
+    "name": "Outdoor Confidence Workshop Level 2",
+    "day": "03",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "£13.00",
+    "types": [
+      "outdoor",
+      "social"
+    ],
+    "desc": "Build confidence skating outdoors with coached guidance on terrain, stopping, and navigation.",
+    "time": "7:30pm – 9:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 35,
+    "name": "Adult Roller Skate Taster Session, Level 2",
+    "day": "08",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "£9.23",
+    "types": [
+      "taster"
+    ],
+    "desc": "Taster session for those who can already skate a bit.",
+    "time": "6:30pm – 7:45pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 36,
+    "name": "Adult Roller Skate Taster Session, Level 2",
+    "day": "13",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "£9.23",
+    "types": [
+      "taster"
+    ],
+    "desc": "Taster session for those who can already skate a bit.",
+    "time": "7:00pm – 8:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 37,
+    "name": "Friday Night Social Roller Skate Disco",
+    "day": "24",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "From £10-£15",
+    "types": [
+      "disco",
+      "social"
+    ],
+    "desc": "Weekly Friday night roller disco for ages 17+. All abilities welcome. Music, lights, and good vibes.",
+    "time": "7:00pm – 10:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 38,
+    "name": "Friday Night Social Roller Skate Disco",
+    "day": "08",
+    "month": "May",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "From £10-£15",
+    "types": [
+      "disco",
+      "social"
+    ],
+    "desc": "Weekly Friday night roller disco for ages 17+. All abilities welcome. Music, lights, and good vibes.",
+    "time": "7:00pm – 10:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 39,
+    "name": "Friday Night Social Roller Skate Disco",
+    "day": "22",
+    "month": "May",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "From £10-£15",
+    "types": [
+      "disco",
+      "social"
+    ],
+    "desc": "Weekly Friday night roller disco for ages 17+. All abilities welcome. Music, lights, and good vibes.",
+    "time": "7:00pm – 10:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 40,
+    "name": "Friday Night Social Roller Skate Disco",
+    "day": "05",
+    "month": "Jun",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "From £10-£15",
+    "types": [
+      "disco",
+      "social"
+    ],
+    "desc": "Weekly Friday night roller disco for ages 17+. All abilities welcome. Music, lights, and good vibes.",
+    "time": "7:00pm – 10:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 41,
+    "name": "Friday Night Social Roller Skate Disco",
+    "day": "27",
+    "month": "Jun",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "From £10-£15",
+    "types": [
+      "disco",
+      "social"
+    ],
+    "desc": "Weekly Friday night roller disco for ages 17+. All abilities welcome. Music, lights, and good vibes.",
+    "time": "7:00pm – 10:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 42,
+    "name": "Friday Night Social Roller Skate Disco",
+    "day": "03",
+    "month": "Jul",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "From £10-£15",
+    "types": [
+      "disco",
+      "social"
+    ],
+    "desc": "Weekly Friday night roller disco for ages 17+. All abilities welcome. Music, lights, and good vibes.",
+    "time": "7:00pm – 10:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 43,
+    "name": "Friday Night Social Roller Skate Disco",
+    "day": "24",
+    "month": "Jul",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "From £10-£15",
+    "types": [
+      "disco",
+      "social"
+    ],
+    "desc": "Weekly Friday night roller disco for ages 17+. All abilities welcome. Music, lights, and good vibes.",
+    "time": "7:00pm – 10:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 44,
+    "name": "Friday Night Social Roller Skate Disco",
+    "day": "07",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "From £10-£15",
+    "types": [
+      "disco",
+      "social"
+    ],
+    "desc": "Weekly Friday night roller disco for ages 17+. All abilities welcome. Music, lights, and good vibes.",
+    "time": "7:00pm – 10:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 45,
+    "name": "Friday Night Social Roller Skate Disco",
+    "day": "04",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "From £10-£15",
+    "types": [
+      "disco",
+      "social"
+    ],
+    "desc": "Weekly Friday night roller disco for ages 17+. All abilities welcome. Music, lights, and good vibes.",
+    "time": "7:00pm – 10:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 46,
+    "name": "Friday Night Social Roller Skate Disco",
+    "day": "18",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "From £10-£15",
+    "types": [
+      "disco",
+      "social"
+    ],
+    "desc": "Weekly Friday night roller disco for ages 17+. All abilities welcome. Music, lights, and good vibes.",
+    "time": "7:00pm – 10:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 47,
+    "name": "Friday Night Social Roller Skate Disco",
+    "day": "01",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "From £10-£15",
+    "types": [
+      "disco",
+      "social"
+    ],
+    "desc": "Weekly Friday night roller disco for ages 17+. All abilities welcome. Music, lights, and good vibes.",
+    "time": "7:00pm – 10:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 48,
+    "name": "Friday Night Social Roller Skate Disco",
+    "day": "16",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "From £10-£15",
+    "types": [
+      "disco",
+      "social"
+    ],
+    "desc": "Weekly Friday night roller disco for ages 17+. All abilities welcome. Music, lights, and good vibes.",
+    "time": "7:00pm – 10:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 49,
+    "name": "Friday Night Social Roller Skate Disco",
+    "day": "06",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "From £10-£15",
+    "types": [
+      "disco",
+      "social"
+    ],
+    "desc": "Weekly Friday night roller disco for ages 17+. All abilities welcome. Music, lights, and good vibes.",
+    "time": "7:00pm – 10:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 50,
+    "name": "Friday Night Social Roller Skate Disco",
+    "day": "20",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "From £10-£15",
+    "types": [
+      "disco",
+      "social"
+    ],
+    "desc": "Weekly Friday night roller disco for ages 17+. All abilities welcome. Music, lights, and good vibes.",
+    "time": "7:00pm – 10:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 51,
+    "name": "Friday Night Social Roller Skate Disco",
+    "day": "04",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "From £10-£15",
+    "types": [
+      "disco",
+      "social"
+    ],
+    "desc": "Weekly Friday night roller disco for ages 17+. All abilities welcome. Music, lights, and good vibes.",
+    "time": "7:00pm – 10:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 52,
+    "name": "Friday Night Social Roller Skate Disco",
+    "day": "18",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "From £10-£15",
+    "types": [
+      "disco",
+      "social"
+    ],
+    "desc": "Weekly Friday night roller disco for ages 17+. All abilities welcome. Music, lights, and good vibes.",
+    "time": "7:00pm – 10:00pm",
+    "link": "https://www.theskatesanctuary.co.uk/book",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 53,
+    "name": "Monday Community Roller Dance Class",
+    "day": "20",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "Skate Scholarship - Yorks Dance",
+    "location": "Leeds, LS9",
+    "price": "From £9",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Beginner-friendly roller dance sessions alternating between taught lessons and skill shares. Block booking recommended.",
+    "link": "https://www.theskatescholarship.com/product-page/2026-monday-community-roller-dance",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 54,
+    "name": "Monday Community Roller Dance Class",
+    "day": "27",
+    "month": "Apr",
+    "year": "2026",
+    "venue": "Skate Scholarship - Yorks Dance",
+    "location": "Leeds, LS9",
+    "price": "From £9",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Beginner-friendly roller dance sessions alternating between taught lessons and skill shares. Block booking recommended.",
+    "link": "https://www.theskatescholarship.com/product-page/2026-monday-community-roller-dance",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 55,
+    "name": "Monday Community Roller Dance Class",
+    "day": "11",
+    "month": "May",
+    "year": "2026",
+    "venue": "Skate Scholarship - Yorks Dance",
+    "location": "Leeds, LS9",
+    "price": "From £9",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Beginner-friendly roller dance sessions alternating between taught lessons and skill shares. Block booking recommended.",
+    "link": "https://www.theskatescholarship.com/product-page/2026-monday-community-roller-dance",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 56,
+    "name": "Monday Community Roller Dance Class",
+    "day": "18",
+    "month": "May",
+    "year": "2026",
+    "venue": "Skate Scholarship - Yorks Dance",
+    "location": "Leeds, LS9",
+    "price": "From £9",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Beginner-friendly roller dance sessions alternating between taught lessons and skill shares. Block booking recommended.",
+    "link": "https://www.theskatescholarship.com/product-page/2026-monday-community-roller-dance",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 57,
+    "name": "Monday Community Roller Dance Class",
+    "day": "01",
+    "month": "Jun",
+    "year": "2026",
+    "venue": "Skate Scholarship - Yorks Dance",
+    "location": "Leeds, LS9",
+    "price": "From £9",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Beginner-friendly roller dance sessions alternating between taught lessons and skill shares. Block booking recommended.",
+    "link": "https://www.theskatescholarship.com/product-page/2026-monday-community-roller-dance",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 58,
+    "name": "Monday Community Roller Dance Class",
+    "day": "08",
+    "month": "Jun",
+    "year": "2026",
+    "venue": "Skate Scholarship - Yorks Dance",
+    "location": "Leeds, LS9",
+    "price": "From £9",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Beginner-friendly roller dance sessions alternating between taught lessons and skill shares. Block booking recommended.",
+    "link": "https://www.theskatescholarship.com/product-page/2026-monday-community-roller-dance",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 59,
+    "name": "Monday Community Roller Dance Class",
+    "day": "15",
+    "month": "Jun",
+    "year": "2026",
+    "venue": "Skate Scholarship - Yorks Dance",
+    "location": "Leeds, LS9",
+    "price": "From £9",
+    "types": [
+      "skillshare",
+      "lesson"
+    ],
+    "desc": "Beginner-friendly roller dance sessions alternating between taught lessons and skill shares. Block booking recommended.",
+    "link": "https://www.theskatescholarship.com/product-page/2026-monday-community-roller-dance",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 60,
+    "name": "Monday Community Roller Dance Class",
+    "day": "22",
+    "month": "Jun",
+    "year": "2026",
+    "venue": "Skate Scholarship - Yorks Dance",
+    "location": "Leeds, LS9",
+    "price": "From £9",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Beginner-friendly roller dance sessions alternating between taught lessons and skill shares. Block booking recommended.",
+    "link": "https://www.theskatescholarship.com/product-page/2026-monday-community-roller-dance",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 61,
+    "name": "Monday Community Roller Dance Class",
+    "day": "29",
+    "month": "Jun",
+    "year": "2026",
+    "venue": "Skate Scholarship - Yorks Dance",
+    "location": "Leeds, LS9",
+    "price": "From £9",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Beginner-friendly roller dance sessions alternating between taught lessons and skill shares. Block booking recommended.",
+    "link": "https://www.theskatescholarship.com/product-page/2026-monday-community-roller-dance",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 62,
+    "name": "Monday Community Roller Dance Class",
+    "day": "06",
+    "month": "Jul",
+    "year": "2026",
+    "venue": "Skate Scholarship - Yorks Dance",
+    "location": "Leeds, LS9",
+    "price": "From £9",
+    "types": [
+      "skillshare",
+      "lesson"
+    ],
+    "desc": "Beginner-friendly roller dance sessions alternating between taught lessons and skill shares. Block booking recommended.",
+    "link": "https://www.theskatescholarship.com/product-page/2026-monday-community-roller-dance",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 63,
+    "name": "Northern Roll 2026: Skate’n Play Friday",
+    "day": "21",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "Leeds Dock",
+    "location": "Leeds, LS10",
+    "price": "From £16.75",
+    "types": [
+      "social",
+      "family"
+    ],
+    "desc": "Inclusive, low-pressure, kick-off session built for families and anyone who wants a warm-up session before the main weekend",
+    "link": "https://www.theskatescholarship.com/northern-roll",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 64,
+    "name": "Northern Roll 2026: Saturday Roller Day",
+    "day": "22",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "Leeds Dock",
+    "location": "Leeds, LS10",
+    "price": "From £11.75",
+    "types": [
+      "social",
+      "family",
+      "outdoor"
+    ],
+    "desc": "The centrepiece of the festival. Expect DJs, workshops, open skating, roller dance sessions and roller derby.",
+    "link": "https://www.theskatescholarship.com/northern-roll",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 65,
+    "name": "Northern Roll 2026: Sunday Sessions",
+    "day": "23",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "Leeds Dock",
+    "location": "Leeds, LS10",
+    "price": "From £16.75",
+    "types": [
+      "social",
+      "family",
+      "outdoor"
+    ],
+    "desc": "Signature skatepark takeover. Bowls, ramps, rails, coaching support - welcoming for all skill levels.",
+    "link": "https://www.theskatescholarship.com/northern-roll",
+    "free": false,
+    "region": "West Yorkshire"
+  }
+]
