@@ -1199,5 +1199,25 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 138,
+    "name": "FAMILY FRIENDLY - Level 1: Learn to Roller Skate Taster Session",
+    "day": "29",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "taster",
+      "lesson",
+      "family"
+    ],
+    "desc": "Join our coach team to have a skate class that will get you rolling! Skaters only in the studio in this mixed age session. Recommended age 7+",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/family-friendly-level-1-learn-to-roller-skate-taster-session-2026-08-29-10-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "10:30 am – 11:30 am"
   }
 ]
