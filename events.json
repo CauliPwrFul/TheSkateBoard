@@ -1218,7 +1218,7 @@
     "region": "West Yorkshire",
     "time": "5:00 pm – 8:00 pm"
   },
-   {
+  {
     "id": 68,
     "name": "[cancelled] No Roller Dance Focus & Flow This Week",
     "day": "05",
@@ -1235,5 +1235,2035 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "7:30 pm – 9:00 pm"
+  },
+  {
+    "id": 179,
+    "name": "2026 Monday Community Roller Dance",
+    "day": "20",
+    "month": "Apr",
+    "year": "2027",
+    "venue": "The Skate Scholarship",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "",
+    "link": "https://www.theskatescholarship.com/product-page/2026-monday-community-roller-dance",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 178,
+    "name": "Introduction to... DOWNTOWN Age 17+",
+    "day": "15",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "disco"
+    ],
+    "desc": "Roller Dance series for Level 2+ skaters. This series is designed to help you learn roller dance vocabulary and feel more confident to join in at roller discos, skate parties and festivals. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/introduction-to-downtown-age-17-4",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 177,
+    "name": "FREE! Skate Rollout @ Leeds City Centre",
+    "day": "15",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Join our roll out starting from The Skate Sanctuary. We will take a flat-ish route around Leeds City centre and end near The Tetley (so you can meet us there if you prefer). We suggest you're comfortable to stop and can manage different textures. Do bring your shoes. Funded by Sport England",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/free-skate-rollout-leeds-city-centre-2026-09-15-19-00",
+    "free": true,
+    "region": "West Yorkshire",
+    "time": "7:00 pm – 8:00 pm"
+  },
+  {
+    "id": 176,
+    "name": "Adult Lv2 Skate Course Week 2 (of 6) (17+)",
+    "day": "14",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Continue to Learn with our Level 6 course. Small group size. Intensive 6 week course + bonus class.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/adult-lv2-skate-course-week-2-of-6-17-2026-09-14-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
+  },
+  {
+    "id": 175,
+    "name": "Adult Beginner Skate Course Week 2 (of 6) (17+)",
+    "day": "14",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Adult learn to skate course. Small group size. Intensive 6 week course + bonus class. Absolute beginners.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/adult-beginner-skate-course-week-2-of-6-17-2026-09-14-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 174,
+    "name": "Level 4: Skate Skills Workshop 17+",
+    "day": "13",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "workshop",
+      "lesson"
+    ],
+    "desc": "1hr level 4 skills class for confident skaters, who want new challenges and excitement. FOCUS -Week 2, Jumping Transistions + linking with stopping",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/level-4-skate-skills-workshop-17-2026-09-13-17-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "5:30 pm – 6:30 pm"
+  },
+  {
+    "id": 173,
+    "name": "Level 3 Skate Skills Workshop 17+",
+    "day": "13",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "workshop",
+      "lesson"
+    ],
+    "desc": "1hr level 3 skills class for confident skaters, who want new challenges and excitement. FOCUS: Wk2 Toe Stops, Transitions",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/level-3-skate-skills-workshop-17-2026-09-13-16-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:30 pm – 5:30 pm"
+  },
+  {
+    "id": 172,
+    "name": "Level 2: Roller Skate Fundamentals (17+)",
+    "day": "13",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "We will support you to feel more confident on your wheels. Skate hire available for a small additional fee. FOCUS: Week 2 - lemons, plough stop, balancing on one foot, intro to backwards",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/level-2-roller-skate-fundamentals-17-2026-09-13-11-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "11:00 am – 12:00 pm"
+  },
+  {
+    "id": 171,
+    "name": "Level 1 : Roller Skate Fundamentals (17+)",
+    "day": "13",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Suitable for those with little or no experience on roller skates. We will support you to feel more confident on your wheels. FOCUS: Week 2 - falling, balancing, penguin shuffle, lemons, plough stop",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/level-1-roller-skate-fundamentals-17-2026-09-13-10-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "10:00 am – 11:00 am"
+  },
+  {
+    "id": 170,
+    "name": "Skate Maintenance & Crafternoon - Plate & Cushion Masterclass",
+    "day": "12",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Skate Maintenance and Crafternoon! Bring all your skate related questions and gain a number of skills to maintain, fix, decorate or even upgrade parts of your skates. Tools provided - Extra Materials such as craft supplies or upgraded parts will need to be purchased separately",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/skate-maintenance-crafternoon-plate-cushion-masterclass-2026-09-12-16-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:00 pm – 6:00 pm"
+  },
+  {
+    "id": 169,
+    "name": "Level 1 & 2: Adult Foundation 4 week Accelerator Course (17+) - wk4",
+    "day": "12",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Feel more confident on wheels, ready to roll for the summer! Suitable for those with limited or no roller skate experience and lots of courage. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/level-1-2-adult-foundation-4-week-accelerator-course-17-wk4-2026-09-12-10-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "10:00 am – 12:00 pm"
+  },
+  {
+    "id": 168,
+    "name": "FREE! Skate Meetup @ ELOR",
+    "day": "11",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "East Leeds Orbital Road",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "outdoor",
+      "social"
+    ],
+    "desc": "Join us outdoors for rolling about! Join Us for our Outdoor Meetups this year and even better - it's free! Funded by Sports England- if you attend this meetup you'll receive a voucher for a free gift for outdoor skating fun + safety",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/free-skate-meetup-elor-2026-09-11-18-30",
+    "free": true,
+    "region": "West Yorkshire",
+    "time": "6:30 pm – 8:00 pm"
+  },
+  {
+    "id": 167,
+    "name": "Family Friendly Friday Eve Roller Disco 5+",
+    "day": "11",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "disco",
+      "family"
+    ],
+    "desc": "Ages 5+ welcome to our Family Friendly Friday session - expect disco lights and the occasional game in our studio. Skate hire available for a small additional price on the door.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/family-friendly-friday-eve-roller-disco-5-2026-09-11-17-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "5:00 pm – 7:00 pm"
+  },
+  {
+    "id": 166,
+    "name": "LGBTQ+ Wheels of Connection: Prism",
+    "day": "10",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Celebrate Connection. All Identities Welcome. Prism is—a supportive, affirming, and celebratory roller skate session for Trans, Gender Non-Conforming (GNC) folks, and their Allies! This space is dedicated to connection, joy, and movement, with coaches to support.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/lgbtq-wheels-of-connection-prism-2026-09-10-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
+  },
+  {
+    "id": 165,
+    "name": "Adults Thursday Evening Drop In Session",
+    "day": "10",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Drop in to practise, move or chat. Skate hire available for a small additional fee.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/adults-thursday-evening-drop-in-session-2026-09-10-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 164,
+    "name": "Focus & Flow 17+ (WEEK 5)",
+    "day": "09",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Suggested Level 3&4 The focus for this block of classes is TBD",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/focus-flow-17-week-5-2026-09-09-19-30-1",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
+  },
+  {
+    "id": 163,
+    "name": "Kids All Levels Skate Class Age 7+",
+    "day": "09",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson",
+      "family"
+    ],
+    "desc": "Continue to learn new skills and consolidate essential core techniques for skaters. Quad or inlines welcome. Skate hire available for a small additional fee. Please check your child has the experience required for the session.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/kids-all-levels-skate-class-age-7-2026-09-09-18-15",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:15 pm – 7:15 pm"
+  },
+  {
+    "id": 162,
+    "name": "Introduction to ... Cross Step Age 17+",
+    "day": "08",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "disco"
+    ],
+    "desc": "Roller Dance series for Level 2+ skaters. This series is designed to help you learn roller dance vocabulary and feel more confident to join in at roller discos, skate parties and festivals. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/introduction-to-cross-step-age-17-4",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 161,
+    "name": "Neurodivergent friendly - Wheels of Connection: Spectrum Session",
+    "day": "08",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "We've launched a session specifically for skaters with neurodivergence to come together in a low-stimulus environment. With coaches to support your skate skills as required.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/neurodivergent-friendly-wheels-of-connection-spectrum-session-2026-09-08-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 160,
+    "name": "Adult Lv2 Skate Course Week 1 (of 6) (17+)",
+    "day": "07",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Continue to Learn with our Level 6 course. Small group size. Intensive 6 week course + bonus class.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/adult-lv2-skate-course-week-1-of-6-17-2026-09-07-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
+  },
+  {
+    "id": 159,
+    "name": "Adult Beginner Skate Course Week 1 (of 6) (17+)",
+    "day": "07",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Adult learn to skate course. Small group size. Intensive 6 week course + bonus class. Absolute beginners.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/adult-beginner-skate-course-week-1-of-6-17-2026-09-07-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 158,
+    "name": "Level 4: Skate Skills Workshop 17+",
+    "day": "06",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "workshop",
+      "lesson"
+    ],
+    "desc": "1hr level 4 skills class for confident skaters, who want new challenges and excitement. FOCUS -Week 1 Intro to ballroom. T stops, intro to hockey stop/powerslides",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/level-4-skate-skills-workshop-17-2026-09-06-17-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "5:30 pm – 6:30 pm"
+  },
+  {
+    "id": 157,
+    "name": "Level 3 Skate Skills Workshop 17+",
+    "day": "06",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "workshop",
+      "lesson"
+    ],
+    "desc": "1hr level 3 skills class for confident skaters, who want new challenges and excitement. FOCUS: Wk1 Lemons, T start, T stop, push and glide",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/level-3-skate-skills-workshop-17-2026-09-06-16-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:30 pm – 5:30 pm"
+  },
+  {
+    "id": 156,
+    "name": "Level 2: Roller Skate Fundamentals (17+)",
+    "day": "06",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "We will support you to feel more confident on your wheels. Skate hire available for a small additional fee. FOCUS: Week 1 - Falling safely, push and glide, lemons, plough stop",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/level-2-roller-skate-fundamentals-17-2026-09-06-11-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "11:00 am – 12:00 pm"
+  },
+  {
+    "id": 155,
+    "name": "Level 1 : Roller Skate Fundamentals (17+)",
+    "day": "06",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Suitable for those with little or no experience on roller skates. We will support you to feel more confident on your wheels. FOCUS: Week 1 - How to fall, balancing, penguin shuffle, intro to lemons",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/level-1-roller-skate-fundamentals-17-2026-09-06-10-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "10:00 am – 11:00 am"
+  },
+  {
+    "id": 154,
+    "name": "Level 1 & 2: Adult Foundation 4 week Accelerator Course (17+) - wk4",
+    "day": "05",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Feel more confident on wheels, ready to roll for the summer! Suitable for those with limited or no roller skate experience and lots of courage. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/level-1-2-adult-foundation-4-week-accelerator-course-17-wk4-2026-09-05-10-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "10:00 am – 12:00 pm"
+  },
+  {
+    "id": 153,
+    "name": "Friday Night Social 17+",
+    "day": "04",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, have a chat, meet other skaters in the community and unwind! Our skate marshalls are here to ensure everyone has a great time and skate safely.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/friday-night-social-17-2026-09-04-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 10:00 pm"
+  },
+  {
+    "id": 152,
+    "name": "Family Friendly Friday Eve Roller Disco 5+",
+    "day": "04",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "disco",
+      "family"
+    ],
+    "desc": "Ages 5+ welcome to our Family Friendly Friday session - expect disco lights and the occasional game in our studio. Skate hire available for a small additional price on the door.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/family-friendly-friday-eve-roller-disco-5-2026-09-04-17-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "5:00 pm – 7:00 pm"
+  },
+  {
+    "id": 151,
+    "name": "LGBTQ+ Wheels of Connection: Prism",
+    "day": "03",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Celebrate Connection. All Identities Welcome. Prism is—a supportive, affirming, and celebratory roller skate session for Trans, Gender Non-Conforming (GNC) folks, and their Allies! This space is dedicated to connection, joy, and movement, with coaches to support.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/lgbtq-wheels-of-connection-prism-2026-09-03-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
+  },
+  {
+    "id": 150,
+    "name": "Adults Thursday Evening Drop In Session",
+    "day": "03",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Drop in to practise, move or chat. Skate hire available for a small additional fee.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/adults-thursday-evening-drop-in-session-2026-09-03-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 149,
+    "name": "Focus & Flow 17+ (WEEK 4)",
+    "day": "02",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Suggested Level 3&4 The focus for this block of classes is TBD",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/focus-flow-17-week-4-2026-09-02-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
+  },
+  {
+    "id": 148,
+    "name": "Kids All Levels Skate Class Age 7+",
+    "day": "02",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson",
+      "family"
+    ],
+    "desc": "Continue to learn new skills and consolidate essential core techniques for skaters. Quad or inlines welcome. Skate hire available for a small additional fee. Please check your child has the experience required for the session.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/kids-all-levels-skate-class-age-7-2026-09-02-18-15",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:15 pm – 7:15 pm"
+  },
+  {
+    "id": 147,
+    "name": "Neurodivergent friendly - Wheels of Connection: Spectrum Session",
+    "day": "01",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "We've launched a session specifically for skaters with neurodivergence to come together in a low-stimulus environment. With coaches to support your skate skills as required.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/neurodivergent-friendly-wheels-of-connection-spectrum-session-2026-09-01-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 146,
+    "name": "FREE! Skate Meetup @ ELOR",
+    "day": "31",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "East Leeds Orbital Road",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "outdoor",
+      "social"
+    ],
+    "desc": "Join us outdoors for rolling about! Join Us for our Outdoor Meetups this year and even better - it's free! Funded by Sports England- if you attend this meetup you'll receive a voucher for a free gift for outdoor skating fun + safety",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/free-skate-meetup-elor-2026-08-31-18-00",
+    "free": true,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 8:00 pm"
+  },
+  {
+    "id": 145,
+    "name": "SUMMER HOLS ROLLER SKATE SPECIAL (Age 5+)",
+    "day": "31",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/summer-hols-roller-skate-special-age-5-2026-08-31-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 4:00 pm"
+  },
+  {
+    "id": 144,
+    "name": "Level 3 & 4: Coached Skate Session (Age 17+)",
+    "day": "30",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Limited number session @ The Skate Sanctuary. What do you want to improve? Come with your request and get tailored support to improve that skill.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/level-3-4-coached-skate-session-age-17-2026-08-30-16-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:30 pm – 6:30 pm"
+  },
+  {
+    "id": 143,
+    "name": "Private Skate Lesson with Mel",
+    "day": "30",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Level up your skating by booking a private session with lead coach Mel",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/private-skate-lesson-with-mel-2026-08-30-15-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "3:00 pm – 4:00 pm"
+  },
+  {
+    "id": 142,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "30",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/age-5-drop-in-skate-2026-08-30-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 141,
+    "name": "Levels 1 & 2: Coached Skate Session (Age 17+)",
+    "day": "30",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Our coach team is here to work with you to overcome your obstacles to roller skating. Book on this special session to get started in a supportive environment.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/levels-1-2-coached-skate-session-age-17-2026-08-30-10-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "10:00 am – 12:00 pm"
+  },
+  {
+    "id": 140,
+    "name": "Private Skate Lesson with Mel",
+    "day": "29",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Level up your skating by booking a private session with lead coach Mel",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/private-skate-lesson-with-mel-2026-08-29-15-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "3:00 pm – 4:00 pm"
+  },
+  {
+    "id": 139,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "29",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/age-5-drop-in-skate-2026-08-29-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 138,
+    "name": "FAMILY FRIENDLY - Level 1: Learn to Roller Skate Taster Session",
+    "day": "29",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "taster",
+      "lesson",
+      "family"
+    ],
+    "desc": "Join our coach team to have a skate class that will get you rolling! Skaters only in the studio in this mixed age session. Recommended age 7+",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/family-friendly-level-1-learn-to-roller-skate-taster-session-2026-08-29-10-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "10:30 am – 11:30 am"
+  },
+  {
+    "id": 137,
+    "name": "Beginner friendly special - Friday Night Social 17+",
+    "day": "28",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, have a chat, meet other skaters in the community and unwind! Our skate marshalls are here to ensure everyone has a great time and skate safely. A special edition FNS for beginners - Regulars also welcome",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/beginner-friendly-special-friday-night-social-17-2026-08-28-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 10:00 pm"
+  },
+  {
+    "id": 136,
+    "name": "Private Skate Lesson with Mel",
+    "day": "28",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Level up your skating by booking a private session with lead coach Mel",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/private-skate-lesson-with-mel-2026-08-28-15-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "3:00 pm – 4:00 pm"
+  },
+  {
+    "id": 135,
+    "name": "SUMMER HOLS ROLLER SKATE SPECIAL (Age 5+)",
+    "day": "28",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/summer-hols-roller-skate-special-age-5-2026-08-28-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 4:00 pm"
+  },
+  {
+    "id": 134,
+    "name": "LGBTQ+ Wheels of Connection: Prism",
+    "day": "27",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Celebrate Connection. All Identities Welcome. Prism is—a supportive, affirming, and celebratory roller skate session for Trans, Gender Non-Conforming (GNC) folks, and their Allies! This space is dedicated to connection, joy, and movement, with coaches to support.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/lgbtq-wheels-of-connection-prism-2026-08-27-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
+  },
+  {
+    "id": 133,
+    "name": "Adults Thursday Evening Drop In Session",
+    "day": "27",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Drop in to practise, move or chat. Skate hire available for a small additional fee.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/adults-thursday-evening-drop-in-session-2026-08-27-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 132,
+    "name": "Private Skate Lesson with Mel",
+    "day": "27",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Level up your skating by booking a private session with lead coach Mel",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/private-skate-lesson-with-mel-2026-08-27-15-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "3:00 pm – 4:00 pm"
+  },
+  {
+    "id": 131,
+    "name": "SUMMER HOLS ROLLER SKATE SPECIAL (Age 5+)",
+    "day": "27",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/summer-hols-roller-skate-special-age-5-2026-08-27-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 4:00 pm"
+  },
+  {
+    "id": 130,
+    "name": "Focus & Flow 17+ (WEEK 3)",
+    "day": "26",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Suggested Level 3&4 The focus for this block of classes is TBD",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/focus-flow-17-week-3-2026-08-26-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
+  },
+  {
+    "id": 129,
+    "name": "KIDS 7+ - Level 1&2: Learn to Roller Skate Taster Session",
+    "day": "26",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "taster",
+      "lesson",
+      "family"
+    ],
+    "desc": "Let's Get Rolling! Kids only session. For children aged 7 and over Learn to roller skate in Leeds this Summer!",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/kids-7-level-1-2-learn-to-roller-skate-taster-session-2026-08-26-18-15",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:15 pm – 7:15 pm"
+  },
+  {
+    "id": 128,
+    "name": "Private Skate Lesson with Mel",
+    "day": "26",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Level up your skating by booking a private session with lead coach Mel",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/private-skate-lesson-with-mel-2026-08-26-15-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "3:00 pm – 4:00 pm"
+  },
+  {
+    "id": 127,
+    "name": "SUMMER HOLS ROLLER SKATE SPECIAL (Age 5+)",
+    "day": "26",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/summer-hols-roller-skate-special-age-5-2026-08-26-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 4:00 pm"
+  },
+  {
+    "id": 126,
+    "name": "Outdoor Confidence Workshop 3: Conquering the Hills (Level 3+)",
+    "day": "25",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "Leeds Skelton Lake Services",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "workshop",
+      "outdoor"
+    ],
+    "desc": "Face your fears and master elevation changes! Learn uphill and downhill techniques, advanced stopping methods, and speed control. By the end of this session, you'll have the skills and confidence to tackle most urban terrain.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/outdoor-confidence-workshop-3-conquering-the-hills-level-3-2026-08-25-18-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:30 pm – 8:00 pm"
+  },
+  {
+    "id": 125,
+    "name": "Neurodivergent friendly - Wheels of Connection: Spectrum Session",
+    "day": "25",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "We've launched a session specifically for skaters with neurodivergence to come together in a low-stimulus environment. With coaches to support your skate skills as required.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/neurodivergent-friendly-wheels-of-connection-spectrum-session-2026-08-25-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 124,
+    "name": "ADULT: Absolute Beginners Learn to Roller Skate Taster Session",
+    "day": "24",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "taster",
+      "lesson",
+      "family"
+    ],
+    "desc": "Let's Get Rolling! One for the big kids! (Most of our adult sessions are attended by people 40+)",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/adult-absolute-beginners-learn-to-roller-skate-taster-session-2026-08-24-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 8:30 pm"
+  },
+  {
+    "id": 123,
+    "name": "ADULT: Level 2 Taster Session",
+    "day": "24",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "taster"
+    ],
+    "desc": "Can you already skate a bit? Try out our Level 2 taster session to help you progress your skills",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/adult-level-2-taster-session-2026-08-24-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 8:30 pm"
+  },
+  {
+    "id": 122,
+    "name": "Private Skate Lesson with Mel",
+    "day": "24",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Level up your skating by booking a private session with lead coach Mel",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/private-skate-lesson-with-mel-2026-08-24-15-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "3:00 pm – 4:00 pm"
+  },
+  {
+    "id": 121,
+    "name": "SUMMER HOLS ROLLER SKATE SPECIAL (Age 5+)",
+    "day": "24",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/summer-hols-roller-skate-special-age-5-2026-08-24-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 4:00 pm"
+  },
+  {
+    "id": 120,
+    "name": "Sunday Social 17+",
+    "day": "23",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, have a chat, meet other skaters in the community and unwind! Our skate marshalls are here to ensure everyone has a great time and skate safely.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/sunday-social-17-2026-08-23-16-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:00 pm – 6:00 pm"
+  },
+  {
+    "id": 119,
+    "name": "Private Skate Lesson with Mel",
+    "day": "23",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Level up your skating by booking a private session with lead coach Mel",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/private-skate-lesson-with-mel-2026-08-23-15-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "3:00 pm – 4:00 pm"
+  },
+  {
+    "id": 118,
+    "name": "Family Friendly Learn 'n' Roll",
+    "day": "23",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£8",
+    "types": [
+      "disco",
+      "workshop",
+      "family"
+    ],
+    "desc": "A mini roller disco for all ages at the Sikh Centre with a quick workshop to help get you rolling. All tickets £8. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/family-friendly-learn-n-roll-2026-08-23-14-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "2:30 pm – 4:00 pm"
+  },
+  {
+    "id": 117,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "23",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/age-5-drop-in-skate-2026-08-23-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 116,
+    "name": "*Smallest Skaters* Under 6",
+    "day": "23",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "£2",
+    "types": [
+      "social"
+    ],
+    "desc": "Bring your little one to skate! A special session for under 6's to skate and play in our studio. Skate Hire available for a small fee. One free adult per child. Additional adults £2.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/smallest-skaters-under-6-2026-08-23-11-00",
+    "free": true,
+    "region": "West Yorkshire",
+    "time": "11:00 am – 12:00 pm"
+  },
+  {
+    "id": 115,
+    "name": "Private Skate Lesson with Mel",
+    "day": "22",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Level up your skating by booking a private session with lead coach Mel",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/private-skate-lesson-with-mel-2026-08-22-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:00 pm"
+  },
+  {
+    "id": 114,
+    "name": "Skate Maintenance & Crafternoon - Wheel Dying Workshop",
+    "day": "22",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "workshop"
+    ],
+    "desc": "Skate Maintenance and Crafternoon! Bring all your skate related questions and gain a number of skills to maintain, fix, decorate or even upgrade parts of your skates. Tools provided - Extra Materials such as craft supplies or upgraded parts will need to be purchased separately",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/skate-maintenance-crafternoon-wheel-dying-workshop-2026-08-22-16-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:00 pm – 6:00 pm"
+  },
+  {
+    "id": 113,
+    "name": "LGBTQ+ Wheels of Connection: Prism",
+    "day": "20",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Celebrate Connection. All Identities Welcome. Prism is—a supportive, affirming, and celebratory roller skate session for Trans, Gender Non-Conforming (GNC) folks, and their Allies! This space is dedicated to connection, joy, and movement, with coaches to support.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/lgbtq-wheels-of-connection-prism-2026-08-20-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
+  },
+  {
+    "id": 112,
+    "name": "Adults Thursday Evening Drop In Session",
+    "day": "20",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Drop in to practise, move or chat. Skate hire available for a small additional fee.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/adults-thursday-evening-drop-in-session-2026-08-20-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 111,
+    "name": "Private Skate Lesson with Mel",
+    "day": "20",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Level up your skating by booking a private session with lead coach Mel",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/private-skate-lesson-with-mel-2026-08-20-15-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "3:00 pm – 4:00 pm"
+  },
+  {
+    "id": 110,
+    "name": "SUMMER HOLS ROLLER SKATE SPECIAL (Age 5+)",
+    "day": "20",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/summer-hols-roller-skate-special-age-5-2026-08-20-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 4:00 pm"
+  },
+  {
+    "id": 109,
+    "name": "Focus & Flow 17+ (WEEK 2)",
+    "day": "19",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Suggested Level 3&4 The focus for this block of classes is TBD",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/focus-flow-17-week-2-2026-08-19-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
+  },
+  {
+    "id": 108,
+    "name": "KIDS 7+ - Level 1&2: Learn to Roller Skate Taster Session",
+    "day": "19",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "taster",
+      "lesson",
+      "family"
+    ],
+    "desc": "Let's Get Rolling! Kids only session. For children aged 7 and over Learn to roller skate in Leeds this Summer!",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/kids-7-level-1-2-learn-to-roller-skate-taster-session-2026-08-19-18-15",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:15 pm – 7:15 pm"
+  },
+  {
+    "id": 107,
+    "name": "Private Skate Lesson with Mel",
+    "day": "19",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Level up your skating by booking a private session with lead coach Mel",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/private-skate-lesson-with-mel-2026-08-19-15-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "3:00 pm – 4:00 pm"
+  },
+  {
+    "id": 106,
+    "name": "SUMMER HOLS ROLLER SKATE SPECIAL (Age 5+)",
+    "day": "19",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/summer-hols-roller-skate-special-age-5-2026-08-19-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 4:00 pm"
+  },
+  {
+    "id": 105,
+    "name": "Outdoor Confidence Workshop 2: Exploring New Horizons (Level 3+)",
+    "day": "18",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "workshop",
+      "lesson",
+      "outdoor"
+    ],
+    "desc": "Time to level up! We'll venture into different outdoor spaces, teaching you how to navigate obstacles, manage varying surfaces, and build your confidence in new environments. Practice group skating etiquette and learn to handle unexpected situations with ease.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/outdoor-confidence-workshop-2-exploring-new-horizons-level-3-2026-08-18-18-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:30 pm – 8:00 pm"
+  },
+  {
+    "id": 104,
+    "name": "Neurodivergent friendly - Wheels of Connection: Spectrum Session",
+    "day": "18",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "We've launched a session specifically for skaters with neurodivergence to come together in a low-stimulus environment. With coaches to support your skate skills as required.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/neurodivergent-friendly-wheels-of-connection-spectrum-session-2026-08-18-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 103,
+    "name": "FAMILY FRIENDLY - Level 1: Learn to Roller Skate Taster Session",
+    "day": "17",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "taster",
+      "lesson",
+      "family"
+    ],
+    "desc": "Join our coach team to have a skate class that will get you rolling! Skaters only in the studio in this mixed age session. Recommended age 7+",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/family-friendly-level-1-learn-to-roller-skate-taster-session-2026-08-17-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 8:30 pm"
+  },
+  {
+    "id": 102,
+    "name": "ADULT: Learn to Roller Skate Taster Session",
+    "day": "17",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "taster",
+      "lesson",
+      "family"
+    ],
+    "desc": "Let's Get Rolling! One for the big kids! (Most of our adult sessions are attended by people 40+)",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/adult-learn-to-roller-skate-taster-session-2026-08-17-18-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:30 pm – 7:30 pm"
+  },
+  {
+    "id": 101,
+    "name": "Private Skate Lesson with Mel",
+    "day": "17",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Level up your skating by booking a private session with lead coach Mel",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/private-skate-lesson-with-mel-2026-08-17-15-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "3:00 pm – 4:00 pm"
+  },
+  {
+    "id": 100,
+    "name": "SUMMER HOLS ROLLER SKATE SPECIAL (Age 5+)",
+    "day": "17",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/summer-hols-roller-skate-special-age-5-2026-08-17-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 4:00 pm"
+  },
+  {
+    "id": 99,
+    "name": "Level 3 & 4: Coached Skate Session (Age 17+)",
+    "day": "16",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Limited number session @ The Skate Sanctuary. What do you want to improve? Come with your request and get tailored support to improve that skill.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/level-3-4-coached-skate-session-age-17-2026-08-16-16-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:30 pm – 6:30 pm"
+  },
+  {
+    "id": 98,
+    "name": "Private Skate Lesson with Mel",
+    "day": "16",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Level up your skating by booking a private session with lead coach Mel",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/private-skate-lesson-with-mel-2026-08-16-15-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "3:00 pm – 4:00 pm"
+  },
+  {
+    "id": 97,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "16",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/age-5-drop-in-skate-2026-08-16-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 96,
+    "name": "Levels 1 & 2: Coached Skate Session (Age 17+)",
+    "day": "16",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Our coach team is here to work with you to overcome your obstacles to roller skating. Book on this special session to get started in a supportive environment.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/levels-1-2-coached-skate-session-age-17-2026-08-16-10-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "10:00 am – 12:00 pm"
+  },
+  {
+    "id": 95,
+    "name": "Private Skate Lesson with Mel",
+    "day": "15",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Level up your skating by booking a private session with lead coach Mel",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/private-skate-lesson-with-mel-2026-08-15-15-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "3:00 pm – 4:00 pm"
+  },
+  {
+    "id": 94,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "15",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/age-5-drop-in-skate-2026-08-15-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 93,
+    "name": "ADULT: Learn to Roller Skate Taster Session",
+    "day": "15",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "taster",
+      "lesson",
+      "family"
+    ],
+    "desc": "Let's Get Rolling! One for the big kids! (Most of our adult sessions are attended by people 40+)",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/adult-learn-to-roller-skate-taster-session-2026-08-15-10-00-1",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "10:00 am – 11:00 am"
+  },
+  {
+    "id": 92,
+    "name": "Friday Night ROLL OUT & ROLL IN 18+",
+    "day": "14",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Unwind at The Skate Sanctuary - come for a chat, skate and boogie at our studio. As long as weather permits, we'll roll out into the local area, or into Leeds city centre - new later finish! 10.30pm",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/friday-night-roll-out-roll-in-18-2026-08-14-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 9:00 pm"
+  },
+  {
+    "id": 91,
+    "name": "Private Skate Lesson with Mel",
+    "day": "14",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Level up your skating by booking a private session with lead coach Mel",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/private-skate-lesson-with-mel-2026-08-14-15-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "3:00 pm – 4:00 pm"
+  },
+  {
+    "id": 90,
+    "name": "SUMMER HOLS ROLLER SKATE SPECIAL (Age 5+)",
+    "day": "14",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/summer-hols-roller-skate-special-age-5-2026-08-14-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 4:00 pm"
+  },
+  {
+    "id": 89,
+    "name": "LGBTQ+ Wheels of Connection: Prism",
+    "day": "13",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Celebrate Connection. All Identities Welcome. Prism is—a supportive, affirming, and celebratory roller skate session for Trans, Gender Non-Conforming (GNC) folks, and their Allies! This space is dedicated to connection, joy, and movement, with coaches to support.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/lgbtq-wheels-of-connection-prism-2026-08-13-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
+  },
+  {
+    "id": 88,
+    "name": "Adults Thursday Evening Drop In Session",
+    "day": "13",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Drop in to practise, move or chat. Skate hire available for a small additional fee.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/adults-thursday-evening-drop-in-session-2026-08-13-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 87,
+    "name": "Private Skate Lesson with Mel",
+    "day": "13",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Level up your skating by booking a private session with lead coach Mel",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/private-skate-lesson-with-mel-2026-08-13-15-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "3:00 pm – 4:00 pm"
+  },
+  {
+    "id": 86,
+    "name": "SUMMER HOLS ROLLER SKATE SPECIAL (Age 5+)",
+    "day": "13",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/summer-hols-roller-skate-special-age-5-2026-08-13-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 4:00 pm"
+  },
+  {
+    "id": 85,
+    "name": "Focus & Flow 17+ (WEEK 1)",
+    "day": "12",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Suggested Level 3&4 The focus for this block of classes is TBD",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/focus-flow-17-week-1-2026-08-12-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
+  },
+  {
+    "id": 84,
+    "name": "KIDS 7+ - Level 1&2: Learn to Roller Skate Taster Session",
+    "day": "12",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "taster",
+      "lesson",
+      "family"
+    ],
+    "desc": "Let's Get Rolling! Kids only session. For children aged 7 and over Learn to roller skate in Leeds this Summer!",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/kids-7-level-1-2-learn-to-roller-skate-taster-session-2026-08-12-18-15",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:15 pm – 7:15 pm"
+  },
+  {
+    "id": 83,
+    "name": "Private Skate Lesson with Mel",
+    "day": "12",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Level up your skating by booking a private session with lead coach Mel",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/private-skate-lesson-with-mel-2026-08-12-15-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "3:00 pm – 4:00 pm"
+  },
+  {
+    "id": 82,
+    "name": "SUMMER HOLS ROLLER SKATE SPECIAL (Age 5+)",
+    "day": "12",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/summer-hols-roller-skate-special-age-5-2026-08-12-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 4:00 pm"
+  },
+  {
+    "id": 81,
+    "name": "Outdoor Confidence Workshop 1: First Steps Outside (Level 2+)",
+    "day": "11",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "workshop",
+      "lesson",
+      "outdoor"
+    ],
+    "desc": "Master the fundamentals of outdoor skating in a controlled environment. We'll cover surface reading, outdoor stopping techniques, and essential safety skills that'll set you up for success. Get comfortable with different terrain and learn how to handle various outdoor surfaces.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/outdoor-confidence-workshop-1-first-steps-outside-level-2-2026-08-11-18-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:30 pm – 8:00 pm"
+  },
+  {
+    "id": 80,
+    "name": "Neurodivergent friendly - Wheels of Connection: Spectrum Session",
+    "day": "11",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "We've launched a session specifically for skaters with neurodivergence to come together in a low-stimulus environment. With coaches to support your skate skills as required.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/neurodivergent-friendly-wheels-of-connection-spectrum-session-2026-08-11-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 79,
+    "name": "Private Skate Lesson with Mel",
+    "day": "11",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Level up your skating by booking a private session with lead coach Mel",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/private-skate-lesson-with-mel-2026-08-11-15-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "3:00 pm – 4:00 pm"
+  },
+  {
+    "id": 78,
+    "name": "ADULT: Level 2 Taster Session",
+    "day": "10",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "taster"
+    ],
+    "desc": "Can you already skate a bit? Try out our Level 2 taster session to help you progress your skills",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/adult-level-2-taster-session-2026-08-10-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 8:30 pm"
+  },
+  {
+    "id": 77,
+    "name": "ADULT: Absolute Beginners Learn to Roller Skate Taster Session",
+    "day": "10",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "taster",
+      "lesson",
+      "family"
+    ],
+    "desc": "Let's Get Rolling! One for the big kids! (Most of our adult sessions are attended by people 40+)",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/adult-absolute-beginners-learn-to-roller-skate-taster-session-2026-08-10-18-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:30 pm – 7:30 pm"
+  },
+  {
+    "id": 76,
+    "name": "SUMMER HOLS ROLLER SKATE SPECIAL (Age 5+)",
+    "day": "10",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/summer-hols-roller-skate-special-age-5-2026-08-10-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 4:00 pm"
+  },
+  {
+    "id": 75,
+    "name": "Level 3 & 4: Coached Skate Session (Age 17+)",
+    "day": "09",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Limited number session @ The Skate Sanctuary. What do you want to improve? Come with your request and get tailored support to improve that skill.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/level-3-4-coached-skate-session-age-17-2026-08-09-16-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:30 pm – 6:30 pm"
+  },
+  {
+    "id": 74,
+    "name": "Private Skate Lesson with Mel",
+    "day": "09",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Level up your skating by booking a private session with lead coach Mel",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/private-skate-lesson-with-mel-2026-08-09-15-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "3:00 pm – 4:00 pm"
+  },
+  {
+    "id": 73,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "09",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/age-5-drop-in-skate-2026-08-09-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 72,
+    "name": "Levels 1 & 2: Coached Skate Session (Age 17+)",
+    "day": "09",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Our coach team is here to work with you to overcome your obstacles to roller skating. Book on this special session to get started in a supportive environment.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/levels-1-2-coached-skate-session-age-17-2026-08-09-10-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "10:00 am – 12:00 pm"
+  },
+  {
+    "id": 71,
+    "name": "Friday Night Social 17+",
+    "day": "07",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, have a chat, meet other skaters in the community and unwind! Our skate marshalls are here to ensure everyone has a great time and skate safely.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/friday-night-social-17-2026-08-07-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 10:00 pm"
+  },
+  {
+    "id": 70,
+    "name": "SUMMER HOLS ROLLER SKATE SPECIAL (Age 5+)",
+    "day": "07",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/summer-hols-roller-skate-special-age-5-2026-08-07-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 4:00 pm"
+  },
+  {
+    "id": 69,
+    "name": "Adults Thursday Evening Drop In Session",
+    "day": "06",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Drop in to practise, move or chat. Skate hire available for a small additional fee.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/adults-thursday-evening-drop-in-session-2026-08-06-17-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "5:00 pm – 8:00 pm"
   }
 ]
