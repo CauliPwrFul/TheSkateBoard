@@ -287,11 +287,24 @@ header {
   border-bottom: 1px solid var(--border);
   padding: 1rem 2rem;
   display: flex;
+  align-items: center;
+  flex-wrap: wrap;
   gap: 2.5rem;
   font-size: 0.8rem;
   color: var(--muted);
   letter-spacing: 0.05em;
 }
+
+.subscribe-link {
+  margin-left: auto;
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 500;
+  white-space: nowrap;
+  letter-spacing: 0.02em;
+}
+
+.subscribe-link:hover { text-decoration: underline; }
 
 .stat strong {
   color: var(--text);
