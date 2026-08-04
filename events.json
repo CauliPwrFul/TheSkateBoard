@@ -1199,5 +1199,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 114,
+    "name": "Skate Maintenance & Crafternoon - Wheel Dying Workshop",
+    "day": "22",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "workshop"
+    ],
+    "desc": "Skate Maintenance and Crafternoon! Bring all your skate related questions and gain a number of skills to maintain, fix, decorate or even upgrade parts of your skates. Tools provided - Extra Materials such as craft supplies or upgraded parts will need to be purchased separately",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/skate-maintenance-crafternoon-wheel-dying-workshop-2026-08-22-16-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:00 pm – 6:00 pm"
   }
 ]
