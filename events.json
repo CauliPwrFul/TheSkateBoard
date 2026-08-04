@@ -1199,5 +1199,22 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 162,
+    "name": "Introduction to ... Cross Step Age 17+",
+    "day": "08",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "disco"
+    ],
+    "desc": "Roller Dance series for Level 2+ skaters. This series is designed to help you learn roller dance vocabulary and feel more confident to join in at roller discos, skate parties and festivals. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/introduction-to-cross-step-age-17-4",
+    "free": false,
+    "region": "West Yorkshire"
   }
 ]
