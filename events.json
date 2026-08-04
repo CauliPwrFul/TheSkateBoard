@@ -1199,5 +1199,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 94,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "15",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/age-5-drop-in-skate-2026-08-15-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
   }
 ]
