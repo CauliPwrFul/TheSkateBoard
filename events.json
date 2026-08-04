@@ -1199,5 +1199,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 92,
+    "name": "Friday Night ROLL OUT & ROLL IN 18+",
+    "day": "14",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Unwind at The Skate Sanctuary - come for a chat, skate and boogie at our studio. As long as weather permits, we'll roll out into the local area, or into Leeds city centre - new later finish! 10.30pm",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/friday-night-roll-out-roll-in-18-2026-08-14-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 9:00 pm"
   }
 ]
