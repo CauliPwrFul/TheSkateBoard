@@ -14,6 +14,7 @@ def load_seen():
 
 
 def save_seen(seen_keys):
+    os.makedirs(os.path.dirname(LEDGER_PATH), exist_ok=True)
     with open(LEDGER_PATH, "w", encoding="utf-8") as f:
         json.dump(sorted(seen_keys), f, indent=2)
         f.write("\n")
