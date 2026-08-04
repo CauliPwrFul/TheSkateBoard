@@ -1199,5 +1199,24 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 126,
+    "name": "Outdoor Confidence Workshop 3: Conquering the Hills (Level 3+)",
+    "day": "25",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "Leeds Skelton Lake Services",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "workshop",
+      "outdoor"
+    ],
+    "desc": "Face your fears and master elevation changes! Learn uphill and downhill techniques, advanced stopping methods, and speed control. By the end of this session, you'll have the skills and confidence to tackle most urban terrain.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/outdoor-confidence-workshop-3-conquering-the-hills-level-3-2026-08-25-18-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:30 pm – 8:00 pm"
   }
 ]
