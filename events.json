@@ -1199,5 +1199,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 68,
+    "name": "No Roller Dance Focus & Flow This Week",
+    "day": "05",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "There's no Roller Dance Focus & Flow this week Check out the timetable for other sessions you might enjoy",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/no-roller-dance-focus-flow-this-week-2026-08-05-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
   }
 ]
