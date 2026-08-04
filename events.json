@@ -1201,8 +1201,26 @@
     "time": "6:00 pm – 7:30 pm"
   },
   {
+    "id": 67,
+    "name": "Adults Wednesday Evening Drop In Session",
+    "day": "05",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Drop in to practise, move or chat. Skate hire available for a small additional fee.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/adults-wednesday-evening-drop-in-session-2026-08-05-17-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "5:00 pm – 8:00 pm"
+  },
+   {
     "id": 68,
-    "name": "No Roller Dance Focus & Flow This Week",
+    "name": "[cancelled] No Roller Dance Focus & Flow This Week",
     "day": "05",
     "month": "Aug",
     "year": "2026",
@@ -1216,6 +1234,6 @@
     "link": "https://www.theskatesanctuary.co.uk/event-details/no-roller-dance-focus-flow-this-week-2026-08-05-19-30",
     "free": false,
     "region": "West Yorkshire",
-    "time": "7:30 pm – 9:00 pm"
+    "time": "7:30 pm – 9:00 pm
   }
 ]
