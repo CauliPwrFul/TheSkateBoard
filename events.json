@@ -1199,5 +1199,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 71,
+    "name": "Friday Night Social 17+",
+    "day": "07",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, have a chat, meet other skaters in the community and unwind! Our skate marshalls are here to ensure everyone has a great time and skate safely.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/friday-night-social-17-2026-08-07-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 10:00 pm"
   }
 ]
