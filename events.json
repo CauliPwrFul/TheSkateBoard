@@ -1199,5 +1199,24 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 157,
+    "name": "Level 3 Skate Skills Workshop 17+",
+    "day": "06",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "workshop",
+      "lesson"
+    ],
+    "desc": "1hr level 3 skills class for confident skaters, who want new challenges and excitement. FOCUS: Wk1 Lemons, T start, T stop, push and glide",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/level-3-skate-skills-workshop-17-2026-09-06-16-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:30 pm – 5:30 pm"
   }
 ]
