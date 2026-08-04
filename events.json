@@ -1199,5 +1199,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 99,
+    "name": "Level 3 & 4: Coached Skate Session (Age 17+)",
+    "day": "16",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Limited number session @ The Skate Sanctuary. What do you want to improve? Come with your request and get tailored support to improve that skill.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/level-3-4-coached-skate-session-age-17-2026-08-16-16-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:30 pm – 6:30 pm"
   }
 ]
