@@ -665,6 +665,65 @@ header {
 }
 .no-results.visible { display: block; }
 
+/* ── Pagination ── */
+.pagination-status {
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.8rem;
+  margin-top: 1.5rem;
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+.page-btn {
+  background: var(--tag-bg);
+  border: 1px solid var(--border);
+  color: var(--muted);
+  padding: 0.35rem 0.75rem;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: all 0.15s;
+  border-radius: 2px;
+}
+
+.page-btn:hover:not(:disabled) {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: rgba(245,230,66,0.06);
+}
+
+.page-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.page-numbers {
+  display: flex;
+  gap: 0.35rem;
+  flex-wrap: wrap;
+}
+
+.page-number {
+  min-width: 2rem;
+  text-align: center;
+  padding: 0.35rem 0.5rem;
+}
+
+.page-number.active {
+  border-color: var(--accent);
+  color: var(--accent);
+  font-weight: 500;
+  background: rgba(245,230,66,0.06);
+}
+
 /* ── FAQ ── */
 .faq-section {
   padding: 1rem 2rem 3rem;

@@ -129,6 +129,8 @@ function renderEventStructuredData(allEvents) {
 
 let currentFilter = 'all';
 let currentMonth = null; // null = all months; "Apr 2026" format when set
+let currentPage = 1;
+const PAGE_SIZE = 24;
 
 // ── Month filter ───────────────────────────────────────────────────────────
 function initMonthFilter() {
@@ -177,6 +179,7 @@ function setMonth(value) {
   currentMonth = value === 'all' ? null : value;
   select.classList.toggle('active', value !== 'all');
   window.location.hash = value === 'all' ? '' : encodeURIComponent(value);
+  currentPage = 1;
   renderEvents();
 }
 
@@ -188,6 +191,7 @@ window.addEventListener('hashchange', () => {
   select.value = value;
   currentMonth = value === 'all' ? null : value;
   select.classList.toggle('active', value !== 'all');
+  currentPage = 1;
   renderEvents();
 });
 
@@ -196,6 +200,7 @@ function setFilter(type, btn) {
   currentFilter = type;
   document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
+  currentPage = 1;
   renderEvents();
 }
 
@@ -220,7 +225,6 @@ function safeHref(url) {
 function renderEvents() {
   const grid = document.getElementById('events-grid');
   const noResults = document.getElementById('no-results');
-  let visible = 0;
   grid.innerHTML = '';
 
   // Build today's date at midnight for comparison
@@ -244,16 +248,21 @@ function renderEvents() {
       return da - db;
     });
 
-  // Update the upcoming count stat
+  // Update the upcoming count stat (total upcoming, regardless of type filter/page)
   document.getElementById('upcoming-count').textContent = upcoming.length;
 
-  upcoming.forEach((e) => {
-    const show = currentFilter === 'all'
-      || e.types.includes(currentFilter)
-      || (currentFilter === 'free' && e.free);
-    if (!show) return;
-    visible++;
+  const filtered = upcoming.filter(e =>
+    currentFilter === 'all'
+    || e.types.includes(currentFilter)
+    || (currentFilter === 'free' && e.free)
+  );
 
+  const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
+  currentPage = Math.min(Math.max(currentPage, 1), totalPages);
+  const start = (currentPage - 1) * PAGE_SIZE;
+  const pageItems = filtered.slice(start, start + PAGE_SIZE);
+
+  pageItems.forEach((e, i) => {
     const tagHtml = e.types.map(t => `<span class="tag tag-${escapeHtml(t)}">${escapeHtml(t)}</span>`).join('')
       + (e.free ? '<span class="tag tag-free">free</span>' : '');
 
@@ -261,7 +270,7 @@ function renderEvents() {
 
     const card = document.createElement('div');
     card.className = 'event-card';
-    card.style.animationDelay = `${(visible - 1) * 0.05}s`;
+    card.style.animationDelay = `${i * 0.05}s`;
     card.innerHTML = `
       <div class="card-top">
         <div class="event-date">
@@ -287,7 +296,75 @@ function renderEvents() {
     grid.appendChild(card);
   });
 
-  noResults.classList.toggle('visible', visible === 0);
+  noResults.classList.toggle('visible', filtered.length === 0);
+  renderPagination(filtered.length, totalPages, start, pageItems.length);
+}
+
+// ── Pagination ─────────────────────────────────────────────────────────────
+function renderPagination(totalFiltered, totalPages, start, pageCount) {
+  const nav = document.getElementById('pagination');
+  const status = document.getElementById('pagination-status');
+
+  if (totalFiltered === 0) {
+    nav.hidden = true;
+    nav.innerHTML = '';
+    status.textContent = '';
+    return;
+  }
+
+  status.textContent = totalPages > 1
+    ? `Showing ${start + 1}–${start + pageCount} of ${totalFiltered} events`
+    : `Showing all ${totalFiltered} events`;
+
+  if (totalPages <= 1) {
+    nav.hidden = true;
+    nav.innerHTML = '';
+    return;
+  }
+
+  nav.hidden = false;
+  nav.innerHTML = '';
+
+  const prevBtn = document.createElement('button');
+  prevBtn.type = 'button';
+  prevBtn.className = 'page-btn page-prev';
+  prevBtn.textContent = '← Previous';
+  prevBtn.disabled = currentPage === 1;
+  prevBtn.setAttribute('aria-label', 'Previous page');
+  prevBtn.addEventListener('click', () => goToPage(currentPage - 1));
+  nav.appendChild(prevBtn);
+
+  const numbers = document.createElement('div');
+  numbers.className = 'page-numbers';
+  for (let p = 1; p <= totalPages; p++) {
+    const pageBtn = document.createElement('button');
+    pageBtn.type = 'button';
+    pageBtn.className = 'page-btn page-number';
+    pageBtn.textContent = String(p);
+    pageBtn.setAttribute('aria-label', `Page ${p} of ${totalPages}`);
+    if (p === currentPage) {
+      pageBtn.classList.add('active');
+      pageBtn.setAttribute('aria-current', 'page');
+    }
+    pageBtn.addEventListener('click', () => goToPage(p));
+    numbers.appendChild(pageBtn);
+  }
+  nav.appendChild(numbers);
+
+  const nextBtn = document.createElement('button');
+  nextBtn.type = 'button';
+  nextBtn.className = 'page-btn page-next';
+  nextBtn.textContent = 'Next →';
+  nextBtn.disabled = currentPage === totalPages;
+  nextBtn.setAttribute('aria-label', 'Next page');
+  nextBtn.addEventListener('click', () => goToPage(currentPage + 1));
+  nav.appendChild(nextBtn);
+}
+
+function goToPage(page) {
+  currentPage = page;
+  renderEvents();
+  document.getElementById('events-grid').focus();
 }
 
 // ── Fillout popup ──────────────────────────────────────────────────────────

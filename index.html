@@ -151,12 +151,14 @@
 </div>
 
 <section class="events-section">
-  <div class="events-grid" id="events-grid"></div>
+  <div class="events-grid" id="events-grid" tabindex="-1"></div>
   <div class="no-results" id="no-results">
     <p style="font-size:2rem;margin-bottom:0.5rem">🛼</p>
     <p>No events found for that filter.<br>
     Know of one? <span class="fillout-trigger" onclick="openFillout()">Add it →</span></p>
   </div>
+  <p class="pagination-status" id="pagination-status" aria-live="polite"></p>
+  <nav class="pagination" id="pagination" aria-label="Pagination" hidden></nav>
 </section>
 
 <section class="faq-section">
