@@ -1199,5 +1199,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 112,
+    "name": "Adults Thursday Evening Drop In Session",
+    "day": "20",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Drop in to practise, move or chat. Skate hire available for a small additional fee.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/adults-thursday-evening-drop-in-session-2026-08-20-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
   }
 ]
