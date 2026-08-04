@@ -7,7 +7,7 @@
   --accent2: #ff6b35;
   --accent3: #b8f5e6;
   --text: #f0ede6;
-  --muted: #7a7672;
+  --muted: #96928d; /* was #7a7672 — failed WCAG AA 4.5:1 against every bg it's used on (measured 3.44–4.31:1 via AUDITSU/axe scan, 2026-08-04). This passes 5.0:1+ everywhere while keeping the same warm grey tint. */
   --tag-bg: #242424;
   --board-skate: #f0ede6;
   --board-board: #f5e642;
