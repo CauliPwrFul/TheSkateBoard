@@ -1199,5 +1199,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 170,
+    "name": "Skate Maintenance & Crafternoon - Plate & Cushion Masterclass",
+    "day": "12",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Skate Maintenance and Crafternoon! Bring all your skate related questions and gain a number of skills to maintain, fix, decorate or even upgrade parts of your skates. Tools provided - Extra Materials such as craft supplies or upgraded parts will need to be purchased separately",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/skate-maintenance-crafternoon-plate-cushion-masterclass-2026-09-12-16-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:00 pm – 6:00 pm"
   }
 ]
