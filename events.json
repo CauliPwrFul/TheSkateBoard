@@ -1199,5 +1199,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 154,
+    "name": "Level 1 & 2: Adult Foundation 4 week Accelerator Course (17+) - wk4",
+    "day": "05",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Feel more confident on wheels, ready to roll for the summer! Suitable for those with limited or no roller skate experience and lots of courage. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/level-1-2-adult-foundation-4-week-accelerator-course-17-wk4-2026-09-05-10-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "10:00 am – 12:00 pm"
   }
 ]
