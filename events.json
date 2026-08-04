@@ -1199,5 +1199,25 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 105,
+    "name": "Outdoor Confidence Workshop 2: Exploring New Horizons (Level 3+)",
+    "day": "18",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "workshop",
+      "lesson",
+      "outdoor"
+    ],
+    "desc": "Time to level up! We'll venture into different outdoor spaces, teaching you how to navigate obstacles, manage varying surfaces, and build your confidence in new environments. Practice group skating etiquette and learn to handle unexpected situations with ease.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/outdoor-confidence-workshop-2-exploring-new-horizons-level-3-2026-08-18-18-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:30 pm – 8:00 pm"
   }
 ]
