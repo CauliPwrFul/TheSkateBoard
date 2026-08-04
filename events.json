@@ -1199,5 +1199,24 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 158,
+    "name": "Level 4: Skate Skills Workshop 17+",
+    "day": "06",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "workshop",
+      "lesson"
+    ],
+    "desc": "1hr level 4 skills class for confident skaters, who want new challenges and excitement. FOCUS -Week 1 Intro to ballroom. T stops, intro to hockey stop/powerslides",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/level-4-skate-skills-workshop-17-2026-09-06-17-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "5:30 pm – 6:30 pm"
   }
 ]
