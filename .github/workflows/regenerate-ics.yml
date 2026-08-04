@@ -1,0 +1,45 @@
+name: Regenerate ICS feed
+
+on:
+  push:
+    branches: [main]
+    paths: ["events.json"]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Configure git identity
+        run: |
+          git config user.name "skate-board-bot"
+          git config user.email "actions@github.com"
+
+      - name: Regenerate events.ics and open a PR if it changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 scripts/generate_ics.py
+          if [ -n "$(git status --porcelain -- events.ics)" ]; then
+            branch="chore/regenerate-ics-$(date -u +%Y%m%d-%H%M%S)"
+            git checkout -b "$branch"
+            git add events.ics
+            git commit -m "Regenerate events.ics"
+            git push origin "$branch"
+            gh pr create --base main --head "$branch" \
+              --title "Regenerate events.ics" \
+              --body "Automated — keeps the calendar subscription feed in sync with events.json."
+            gh pr merge "$branch" --squash --delete-branch
+          fi
