@@ -1199,5 +1199,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 116,
+    "name": "*Smallest Skaters* Under 6",
+    "day": "23",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "£2",
+    "types": [
+      "social"
+    ],
+    "desc": "Bring your little one to skate! A special session for under 6's to skate and play in our studio. Skate Hire available for a small fee. One free adult per child. Additional adults £2.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/smallest-skaters-under-6-2026-08-23-11-00",
+    "free": true,
+    "region": "West Yorkshire",
+    "time": "11:00 am – 12:00 pm"
   }
 ]
