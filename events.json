@@ -1199,5 +1199,24 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 168,
+    "name": "FREE! Skate Meetup @ ELOR",
+    "day": "11",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "East Leeds Orbital Road",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "outdoor",
+      "social"
+    ],
+    "desc": "Join us outdoors for rolling about! Join Us for our Outdoor Meetups this year and even better - it's free! Funded by Sports England- if you attend this meetup you'll receive a voucher for a free gift for outdoor skating fun + safety",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/free-skate-meetup-elor-2026-09-11-18-30",
+    "free": true,
+    "region": "West Yorkshire",
+    "time": "6:30 pm – 8:00 pm"
   }
 ]
