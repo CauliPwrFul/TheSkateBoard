@@ -1199,5 +1199,25 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 81,
+    "name": "Outdoor Confidence Workshop 1: First Steps Outside (Level 2+)",
+    "day": "11",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "workshop",
+      "lesson",
+      "outdoor"
+    ],
+    "desc": "Master the fundamentals of outdoor skating in a controlled environment. We'll cover surface reading, outdoor stopping techniques, and essential safety skills that'll set you up for success. Get comfortable with different terrain and learn how to handle various outdoor surfaces.",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/outdoor-confidence-workshop-1-first-steps-outside-level-2-2026-08-11-18-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:30 pm – 8:00 pm"
   }
 ]
