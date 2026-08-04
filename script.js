@@ -1,11 +1,20 @@
 let events = [];
 
+// Venues sometimes cancel a session without removing it from our data — the
+// convention is prefixing the name with "[cancelled]" (case-insensitive),
+// same tag the discover-events scraper skips at the source. Filtered out
+// everywhere an event is shown, so flagging one this way is enough to pull
+// it from the live site without deleting anything from events.json.
+function isCancelled(e) {
+  return /^\[cancelled\]/i.test((e.name || '').trim());
+}
+
 // ── Load events ───────────────────────────────────────────────────────────
 fetch('events.json')
   .then(res => res.json())
   .then(data => {
     events = data;
-    document.getElementById('venue-count').textContent = new Set(events.map(e => e.venue)).size;
+    document.getElementById('venue-count').textContent = new Set(events.filter(e => !isCancelled(e)).map(e => e.venue)).size;
     initMonthFilter();
     renderEvents();
     renderEventStructuredData(events);
@@ -74,6 +83,7 @@ function renderEventStructuredData(allEvents) {
   today.setHours(0, 0, 0, 0);
 
   const upcomingAll = allEvents.filter(e => {
+    if (isCancelled(e)) return false;
     const eventDate = new Date(parseInt(e.year), SD_MONTH_MAP[e.month], parseInt(e.day));
     return eventDate >= today;
   });
@@ -132,7 +142,7 @@ function initMonthFilter() {
   // Collect unique month/year combos from events, dropping any that are
   // entirely in the past (selecting one always shows zero events, since
   // renderEvents() hides past events regardless of the month filter).
-  const months = [...new Set(events.map(e => `${e.month} ${e.year}`))]
+  const months = [...new Set(events.filter(e => !isCancelled(e)).map(e => `${e.month} ${e.year}`))]
     .filter(m => {
       const [mo, yr] = m.split(' ');
       return new Date(parseInt(yr), monthMap[mo], 1) >= currentMonthStart;
@@ -222,6 +232,7 @@ function renderEvents() {
   // Filter out past events, apply month filter, and sort ascending
   const upcoming = events
     .filter(e => {
+      if (isCancelled(e)) return false;
       const eventDate = new Date(parseInt(e.year), monthMap[e.month], parseInt(e.day));
       if (eventDate < today) return false;
       if (currentMonth && `${e.month} ${e.year}` !== currentMonth) return false;
