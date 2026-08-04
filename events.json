@@ -1199,5 +1199,25 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 124,
+    "name": "ADULT: Absolute Beginners Learn to Roller Skate Taster Session",
+    "day": "24",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "taster",
+      "lesson",
+      "family"
+    ],
+    "desc": "Let's Get Rolling! One for the big kids! (Most of our adult sessions are attended by people 40+)",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/adult-absolute-beginners-learn-to-roller-skate-taster-session-2026-08-24-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 8:30 pm"
   }
 ]
