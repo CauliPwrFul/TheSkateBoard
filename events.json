@@ -1199,5 +1199,22 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 179,
+    "name": "2026 Monday Community Roller Dance",
+    "day": "20",
+    "month": "Apr",
+    "year": "2027",
+    "venue": "The Skate Scholarship",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "",
+    "link": "https://www.theskatescholarship.com/product-page/2026-monday-community-roller-dance",
+    "free": false,
+    "region": "West Yorkshire"
   }
 ]
