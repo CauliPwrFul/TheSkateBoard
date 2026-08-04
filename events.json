@@ -1199,5 +1199,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 145,
+    "name": "SUMMER HOLS ROLLER SKATE SPECIAL (Age 5+)",
+    "day": "31",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/summer-hols-roller-skate-special-age-5-2026-08-31-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 4:00 pm"
   }
 ]
