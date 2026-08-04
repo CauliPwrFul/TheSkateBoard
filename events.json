@@ -1199,5 +1199,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 123,
+    "name": "ADULT: Level 2 Taster Session",
+    "day": "24",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "taster"
+    ],
+    "desc": "Can you already skate a bit? Try out our Level 2 taster session to help you progress your skills",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/adult-level-2-taster-session-2026-08-24-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 8:30 pm"
   }
 ]
