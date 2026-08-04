@@ -1199,5 +1199,25 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 129,
+    "name": "KIDS 7+ - Level 1&2: Learn to Roller Skate Taster Session",
+    "day": "26",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "taster",
+      "lesson",
+      "family"
+    ],
+    "desc": "Let's Get Rolling! Kids only session. For children aged 7 and over Learn to roller skate in Leeds this Summer!",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/kids-7-level-1-2-learn-to-roller-skate-taster-session-2026-08-26-18-15",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:15 pm – 7:15 pm"
   }
 ]
