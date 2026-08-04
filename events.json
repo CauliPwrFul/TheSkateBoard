@@ -1199,5 +1199,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 164,
+    "name": "Focus & Flow 17+ (WEEK 5)",
+    "day": "09",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Suggested Level 3&4 The focus for this block of classes is TBD",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/focus-flow-17-week-5-2026-09-09-19-30-1",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
   }
 ]
