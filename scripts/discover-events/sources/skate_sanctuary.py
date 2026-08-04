@@ -3,7 +3,7 @@ import re
 from datetime import datetime, timezone
 
 from lib.http import fetch
-from lib.format import clean_text, infer_types, infer_free, pad_day, month_abbr, extract_price_from_text
+from lib.format import clean_text, infer_types, infer_free, pad_day, month_abbr, extract_price_from_text, is_cancellation_notice
 
 SOURCE_URL = "https://www.theskatesanctuary.co.uk/"
 SOURCE_NAME = "The Skate Sanctuary"
@@ -65,6 +65,9 @@ def fetch_events():
             continue
 
         name = clean_text(event.get("title"))
+        if is_cancellation_notice(name):
+            continue
+
         desc = clean_text(event.get("description"))
         venue = clean_text((event.get("location") or {}).get("name")) or SOURCE_NAME
         location = _location_string(event.get("location"))

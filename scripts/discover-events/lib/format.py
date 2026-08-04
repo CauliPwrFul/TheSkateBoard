@@ -34,6 +34,18 @@ def clean_text(text):
     return re.sub(r"\s+", " ", text).strip()
 
 
+# Venues sometimes post a cancellation as its own calendar entry rather than
+# removing the slot — e.g. Skate Sanctuary's "No Class this week: Level 1..."
+# or "No Roller Dance Focus & Flow This Week". These have real dates/times
+# like any other session, so nothing else would catch them — matched here so
+# they're skipped at the source instead of proposed as real events.
+CANCELLATION_RE = re.compile(r"^no\s+.*\bthis week\b|\bcancell?ed\b", re.I)
+
+
+def is_cancellation_notice(name):
+    return bool(CANCELLATION_RE.search(name or ""))
+
+
 def infer_types(name, desc=""):
     """Returns (types, matched) — matched is False when nothing in
     TYPE_KEYWORDS hit and we fell back to the "social" default, so callers

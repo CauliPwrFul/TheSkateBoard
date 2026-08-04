@@ -2,7 +2,7 @@ import re
 from datetime import date
 
 from lib.http import fetch
-from lib.format import clean_text, infer_types, infer_free, pad_day, month_abbr
+from lib.format import clean_text, infer_types, infer_free, pad_day, month_abbr, is_cancellation_notice
 
 SOURCE_URL = "https://www.theskatescholarship.com/shop"
 SOURCE_NAME = "The Skate Scholarship"
@@ -69,6 +69,9 @@ def fetch_events():
         name = clean_text(
             re.sub(r"\s*\.\s*(?:Starts\s+.+|[A-Z][A-Z \d]+)\s*gallery\s*$", "", aria, flags=re.I)
         ) or clean_text(aria)
+
+        if is_cancellation_notice(name):
+            continue
 
         window = html[card_match.end():card_match.end() + 4000]
 
