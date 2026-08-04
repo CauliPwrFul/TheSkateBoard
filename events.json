@@ -1199,5 +1199,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 119,
+    "name": "Private Skate Lesson with Mel",
+    "day": "23",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Level up your skating by booking a private session with lead coach Mel",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/private-skate-lesson-with-mel-2026-08-23-15-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "3:00 pm – 4:00 pm"
   }
 ]
