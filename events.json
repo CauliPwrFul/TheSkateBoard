@@ -3265,5 +3265,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "5:00 pm – 8:00 pm"
+  },
+  {
+    "id": 180,
+    "name": "The Skate Sanctuary Super Shopping Day",
+    "day": "21",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "A Special day to shop and craft at The Skate Sanctuary. We'll have extra stock in today so why not book a fitting or drop in and try some wheels?",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/the-skate-sanctuary-super-shopping-day",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "2:00 pm – 10:00 pm"
   }
 ]
