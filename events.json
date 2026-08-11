@@ -3265,5 +3265,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "5:00 pm – 8:00 pm"
+  },
+  {
+    "id": 180,
+    "name": "FREE! Night Skate Rollout @ Leeds City Centre",
+    "day": "21",
+    "month": "Aug",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Join our roll out starting from The Skate Sanctuary. We will take a flat-ish route around Leeds City centre and end near The Tetley (so you can meet us there if you prefer). We suggest you're comfortable to stop and can manage different textures. Do bring your shoes. Funded by Sport England",
+    "link": "https://www.theskatesanctuary.co.uk/event-details/free-night-skate-rollout-leeds-city-centre-2026-08-21-20-30",
+    "free": true,
+    "region": "West Yorkshire",
+    "time": "8:30 pm – 10:00 pm"
   }
 ]
