@@ -276,6 +276,14 @@ header {
   animation: spin 20s linear infinite;
 }
 
+@media (min-width: 1080px) {
+  .hero-wheel {
+    right: 1rem;
+    top: 1rem;
+    font-size: 13rem;
+  }
+}
+
 @keyframes spin {
   from { transform: rotate(-15deg); }
   to   { transform: rotate(345deg); }
