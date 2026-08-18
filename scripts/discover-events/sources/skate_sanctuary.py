@@ -92,7 +92,7 @@ def fetch_events():
         results.append(
             {
                 "source_key": f"sanctuary:{event['id']}",
-                "source_url": f"{SOURCE_URL}event-details/{event['slug']}",
+                "source_url": f"{SOURCE_URL}events/{event['slug']}",
                 "name": name,
                 "day": pad_day(start.astimezone().day),
                 "month": month_abbr(start.astimezone().month),
@@ -104,7 +104,7 @@ def fetch_events():
                 "desc": desc,
                 "types": types,
                 "free": infer_free(price, name, desc),
-                "link": f"{SOURCE_URL}event-details/{event['slug']}",
+                "link": f"{SOURCE_URL}events/{event['slug']}",
                 "region": "West Yorkshire",
                 "_confidence_notes": notes,
             }
