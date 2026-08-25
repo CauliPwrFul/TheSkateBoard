@@ -6,19 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:The Skate Board — Leeds Skating Events
 X-WR-CALDESC:Roller discos, lessons, outdoor skates, derby bouts and more in Leeds & West Yorkshire.
 BEGIN:VEVENT
-UID:event-16@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART:20260823T150000Z
-DTEND:20260823T170000Z
-SUMMARY:Roller Skate Super Session Level 2-4 (14+)
-DESCRIPTION:2hrs to develop new skills at the Sikh Sports Hall. Build on th
- e techniques you have learnt in a larger space.
-LOCATION:Ramgarhia Sikh Sports Centre\, Leeds\, LS7
-URL:https://www.theskatesanctuary.co.uk/book
-END:VEVENT
-BEGIN:VEVENT
 UID:event-17@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260920T150000Z
 DTEND:20260920T170000Z
 SUMMARY:Roller Skate Super Session Level 2-4 (14+)
@@ -29,7 +18,7 @@ URL:https://www.theskatesanctuary.co.uk/book
 END:VEVENT
 BEGIN:VEVENT
 UID:event-18@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20261018T150000Z
 DTEND:20261018T170000Z
 SUMMARY:Roller Skate Super Session Level 2-4 (14+)
@@ -40,7 +29,7 @@ URL:https://www.theskatesanctuary.co.uk/book
 END:VEVENT
 BEGIN:VEVENT
 UID:event-19@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20261122T160000Z
 DTEND:20261122T180000Z
 SUMMARY:Roller Skate Super Session Level 2-4 (14+)
@@ -51,7 +40,7 @@ URL:https://www.theskatesanctuary.co.uk/book
 END:VEVENT
 BEGIN:VEVENT
 UID:event-45@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260904T180000Z
 DTEND:20260904T210000Z
 SUMMARY:Friday Night Social Roller Skate Disco
@@ -62,7 +51,7 @@ URL:https://www.theskatesanctuary.co.uk/book
 END:VEVENT
 BEGIN:VEVENT
 UID:event-46@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260918T180000Z
 DTEND:20260918T210000Z
 SUMMARY:Friday Night Social Roller Skate Disco
@@ -73,7 +62,7 @@ URL:https://www.theskatesanctuary.co.uk/book
 END:VEVENT
 BEGIN:VEVENT
 UID:event-47@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20261001T180000Z
 DTEND:20261001T210000Z
 SUMMARY:Friday Night Social Roller Skate Disco
@@ -84,7 +73,7 @@ URL:https://www.theskatesanctuary.co.uk/book
 END:VEVENT
 BEGIN:VEVENT
 UID:event-48@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20261016T180000Z
 DTEND:20261016T210000Z
 SUMMARY:Friday Night Social Roller Skate Disco
@@ -95,7 +84,7 @@ URL:https://www.theskatesanctuary.co.uk/book
 END:VEVENT
 BEGIN:VEVENT
 UID:event-49@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20261106T190000Z
 DTEND:20261106T220000Z
 SUMMARY:Friday Night Social Roller Skate Disco
@@ -106,7 +95,7 @@ URL:https://www.theskatesanctuary.co.uk/book
 END:VEVENT
 BEGIN:VEVENT
 UID:event-50@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20261120T190000Z
 DTEND:20261120T220000Z
 SUMMARY:Friday Night Social Roller Skate Disco
@@ -117,7 +106,7 @@ URL:https://www.theskatesanctuary.co.uk/book
 END:VEVENT
 BEGIN:VEVENT
 UID:event-51@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20261204T190000Z
 DTEND:20261204T220000Z
 SUMMARY:Friday Night Social Roller Skate Disco
@@ -128,7 +117,7 @@ URL:https://www.theskatesanctuary.co.uk/book
 END:VEVENT
 BEGIN:VEVENT
 UID:event-52@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20261218T190000Z
 DTEND:20261218T220000Z
 SUMMARY:Friday Night Social Roller Skate Disco
@@ -138,41 +127,8 @@ LOCATION:Ramgarhia Sikh Sports Centre\, Leeds\, LS7
 URL:https://www.theskatesanctuary.co.uk/book
 END:VEVENT
 BEGIN:VEVENT
-UID:event-63@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-SUMMARY:Northern Roll 2026: Skate’n Play Friday
-DESCRIPTION:Inclusive\, low-pressure\, kick-off session built for families 
- and anyone who wants a warm-up session before the main weekend
-LOCATION:Leeds Dock\, Leeds\, LS10
-URL:https://www.theskatescholarship.com/northern-roll
-END:VEVENT
-BEGIN:VEVENT
-UID:event-64@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260823
-SUMMARY:Northern Roll 2026: Saturday Roller Day
-DESCRIPTION:The centrepiece of the festival. Expect DJs\, workshops\, open 
- skating\, roller dance sessions and roller derby.
-LOCATION:Leeds Dock\, Leeds\, LS10
-URL:https://www.theskatescholarship.com/northern-roll
-END:VEVENT
-BEGIN:VEVENT
-UID:event-65@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-SUMMARY:Northern Roll 2026: Sunday Sessions
-DESCRIPTION:Signature skatepark takeover. Bowls\, ramps\, rails\, coaching 
- support - welcoming for all skill levels.
-LOCATION:Leeds Dock\, Leeds\, LS10
-URL:https://www.theskatescholarship.com/northern-roll
-END:VEVENT
-BEGIN:VEVENT
 UID:event-179@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 SUMMARY:2026 Monday Community Roller Dance
@@ -182,7 +138,7 @@ URL:https://www.theskatescholarship.com/product-page/2026-monday-community-
 END:VEVENT
 BEGIN:VEVENT
 UID:event-178@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Introduction to... DOWNTOWN Age 17+
@@ -196,7 +152,7 @@ URL:https://www.theskatesanctuary.co.uk/events/introduction-to-downtown-age
 END:VEVENT
 BEGIN:VEVENT
 UID:event-177@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260915T180000Z
 DTEND:20260915T190000Z
 SUMMARY:FREE! Skate Rollout @ Leeds City Centre
@@ -211,7 +167,7 @@ URL:https://www.theskatesanctuary.co.uk/events/free-skate-rollout-leeds-cit
 END:VEVENT
 BEGIN:VEVENT
 UID:event-176@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260914T183000Z
 DTEND:20260914T200000Z
 SUMMARY:Adult Lv2 Skate Course Week 2 (of 6) (17+)
@@ -223,7 +179,7 @@ URL:https://www.theskatesanctuary.co.uk/events/adult-lv2-skate-course-week-
 END:VEVENT
 BEGIN:VEVENT
 UID:event-175@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260914T170000Z
 DTEND:20260914T183000Z
 SUMMARY:Adult Beginner Skate Course Week 2 (of 6) (17+)
@@ -235,7 +191,7 @@ URL:https://www.theskatesanctuary.co.uk/events/adult-beginner-skate-course-
 END:VEVENT
 BEGIN:VEVENT
 UID:event-174@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260913T163000Z
 DTEND:20260913T173000Z
 SUMMARY:Level 4: Skate Skills Workshop 17+
@@ -248,7 +204,7 @@ URL:https://www.theskatesanctuary.co.uk/events/level-4-skate-skills-worksho
 END:VEVENT
 BEGIN:VEVENT
 UID:event-173@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260913T153000Z
 DTEND:20260913T163000Z
 SUMMARY:Level 3 Skate Skills Workshop 17+
@@ -260,7 +216,7 @@ URL:https://www.theskatesanctuary.co.uk/events/level-3-skate-skills-worksho
 END:VEVENT
 BEGIN:VEVENT
 UID:event-172@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260913T100000Z
 DTEND:20260913T110000Z
 SUMMARY:Level 2: Roller Skate Fundamentals (17+)
@@ -273,7 +229,7 @@ URL:https://www.theskatesanctuary.co.uk/events/level-2-roller-skate-fundame
 END:VEVENT
 BEGIN:VEVENT
 UID:event-171@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260913T090000Z
 DTEND:20260913T100000Z
 SUMMARY:Level 1 : Roller Skate Fundamentals (17+)
@@ -286,7 +242,7 @@ URL:https://www.theskatesanctuary.co.uk/events/level-1-roller-skate-fundame
 END:VEVENT
 BEGIN:VEVENT
 UID:event-170@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260912T150000Z
 DTEND:20260912T170000Z
 SUMMARY:Skate Maintenance & Crafternoon - Plate & Cushion Masterclass
@@ -300,7 +256,7 @@ URL:https://www.theskatesanctuary.co.uk/events/skate-maintenance-crafternoo
 END:VEVENT
 BEGIN:VEVENT
 UID:event-169@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260912T090000Z
 DTEND:20260912T110000Z
 SUMMARY:Level 1 & 2: Adult Foundation 4 week Accelerator Course (17+) - wk4
@@ -313,7 +269,7 @@ URL:https://www.theskatesanctuary.co.uk/events/level-1-2-adult-foundation-4
 END:VEVENT
 BEGIN:VEVENT
 UID:event-168@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260911T173000Z
 DTEND:20260911T190000Z
 SUMMARY:FREE! Skate Meetup @ ELOR
@@ -327,7 +283,7 @@ URL:https://www.theskatesanctuary.co.uk/events/free-skate-meetup-elor-2026-
 END:VEVENT
 BEGIN:VEVENT
 UID:event-167@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260911T160000Z
 DTEND:20260911T180000Z
 SUMMARY:Family Friendly Friday Eve Roller Disco 5+
@@ -340,7 +296,7 @@ URL:https://www.theskatesanctuary.co.uk/events/family-friendly-friday-eve-r
 END:VEVENT
 BEGIN:VEVENT
 UID:event-166@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260910T183000Z
 DTEND:20260910T200000Z
 SUMMARY:LGBTQ+ Wheels of Connection: Prism
@@ -354,7 +310,7 @@ URL:https://www.theskatesanctuary.co.uk/events/lgbtq-wheels-of-connection-p
 END:VEVENT
 BEGIN:VEVENT
 UID:event-165@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260910T170000Z
 DTEND:20260910T183000Z
 SUMMARY:Adults Thursday Evening Drop In Session
@@ -366,7 +322,7 @@ URL:https://www.theskatesanctuary.co.uk/events/adults-thursday-evening-drop
 END:VEVENT
 BEGIN:VEVENT
 UID:event-164@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260909T183000Z
 DTEND:20260909T200000Z
 SUMMARY:Focus & Flow 17+ (WEEK 5)
@@ -377,7 +333,7 @@ URL:https://www.theskatesanctuary.co.uk/events/focus-flow-17-week-5-2026-09
 END:VEVENT
 BEGIN:VEVENT
 UID:event-163@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260909T171500Z
 DTEND:20260909T181500Z
 SUMMARY:Kids All Levels Skate Class Age 7+
@@ -391,7 +347,7 @@ URL:https://www.theskatesanctuary.co.uk/events/kids-all-levels-skate-class-
 END:VEVENT
 BEGIN:VEVENT
 UID:event-162@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Introduction to ... Cross Step Age 17+
@@ -405,7 +361,7 @@ URL:https://www.theskatesanctuary.co.uk/events/introduction-to-cross-step-a
 END:VEVENT
 BEGIN:VEVENT
 UID:event-161@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260908T170000Z
 DTEND:20260908T183000Z
 SUMMARY:Neurodivergent friendly - Wheels of Connection: Spectrum Session
@@ -418,7 +374,7 @@ URL:https://www.theskatesanctuary.co.uk/events/neurodivergent-friendly-whee
 END:VEVENT
 BEGIN:VEVENT
 UID:event-160@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260907T183000Z
 DTEND:20260907T200000Z
 SUMMARY:Adult Lv2 Skate Course Week 1 (of 6) (17+)
@@ -430,7 +386,7 @@ URL:https://www.theskatesanctuary.co.uk/events/adult-lv2-skate-course-week-
 END:VEVENT
 BEGIN:VEVENT
 UID:event-159@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260907T170000Z
 DTEND:20260907T183000Z
 SUMMARY:Adult Beginner Skate Course Week 1 (of 6) (17+)
@@ -442,7 +398,7 @@ URL:https://www.theskatesanctuary.co.uk/events/adult-beginner-skate-course-
 END:VEVENT
 BEGIN:VEVENT
 UID:event-158@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260906T163000Z
 DTEND:20260906T173000Z
 SUMMARY:Level 4: Skate Skills Workshop 17+
@@ -455,7 +411,7 @@ URL:https://www.theskatesanctuary.co.uk/events/level-4-skate-skills-worksho
 END:VEVENT
 BEGIN:VEVENT
 UID:event-157@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260906T153000Z
 DTEND:20260906T163000Z
 SUMMARY:Level 3 Skate Skills Workshop 17+
@@ -468,7 +424,7 @@ URL:https://www.theskatesanctuary.co.uk/events/level-3-skate-skills-worksho
 END:VEVENT
 BEGIN:VEVENT
 UID:event-156@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260906T100000Z
 DTEND:20260906T110000Z
 SUMMARY:Level 2: Roller Skate Fundamentals (17+)
@@ -481,7 +437,7 @@ URL:https://www.theskatesanctuary.co.uk/events/level-2-roller-skate-fundame
 END:VEVENT
 BEGIN:VEVENT
 UID:event-155@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260906T090000Z
 DTEND:20260906T100000Z
 SUMMARY:Level 1 : Roller Skate Fundamentals (17+)
@@ -494,7 +450,7 @@ URL:https://www.theskatesanctuary.co.uk/events/level-1-roller-skate-fundame
 END:VEVENT
 BEGIN:VEVENT
 UID:event-154@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260905T090000Z
 DTEND:20260905T110000Z
 SUMMARY:Level 1 & 2: Adult Foundation 4 week Accelerator Course (17+) - wk4
@@ -507,7 +463,7 @@ URL:https://www.theskatesanctuary.co.uk/events/level-1-2-adult-foundation-4
 END:VEVENT
 BEGIN:VEVENT
 UID:event-153@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260904T183000Z
 DTEND:20260904T210000Z
 SUMMARY:Friday Night Social 17+
@@ -520,7 +476,7 @@ URL:https://www.theskatesanctuary.co.uk/events/friday-night-social-17-2026-
 END:VEVENT
 BEGIN:VEVENT
 UID:event-152@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260904T160000Z
 DTEND:20260904T180000Z
 SUMMARY:Family Friendly Friday Eve Roller Disco 5+
@@ -533,7 +489,7 @@ URL:https://www.theskatesanctuary.co.uk/events/family-friendly-friday-eve-r
 END:VEVENT
 BEGIN:VEVENT
 UID:event-151@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260903T183000Z
 DTEND:20260903T200000Z
 SUMMARY:LGBTQ+ Wheels of Connection: Prism
@@ -547,7 +503,7 @@ URL:https://www.theskatesanctuary.co.uk/events/lgbtq-wheels-of-connection-p
 END:VEVENT
 BEGIN:VEVENT
 UID:event-150@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260903T170000Z
 DTEND:20260903T183000Z
 SUMMARY:Adults Thursday Evening Drop In Session
@@ -559,7 +515,7 @@ URL:https://www.theskatesanctuary.co.uk/events/adults-thursday-evening-drop
 END:VEVENT
 BEGIN:VEVENT
 UID:event-149@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260902T183000Z
 DTEND:20260902T200000Z
 SUMMARY:Focus & Flow 17+ (WEEK 4)
@@ -570,7 +526,7 @@ URL:https://www.theskatesanctuary.co.uk/events/focus-flow-17-week-4-2026-09
 END:VEVENT
 BEGIN:VEVENT
 UID:event-148@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260902T171500Z
 DTEND:20260902T181500Z
 SUMMARY:Kids All Levels Skate Class Age 7+
@@ -584,7 +540,7 @@ URL:https://www.theskatesanctuary.co.uk/events/kids-all-levels-skate-class-
 END:VEVENT
 BEGIN:VEVENT
 UID:event-147@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260901T170000Z
 DTEND:20260901T183000Z
 SUMMARY:Neurodivergent friendly - Wheels of Connection: Spectrum Session
@@ -597,7 +553,7 @@ URL:https://www.theskatesanctuary.co.uk/events/neurodivergent-friendly-whee
 END:VEVENT
 BEGIN:VEVENT
 UID:event-146@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260831T170000Z
 DTEND:20260831T190000Z
 SUMMARY:FREE! Skate Meetup @ ELOR
@@ -611,7 +567,7 @@ URL:https://www.theskatesanctuary.co.uk/events/free-skate-meetup-elor-2026-
 END:VEVENT
 BEGIN:VEVENT
 UID:event-145@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260831T110000Z
 DTEND:20260831T150000Z
 SUMMARY:SUMMER HOLS ROLLER SKATE SPECIAL (Age 5+)
@@ -623,7 +579,7 @@ URL:https://www.theskatesanctuary.co.uk/events/summer-hols-roller-skate-spe
 END:VEVENT
 BEGIN:VEVENT
 UID:event-144@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260830T153000Z
 DTEND:20260830T173000Z
 SUMMARY:Level 3 & 4: Coached Skate Session (Age 17+)
@@ -636,7 +592,7 @@ URL:https://www.theskatesanctuary.co.uk/events/level-3-4-coached-skate-sess
 END:VEVENT
 BEGIN:VEVENT
 UID:event-143@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260830T140000Z
 DTEND:20260830T150000Z
 SUMMARY:Private Skate Lesson with Mel
@@ -648,7 +604,7 @@ URL:https://www.theskatesanctuary.co.uk/events/private-skate-lesson-with-me
 END:VEVENT
 BEGIN:VEVENT
 UID:event-142@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260830T110000Z
 DTEND:20260830T130000Z
 SUMMARY:Age 5+ Drop-In Skate
@@ -661,7 +617,7 @@ URL:https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-08-
 END:VEVENT
 BEGIN:VEVENT
 UID:event-141@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260830T090000Z
 DTEND:20260830T110000Z
 SUMMARY:Levels 1 & 2: Coached Skate Session (Age 17+)
@@ -674,7 +630,7 @@ URL:https://www.theskatesanctuary.co.uk/events/levels-1-2-coached-skate-ses
 END:VEVENT
 BEGIN:VEVENT
 UID:event-140@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260829T140000Z
 DTEND:20260829T150000Z
 SUMMARY:Private Skate Lesson with Mel
@@ -686,7 +642,7 @@ URL:https://www.theskatesanctuary.co.uk/events/private-skate-lesson-with-me
 END:VEVENT
 BEGIN:VEVENT
 UID:event-139@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260829T110000Z
 DTEND:20260829T130000Z
 SUMMARY:Age 5+ Drop-In Skate
@@ -699,7 +655,7 @@ URL:https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-08-
 END:VEVENT
 BEGIN:VEVENT
 UID:event-138@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260829T093000Z
 DTEND:20260829T103000Z
 SUMMARY:FAMILY FRIENDLY - Level 1: Learn to Roller Skate Taster Session
@@ -712,7 +668,7 @@ URL:https://www.theskatesanctuary.co.uk/events/family-friendly-level-1-lear
 END:VEVENT
 BEGIN:VEVENT
 UID:event-137@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260828T183000Z
 DTEND:20260828T210000Z
 SUMMARY:Beginner friendly special - Friday Night Social 17+
@@ -726,7 +682,7 @@ URL:https://www.theskatesanctuary.co.uk/events/beginner-friendly-special-fr
 END:VEVENT
 BEGIN:VEVENT
 UID:event-136@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260828T140000Z
 DTEND:20260828T150000Z
 SUMMARY:Private Skate Lesson with Mel
@@ -738,7 +694,7 @@ URL:https://www.theskatesanctuary.co.uk/events/private-skate-lesson-with-me
 END:VEVENT
 BEGIN:VEVENT
 UID:event-135@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260828T110000Z
 DTEND:20260828T150000Z
 SUMMARY:SUMMER HOLS ROLLER SKATE SPECIAL (Age 5+)
@@ -750,7 +706,7 @@ URL:https://www.theskatesanctuary.co.uk/events/summer-hols-roller-skate-spe
 END:VEVENT
 BEGIN:VEVENT
 UID:event-134@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260827T183000Z
 DTEND:20260827T200000Z
 SUMMARY:LGBTQ+ Wheels of Connection: Prism
@@ -764,7 +720,7 @@ URL:https://www.theskatesanctuary.co.uk/events/lgbtq-wheels-of-connection-p
 END:VEVENT
 BEGIN:VEVENT
 UID:event-133@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260827T170000Z
 DTEND:20260827T183000Z
 SUMMARY:Adults Thursday Evening Drop In Session
@@ -776,7 +732,7 @@ URL:https://www.theskatesanctuary.co.uk/events/adults-thursday-evening-drop
 END:VEVENT
 BEGIN:VEVENT
 UID:event-132@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260827T140000Z
 DTEND:20260827T150000Z
 SUMMARY:Private Skate Lesson with Mel
@@ -788,7 +744,7 @@ URL:https://www.theskatesanctuary.co.uk/events/private-skate-lesson-with-me
 END:VEVENT
 BEGIN:VEVENT
 UID:event-131@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260827T110000Z
 DTEND:20260827T150000Z
 SUMMARY:SUMMER HOLS ROLLER SKATE SPECIAL (Age 5+)
@@ -800,7 +756,7 @@ URL:https://www.theskatesanctuary.co.uk/events/summer-hols-roller-skate-spe
 END:VEVENT
 BEGIN:VEVENT
 UID:event-130@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260826T183000Z
 DTEND:20260826T200000Z
 SUMMARY:Focus & Flow 17+ (WEEK 3)
@@ -811,7 +767,7 @@ URL:https://www.theskatesanctuary.co.uk/events/focus-flow-17-week-3-2026-08
 END:VEVENT
 BEGIN:VEVENT
 UID:event-129@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260826T171500Z
 DTEND:20260826T181500Z
 SUMMARY:KIDS 7+ - Level 1&2: Learn to Roller Skate Taster Session
@@ -823,7 +779,7 @@ URL:https://www.theskatesanctuary.co.uk/events/kids-7-level-1-2-learn-to-ro
 END:VEVENT
 BEGIN:VEVENT
 UID:event-128@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260826T140000Z
 DTEND:20260826T150000Z
 SUMMARY:Private Skate Lesson with Mel
@@ -835,7 +791,7 @@ URL:https://www.theskatesanctuary.co.uk/events/private-skate-lesson-with-me
 END:VEVENT
 BEGIN:VEVENT
 UID:event-127@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260826T110000Z
 DTEND:20260826T150000Z
 SUMMARY:SUMMER HOLS ROLLER SKATE SPECIAL (Age 5+)
@@ -847,7 +803,7 @@ URL:https://www.theskatesanctuary.co.uk/events/summer-hols-roller-skate-spe
 END:VEVENT
 BEGIN:VEVENT
 UID:event-126@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260825T173000Z
 DTEND:20260825T190000Z
 SUMMARY:Outdoor Confidence Workshop 3: Conquering the Hills (Level 3+)
@@ -861,7 +817,7 @@ URL:https://www.theskatesanctuary.co.uk/events/outdoor-confidence-workshop-
 END:VEVENT
 BEGIN:VEVENT
 UID:event-125@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260825T170000Z
 DTEND:20260825T183000Z
 SUMMARY:Neurodivergent friendly - Wheels of Connection: Spectrum Session
@@ -873,270 +829,8 @@ URL:https://www.theskatesanctuary.co.uk/events/neurodivergent-friendly-whee
  ls-of-connection-spectrum-session-2026-08-25-18-00
 END:VEVENT
 BEGIN:VEVENT
-UID:event-124@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART:20260824T183000Z
-DTEND:20260824T193000Z
-SUMMARY:ADULT: Absolute Beginners Learn to Roller Skate Taster Session
-DESCRIPTION:Let's Get Rolling! One for the big kids! (Most of our adult ses
- sions are attended by people 40+)
-LOCATION:The Skate Sanctuary\, Leeds\, LS7
-URL:https://www.theskatesanctuary.co.uk/events/adult-absolute-beginners-lea
- rn-to-roller-skate-taster-session-2026-08-24-19-30
-END:VEVENT
-BEGIN:VEVENT
-UID:event-123@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART:20260824T183000Z
-DTEND:20260824T193000Z
-SUMMARY:ADULT: Level 2 Taster Session
-DESCRIPTION:Can you already skate a bit? Try out our Level 2 taster session
-  to help you progress your skills
-LOCATION:The Skate Sanctuary\, Leeds\, LS9
-URL:https://www.theskatesanctuary.co.uk/events/adult-level-2-taster-session
- -2026-08-24-19-30
-END:VEVENT
-BEGIN:VEVENT
-UID:event-122@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART:20260824T140000Z
-DTEND:20260824T150000Z
-SUMMARY:Private Skate Lesson with Mel
-DESCRIPTION:Level up your skating by booking a private session with lead co
- ach Mel
-LOCATION:The Skate Sanctuary\, Leeds\, LS9
-URL:https://www.theskatesanctuary.co.uk/events/private-skate-lesson-with-me
- l-2026-08-24-15-00
-END:VEVENT
-BEGIN:VEVENT
-UID:event-121@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART:20260824T110000Z
-DTEND:20260824T150000Z
-SUMMARY:SUMMER HOLS ROLLER SKATE SPECIAL (Age 5+)
-DESCRIPTION:Choose your one-hour skate time between 12- 4pm this school hol
- iday. £5 ticket for all skaters. Skate hire included
-LOCATION:The Skate Sanctuary by RGG\, Leeds\, LS7
-URL:https://www.theskatesanctuary.co.uk/events/summer-hols-roller-skate-spe
- cial-age-5-2026-08-24-12-00
-END:VEVENT
-BEGIN:VEVENT
-UID:event-120@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART:20260823T150000Z
-DTEND:20260823T170000Z
-SUMMARY:Sunday Social 17+
-DESCRIPTION:Come and skate\, have a chat\, meet other skaters in the commun
- ity and unwind! Our skate marshalls are here to ensure everyone has a great
-  time and skate safely.
-LOCATION:Ramgarhia Sikh Sports Centre\, Leeds\, LS7
-URL:https://www.theskatesanctuary.co.uk/events/sunday-social-17-2026-08-23-
- 16-00
-END:VEVENT
-BEGIN:VEVENT
-UID:event-119@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART:20260823T140000Z
-DTEND:20260823T150000Z
-SUMMARY:Private Skate Lesson with Mel
-DESCRIPTION:Level up your skating by booking a private session with lead co
- ach Mel
-LOCATION:The Skate Sanctuary\, Leeds\, LS9
-URL:https://www.theskatesanctuary.co.uk/events/private-skate-lesson-with-me
- l-2026-08-23-15-00
-END:VEVENT
-BEGIN:VEVENT
-UID:event-118@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART:20260823T133000Z
-DTEND:20260823T150000Z
-SUMMARY:Family Friendly Learn 'n' Roll
-DESCRIPTION:A mini roller disco for all ages at the Sikh Centre with a quic
- k workshop to help get you rolling. All tickets £8. Skate hire available f
- or a small additional fee
-LOCATION:Ramgarhia Sikh Sports Centre\, Leeds\, LS7
-URL:https://www.theskatesanctuary.co.uk/events/family-friendly-learn-n-roll
- -2026-08-23-14-30
-END:VEVENT
-BEGIN:VEVENT
-UID:event-117@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART:20260823T110000Z
-DTEND:20260823T130000Z
-SUMMARY:Age 5+ Drop-In Skate
-DESCRIPTION:Come and skate\, shuffle\, chat\, drink tea. Usually weekday se
- ssions are quieter! All tickets £5. Skate hire available for a small addit
- ional fee
-LOCATION:The Skate Sanctuary by RGG\, Leeds\, LS7
-URL:https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-08-
- 23-12-00
-END:VEVENT
-BEGIN:VEVENT
-UID:event-116@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART:20260823T100000Z
-DTEND:20260823T110000Z
-SUMMARY:*Smallest Skaters* Under 6
-DESCRIPTION:Bring your little one to skate! A special session for under 6's
-  to skate and play in our studio. Skate Hire available for a small fee. One
-  free adult per child. Additional adults £2.
-LOCATION:The Skate Sanctuary\, Leeds\, LS9
-URL:https://www.theskatesanctuary.co.uk/events/smallest-skaters-under-6-202
- 6-08-23-11-00
-END:VEVENT
-BEGIN:VEVENT
-UID:event-115@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART:20260822T170000Z
-DTEND:20260822T180000Z
-SUMMARY:Private Skate Lesson with Mel
-DESCRIPTION:Level up your skating by booking a private session with lead co
- ach Mel
-LOCATION:The Skate Sanctuary\, Leeds\, LS9
-URL:https://www.theskatesanctuary.co.uk/events/private-skate-lesson-with-me
- l-2026-08-22-18-00
-END:VEVENT
-BEGIN:VEVENT
-UID:event-114@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART:20260822T150000Z
-DTEND:20260822T170000Z
-SUMMARY:Skate Maintenance & Crafternoon - Wheel Dying Workshop
-DESCRIPTION:Skate Maintenance and Crafternoon! Bring all your skate related
-  questions and gain a number of skills to maintain\, fix\, decorate or even
-  upgrade parts of your skates. Tools provided - Extra Materials such as cra
- ft supplies or upgraded parts will need to be purchased separately
-LOCATION:The Skate Sanctuary\, Leeds\, LS9
-URL:https://www.theskatesanctuary.co.uk/events/skate-maintenance-crafternoo
- n-wheel-dying-workshop-2026-08-22-16-00
-END:VEVENT
-BEGIN:VEVENT
-UID:event-113@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART:20260820T183000Z
-DTEND:20260820T200000Z
-SUMMARY:LGBTQ+ Wheels of Connection: Prism
-DESCRIPTION:Celebrate Connection. All Identities Welcome. Prism is—a supp
- ortive\, affirming\, and celebratory roller skate session for Trans\, Gende
- r Non-Conforming (GNC) folks\, and their Allies! This space is dedicated to
-  connection\, joy\, and movement\, with coaches to support.
-LOCATION:The Skate Sanctuary\, Leeds\, LS9
-URL:https://www.theskatesanctuary.co.uk/events/lgbtq-wheels-of-connection-p
- rism-2026-08-20-19-30
-END:VEVENT
-BEGIN:VEVENT
-UID:event-112@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART:20260820T170000Z
-DTEND:20260820T183000Z
-SUMMARY:Adults Thursday Evening Drop In Session
-DESCRIPTION:Drop in to practise\, move or chat. Skate hire available for a 
- small additional fee.
-LOCATION:The Skate Sanctuary\, Leeds\, LS9
-URL:https://www.theskatesanctuary.co.uk/events/adults-thursday-evening-drop
- -in-session-2026-08-20-18-00
-END:VEVENT
-BEGIN:VEVENT
-UID:event-111@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART:20260820T140000Z
-DTEND:20260820T150000Z
-SUMMARY:Private Skate Lesson with Mel
-DESCRIPTION:Level up your skating by booking a private session with lead co
- ach Mel
-LOCATION:The Skate Sanctuary\, Leeds\, LS9
-URL:https://www.theskatesanctuary.co.uk/events/private-skate-lesson-with-me
- l-2026-08-20-15-00
-END:VEVENT
-BEGIN:VEVENT
-UID:event-110@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART:20260820T110000Z
-DTEND:20260820T150000Z
-SUMMARY:SUMMER HOLS ROLLER SKATE SPECIAL (Age 5+)
-DESCRIPTION:Choose your one-hour skate time between 12- 4pm this school hol
- iday. £5 ticket for all skaters. Skate hire included
-LOCATION:The Skate Sanctuary by RGG\, Leeds\, LS7
-URL:https://www.theskatesanctuary.co.uk/events/summer-hols-roller-skate-spe
- cial-age-5-2026-08-20-12-00
-END:VEVENT
-BEGIN:VEVENT
-UID:event-109@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART:20260819T183000Z
-DTEND:20260819T200000Z
-SUMMARY:Focus & Flow 17+ (WEEK 2)
-DESCRIPTION:Suggested Level 3&4 The focus for this block of classes is TBD
-LOCATION:The Skate Sanctuary / Roller Skate Studi\, Leeds\, LS9
-URL:https://www.theskatesanctuary.co.uk/events/focus-flow-17-week-2-2026-08
- -19-19-30
-END:VEVENT
-BEGIN:VEVENT
-UID:event-108@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART:20260819T171500Z
-DTEND:20260819T181500Z
-SUMMARY:KIDS 7+ - Level 1&2: Learn to Roller Skate Taster Session
-DESCRIPTION:Let's Get Rolling! Kids only session. For children aged 7 and o
- ver Learn to roller skate in Leeds this Summer!
-LOCATION:The Skate Sanctuary / Roller Skate Studi\, Leeds\, LS9
-URL:https://www.theskatesanctuary.co.uk/events/kids-7-level-1-2-learn-to-ro
- ller-skate-taster-session-2026-08-19-18-15
-END:VEVENT
-BEGIN:VEVENT
-UID:event-107@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART:20260819T140000Z
-DTEND:20260819T150000Z
-SUMMARY:Private Skate Lesson with Mel
-DESCRIPTION:Level up your skating by booking a private session with lead co
- ach Mel
-LOCATION:The Skate Sanctuary\, Leeds\, LS9
-URL:https://www.theskatesanctuary.co.uk/events/private-skate-lesson-with-me
- l-2026-08-19-15-00
-END:VEVENT
-BEGIN:VEVENT
-UID:event-106@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART:20260819T110000Z
-DTEND:20260819T150000Z
-SUMMARY:SUMMER HOLS ROLLER SKATE SPECIAL (Age 5+)
-DESCRIPTION:Choose your one-hour skate time between 12- 4pm this school hol
- iday. £5 ticket for all skaters. Skate hire included
-LOCATION:The Skate Sanctuary by RGG\, Leeds\, LS7
-URL:https://www.theskatesanctuary.co.uk/events/summer-hols-roller-skate-spe
- cial-age-5-2026-08-19-12-00
-END:VEVENT
-BEGIN:VEVENT
-UID:event-105@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART:20260818T173000Z
-DTEND:20260818T190000Z
-SUMMARY:Outdoor Confidence Workshop 2: Exploring New Horizons (Level 3+)
-DESCRIPTION:Time to level up! We'll venture into different outdoor spaces\,
-  teaching you how to navigate obstacles\, manage varying surfaces\, and bui
- ld your confidence in new environments. Practice group skating etiquette an
- d learn to handle unexpected situations with ease.
-LOCATION:The Skate Sanctuary / Roller Skate Studi\, Leeds\, LS9
-URL:https://www.theskatesanctuary.co.uk/events/outdoor-confidence-workshop-
- 2-exploring-new-horizons-level-3-2026-08-18-18-30
-END:VEVENT
-BEGIN:VEVENT
-UID:event-104@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART:20260818T170000Z
-DTEND:20260818T183000Z
-SUMMARY:Neurodivergent friendly - Wheels of Connection: Spectrum Session
-DESCRIPTION:We've launched a session specifically for skaters with neurodiv
- ergence to come together in a low-stimulus environment. With coaches to sup
- port your skate skills as required.
-LOCATION:The Skate Sanctuary\, Leeds\, LS9
-URL:https://www.theskatesanctuary.co.uk/events/neurodivergent-friendly-whee
- ls-of-connection-spectrum-session-2026-08-18-18-00
-END:VEVENT
-BEGIN:VEVENT
 UID:event-181@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260902T110000Z
 DTEND:20260902T130000Z
 SUMMARY:Age 5+ Drop-In Skate
@@ -1148,47 +842,8 @@ URL:https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-09-
  02-12-00
 END:VEVENT
 BEGIN:VEVENT
-UID:event-182@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART:20260818T183000Z
-DTEND:20260818T200000Z
-SUMMARY:Adults Tuesday Evening Drop In Session
-DESCRIPTION:Drop in to practise\, move or chat. Skate hire available for a 
- small additional fee. 7.30 - 9pm
-LOCATION:The Skate Sanctuary\, Leeds\, LS9
-URL:https://www.theskatesanctuary.co.uk/events/adults-tuesday-evening-drop-
- in-session-2
-END:VEVENT
-BEGIN:VEVENT
-UID:event-183@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART:20260821T193000Z
-DTEND:20260821T210000Z
-SUMMARY:FREE! Night Skate Rollout @ Leeds City Centre
-DESCRIPTION:Join our roll out starting from The Skate Sanctuary. We will ta
- ke a flat-ish route around Leeds City centre and end near The Tetley (so yo
- u can meet us there if you prefer). We suggest you're comfortable to stop a
- nd can manage different textures. Do bring your shoes. Funded by Sport Engl
- and
-LOCATION:The Skate Sanctuary / Roller Skate Studi\, Leeds\, LS9
-URL:https://www.theskatesanctuary.co.uk/events/free-night-skate-rollout-lee
- ds-city-centre-2026-08-21-20-30
-END:VEVENT
-BEGIN:VEVENT
-UID:event-184@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
-DTSTART:20260821T110000Z
-DTEND:20260821T130000Z
-SUMMARY:Age 5+ Drop-In Skate
-DESCRIPTION:Come and skate\, shuffle\, chat\, drink tea. Usually weekday se
- ssions are quieter! All tickets £5. Skate hire available for a small addit
- ional fee
-LOCATION:The Skate Sanctuary by RGG\, Leeds\, LS7
-URL:https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-6
-END:VEVENT
-BEGIN:VEVENT
 UID:event-185@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260903T110000Z
 DTEND:20260903T130000Z
 SUMMARY:Age 5+ Drop-In Skate
@@ -1201,7 +856,7 @@ URL:https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-09-
 END:VEVENT
 BEGIN:VEVENT
 UID:event-186@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260904T110000Z
 DTEND:20260904T130000Z
 SUMMARY:Age 5+ Drop-In Skate
@@ -1214,7 +869,7 @@ URL:https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-09-
 END:VEVENT
 BEGIN:VEVENT
 UID:event-187@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260905T110000Z
 DTEND:20260905T130000Z
 SUMMARY:Age 5+ Drop-In Skate
@@ -1227,7 +882,7 @@ URL:https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-09-
 END:VEVENT
 BEGIN:VEVENT
 UID:event-188@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260906T110000Z
 DTEND:20260906T130000Z
 SUMMARY:Age 5+ Drop-In Skate
@@ -1240,7 +895,7 @@ URL:https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-09-
 END:VEVENT
 BEGIN:VEVENT
 UID:event-189@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260907T110000Z
 DTEND:20260907T130000Z
 SUMMARY:Age 5+ Drop-In Skate
@@ -1253,7 +908,7 @@ URL:https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-09-
 END:VEVENT
 BEGIN:VEVENT
 UID:event-190@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260909T110000Z
 DTEND:20260909T130000Z
 SUMMARY:Age 5+ Drop-In Skate
@@ -1266,7 +921,7 @@ URL:https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-09-
 END:VEVENT
 BEGIN:VEVENT
 UID:event-191@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260910T110000Z
 DTEND:20260910T130000Z
 SUMMARY:Age 5+ Drop-In Skate
@@ -1279,7 +934,7 @@ URL:https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-09-
 END:VEVENT
 BEGIN:VEVENT
 UID:event-192@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260911T110000Z
 DTEND:20260911T130000Z
 SUMMARY:Age 5+ Drop-In Skate
@@ -1292,7 +947,7 @@ URL:https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-09-
 END:VEVENT
 BEGIN:VEVENT
 UID:event-193@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260912T110000Z
 DTEND:20260912T130000Z
 SUMMARY:Age 5+ Drop-In Skate
@@ -1305,7 +960,7 @@ URL:https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-09-
 END:VEVENT
 BEGIN:VEVENT
 UID:event-194@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260913T110000Z
 DTEND:20260913T130000Z
 SUMMARY:Age 5+ Drop-In Skate
@@ -1318,7 +973,7 @@ URL:https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-09-
 END:VEVENT
 BEGIN:VEVENT
 UID:event-195@theskateboard.co.uk
-DTSTAMP:20260818T091634Z
+DTSTAMP:20260825T194107Z
 DTSTART:20260914T110000Z
 DTEND:20260914T130000Z
 SUMMARY:Age 5+ Drop-In Skate
