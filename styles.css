@@ -59,6 +59,11 @@ body::before {
 }
 
 /* ── Header ── */
+/* backdrop-filter lives on a ::before layer, not on header itself — header
+   is position:sticky, and backdrop-filter forces its own GPU compositing
+   layer, which breaks sticky positioning entirely on some Android/Chrome
+   GPU+driver combos. Splitting them onto separate boxes is the standard
+   workaround. */
 header {
   padding: 0 2rem;
   border-bottom: 1px solid var(--border);
@@ -68,9 +73,17 @@ header {
   height: 64px;
   position: sticky;
   top: 0;
+  z-index: 100;
+}
+
+header::before {
+  content: '';
+  position: absolute;
+  inset: 0;
   background: rgba(13,13,13,0.92);
   backdrop-filter: blur(12px);
-  z-index: 100;
+  -webkit-backdrop-filter: blur(12px);
+  z-index: -1;
 }
 
 /* Logo: "The SKATE BOARD" — SKATE in white, BOARD in yellow
