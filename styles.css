@@ -15,6 +15,10 @@
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
+html {
+  overflow-x: hidden;
+}
+
 body {
   background: var(--bg);
   color: var(--text);
@@ -145,6 +149,20 @@ header {
   gap: 1.5rem;
 }
 
+@media (max-width: 520px) {
+  header {
+    flex-wrap: wrap;
+    height: auto;
+    padding: 0.75rem 1.25rem;
+    row-gap: 0.6rem;
+  }
+
+  .header-right {
+    width: 100%;
+    justify-content: space-between;
+  }
+}
+
 .site-nav {
   display: flex;
   align-items: center;
@@ -221,6 +239,7 @@ header {
   padding: 5rem 2rem 4rem;
   max-width: 900px;
   position: relative;
+  overflow-x: hidden;
 }
 
 .hero-eyebrow {
