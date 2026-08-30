@@ -3553,5 +3553,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 197,
+    "name": "Kids Roller Skate Lessons",
+    "day": "17",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Scholarship",
+    "location": "Leeds",
+    "price": "£3.00",
+    "types": [
+      "lesson",
+      "family"
+    ],
+    "desc": "",
+    "link": "https://www.theskatescholarship.com/product-page/kids-roller-skate-lessons",
+    "free": false,
+    "region": "West Yorkshire"
   }
 ]
