@@ -3553,5 +3553,22 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 199,
+    "name": "Adult Beginner Roller Skate Lessons",
+    "day": "17",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Scholarship",
+    "location": "Leeds",
+    "price": "£8.00",
+    "types": [
+      "lesson"
+    ],
+    "desc": "",
+    "link": "https://www.theskatescholarship.com/product-page/adult-learn-to-skate-middleton",
+    "free": false,
+    "region": "West Yorkshire"
   }
 ]
