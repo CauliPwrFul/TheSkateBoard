@@ -3553,5 +3553,22 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 198,
+    "name": "Adult Improvers: Learn to Rollerskate Autumn",
+    "day": "17",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Scholarship",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "",
+    "link": "https://www.theskatescholarship.com/product-page/improvers-learn-to-rollerskate",
+    "free": false,
+    "region": "West Yorkshire"
   }
 ]
