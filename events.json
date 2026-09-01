@@ -3553,5 +3553,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 204,
+    "name": "Back to College Special - Friday Night Social 17+",
+    "day": "18",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, have a chat, meet other skaters in the community and unwind! Our skate marshalls are here to ensure everyone has a great time and skate safely.",
+    "link": "https://www.theskatesanctuary.co.uk/events/back-to-college-special-friday-night-social-17-2026-09-18-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 10:00 pm"
   }
 ]
