@@ -3553,5 +3553,24 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 239,
+    "name": "Kids All Levels Skate Class Age 7+",
+    "day": "30",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson",
+      "family"
+    ],
+    "desc": "Continue to learn new skills and consolidate essential core techniques for skaters. Quad or inlines welcome. Skate hire available for a small additional fee. Please check your child has the experience required for the session.",
+    "link": "https://www.theskatesanctuary.co.uk/events/kids-all-levels-skate-class-age-7-2026-09-30-18-15",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:15 pm – 7:15 pm"
   }
 ]
