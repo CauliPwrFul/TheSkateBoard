@@ -3553,5 +3553,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 227,
+    "name": "NEW! Saturday Night Social @ The Skate Sanctuary",
+    "day": "26",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Unwind at The Skate Sanctuary - come for a chat, skate and boogie at our studio. As long as weather permits, we'll roll out into the local area, or into Leeds city centre ! ROLLIN 6 - 9pm for everyone ROLL OUT 7.30 - 9pm for confident skaters",
+    "link": "https://www.theskatesanctuary.co.uk/events/new-saturday-night-social-the-skate-sanctuary-2026-09-26-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 10:00 pm"
   }
 ]
