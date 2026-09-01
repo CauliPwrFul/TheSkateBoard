@@ -3553,5 +3553,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 215,
+    "name": "Neurodivergent friendly - Wheels of Connection: Spectrum Session",
+    "day": "22",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "We've launched a session specifically for skaters with neurodivergence to come together in a low-stimulus environment. With coaches to support your skate skills as required.",
+    "link": "https://www.theskatesanctuary.co.uk/events/neurodivergent-friendly-wheels-of-connection-spectrum-session-2026-09-22-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
   }
 ]
