@@ -3553,5 +3553,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 211,
+    "name": "Roller Skate Super Session Lv 2-4 (14+)",
+    "day": "20",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "2hrs to develop new skills at the Sikh Sports Hall. Build on the techniques you have learnt in a larger space. Skate hire available. FOCUS for all Levels this month: Backwards, Transitions and stopping",
+    "link": "https://www.theskatesanctuary.co.uk/events/roller-skate-super-session-lv-2-4-14-2026-09-20-16-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:00 pm – 6:00 pm"
   }
 ]
