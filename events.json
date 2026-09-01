@@ -3553,5 +3553,22 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 244,
+    "name": "Introduction to... C- Step Age 17+",
+    "day": "06",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "disco"
+    ],
+    "desc": "Roller Dance series for Level 2+ skaters. This series is designed to help you learn roller dance vocabulary and feel more confident to join in at roller discos, skate parties and festivals. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/introduction-to-c-step-age-17-4",
+    "free": false,
+    "region": "West Yorkshire"
   }
 ]
