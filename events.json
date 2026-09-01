@@ -3553,5 +3553,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 198,
+    "name": "Freshers ROLLER SKATE SPECIAL (NUS holders only)",
+    "day": "16",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£3",
+    "types": [
+      "social"
+    ],
+    "desc": "Choose your one-hour skate time between 2- 6pm. £3 ticket for all skaters with an NUS card. Skate hire included",
+    "link": "https://www.theskatesanctuary.co.uk/events/freshers-roller-skate-special-nus-holders-only-2026-09-16-14-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "2:00 pm – 6:00 pm"
   }
 ]
