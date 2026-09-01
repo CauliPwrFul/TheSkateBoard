@@ -3553,5 +3553,24 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 232,
+    "name": "Level 4: Skate Skills Workshop 17+",
+    "day": "27",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "workshop",
+      "lesson"
+    ],
+    "desc": "1hr level 4 skills class for confident skaters, who want new challenges and excitement. FOCUS -Week 4: single and double pivots, intro to hurricane kick",
+    "link": "https://www.theskatesanctuary.co.uk/events/level-4-skate-skills-workshop-17-2026-09-27-17-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "5:30 pm – 6:30 pm"
   }
 ]
