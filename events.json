@@ -3553,5 +3553,25 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 210,
+    "name": "Family Friendly Learn 'n' Roll",
+    "day": "20",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£8",
+    "types": [
+      "disco",
+      "workshop",
+      "family"
+    ],
+    "desc": "A mini roller disco for all ages at the Sikh Centre with a quick workshop to help get you rolling. All tickets £8. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/family-friendly-learn-n-roll-2026-09-20-14-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "2:30 pm – 4:00 pm"
   }
 ]
