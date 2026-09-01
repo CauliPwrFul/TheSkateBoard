@@ -3553,5 +3553,24 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 224,
+    "name": "Family Friendly Friday Eve Roller Disco 5+",
+    "day": "25",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "disco",
+      "family"
+    ],
+    "desc": "Ages 5+ welcome to our Family Friendly Friday session - expect disco lights and the occasional game in our studio. Skate hire available for a small additional price on the door.",
+    "link": "https://www.theskatesanctuary.co.uk/events/family-friendly-friday-eve-roller-disco-5-2026-09-25-17-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "5:00 pm – 7:00 pm"
   }
 ]
