@@ -3553,5 +3553,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 245,
+    "name": "Focus & Flow 17+ TRAINING DRILLS",
+    "day": "07",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Suggested Level 3&4 Great warm up before Choreography class or skill development for roller dance",
+    "link": "https://www.theskatesanctuary.co.uk/events/focus-flow-17-training-drills-2026-10-07-19-15",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:15 pm – 8:15 pm"
   }
 ]
