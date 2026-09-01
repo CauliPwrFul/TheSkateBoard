@@ -3553,5 +3553,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 242,
+    "name": "Adult Beginner Skate Course Week 5 (of 6) (17+)",
+    "day": "05",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Adult learn to skate course. Small group size. Intensive 6 week course + bonus class. Absolute beginners.",
+    "link": "https://www.theskatesanctuary.co.uk/events/adult-beginner-skate-course-week-5-of-6-17-2026-10-05-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
   }
 ]
