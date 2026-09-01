@@ -3553,5 +3553,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 214,
+    "name": "Adult Lv2 Skate Course Week 3 (of 6) (17+)",
+    "day": "21",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Continue to Learn with our Level 6 course. Small group size. Intensive 6 week course + bonus class.",
+    "link": "https://www.theskatesanctuary.co.uk/events/adult-lv2-skate-course-week-3-of-6-17-2026-09-21-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
   }
 ]
