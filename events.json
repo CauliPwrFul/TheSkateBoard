@@ -3553,5 +3553,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 208,
+    "name": "LGBTQ+ Wheels of Connection: Prism",
+    "day": "08",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Celebrate Connection. All Identities Welcome. Prism is—a supportive, affirming, and celebratory roller skate session for Trans, Gender Non-Conforming (GNC) folks, and their Allies! This space is dedicated to connection, joy, and movement, with coaches to support.",
+    "link": "https://www.theskatesanctuary.co.uk/events/lgbtq-wheels-of-connection-prism-2026-10-08-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
   }
 ]
