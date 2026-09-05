@@ -3553,5 +3553,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 197,
+    "name": "Focus and Flow SHOWCASE TASTER",
+    "day": "30",
+    "month": "Sep",
+    "year": "2026",
+    "venue": "The Dance Studio Leeds - Studio 1",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "taster"
+    ],
+    "desc": "Not sure if our showcase course is for you? Join this week's taster session to decide. Rehearsals start next week! Age 18+ only. Please wear wheels 85A or below.",
+    "link": "https://www.theskatesanctuary.co.uk/events/focus-and-flow-showcase-taster-2026-09-30-20-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "8:30 pm – 9:30 pm"
   }
 ]
