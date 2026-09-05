@@ -3553,5 +3553,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 206,
+    "name": "Focus and Flow SHOWCASE COURSE",
+    "day": "07",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Dance Studio Leeds - Studio 1",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Join our first ever SHOWCASE COURSE and perform on roller skates as part of our crew! Age 18+ only",
+    "link": "https://www.theskatesanctuary.co.uk/events/focus-and-flow-showcase-course-2026-10-07-20-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "8:30 pm – 9:30 pm"
   }
 ]
