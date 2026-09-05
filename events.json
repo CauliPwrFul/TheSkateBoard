@@ -3553,5 +3553,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 211,
+    "name": "Level 1 : Roller Skate Fundamentals (17+)",
+    "day": "11",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Suitable for those with little or no experience on roller skates. We will support you to feel more confident on your wheels. FOCUS: Week 4 - falling, balancing, intro to turning, lemons",
+    "link": "https://www.theskatesanctuary.co.uk/events/level-1-roller-skate-fundamentals-17-2026-10-11-10-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "10:00 am – 11:00 am"
   }
 ]
