@@ -3553,5 +3553,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 198,
+    "name": "Friday Night Sanctuary Shuffle 18+",
+    "day": "09",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Our weekly meetup is at The Skate Sanctuary, come for a chat, skate and boogie at our studio",
+    "link": "https://www.theskatesanctuary.co.uk/events/friday-night-sanctuary-shuffle-18-2026-10-09-19-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:00 pm – 9:00 pm"
   }
 ]
