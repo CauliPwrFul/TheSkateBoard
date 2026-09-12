@@ -3553,5 +3553,24 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 199,
+    "name": "Kids Improver Skate Tricks Workshop 1 Age 7+",
+    "day": "14",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "workshop",
+      "family"
+    ],
+    "desc": "Special Kids workshop to learn some tricks. Quad or inlines welcome. Skate hire available for a small additional fee. Please check your child has the experience required for the session.",
+    "link": "https://www.theskatesanctuary.co.uk/events/kids-improver-skate-tricks-workshop-1-age-7-2026-10-14-18-15",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:15 pm – 7:15 pm"
   }
 ]
