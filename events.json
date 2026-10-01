@@ -3553,5 +3553,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 199,
+    "name": "Adults Afternoon Practise",
+    "day": "17",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Drop in to practise, move or chat. Skate hire available for a small additional fee.",
+    "link": "https://www.theskatesanctuary.co.uk/events/adults-afternoon-practise-2026-10-17-16-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:30 pm – 6:00 pm"
   }
 ]
