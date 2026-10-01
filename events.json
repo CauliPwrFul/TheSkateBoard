@@ -3553,5 +3553,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 201,
+    "name": "Essential Skate Care + Glow ups",
+    "day": "18",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Skate Maintenance and Craft session! Bring all your skate related questions and gain a number of skills to maintain, fix, decorate or even upgrade parts of your skates. Tools provided - Extra Materials such as craft supplies or upgraded parts will need to be purchased separately",
+    "link": "https://www.theskatesanctuary.co.uk/events/essential-skate-care-glow-ups-2026-10-18-11-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "11:00 am – 12:00 pm"
   }
 ]
