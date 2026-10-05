@@ -85,7 +85,7 @@
     <li><strong>Google Analytics</strong> — usage statistics (pages visited, general location and device info).</li>
     <li><strong>Microsoft Clarity</strong> — heatmaps and session recordings, so we can see how people actually use the site and fix anything confusing.</li>
   </ul>
-  <p>Both set non-essential cookies. Before either goes live, we'll add a cookie consent banner so you can accept or decline them, and update this page with the specific cookies each one sets.</p>
+  <p>Both set non-essential cookies, so neither will run unless you accept. A consent banner is shown on your first visit. Your choice is stored in your browser's local storage so we don't ask again, and you can change it at any time with the "Cookie settings" link in the footer. Once these tools go live, this page will list the specific cookies each one sets.</p>
 
   <h2>How to control cookies</h2>
   <p>You can block or delete cookies through your browser's settings at any time — this may affect how some embedded features (like the event submission form) work. Most browsers also let you block third-party cookies specifically while still allowing the site itself to function.</p>
@@ -94,7 +94,7 @@
   <p>We'll update this page as soon as any new cookie-setting tool goes live on the site.</p>
 
   <h2>Contact us</h2>
-  <p>Questions about cookies on this site: <a href="mailto:shrhdigitalincome@gmail.com"><strong>shrhdigitalincome@gmail.com</strong></a>.</p>
+  <p>Questions about cookies on this site: <a href="mailto:onefunnellabs@gmail.com"><strong>onefunnellabs@gmail.com</strong></a>.</p>
 </section>
 
 <footer>
@@ -107,6 +107,7 @@
     <span>Community-powered · Leeds</span>
     <a href="privacy.html" class="footer-link">Privacy</a>
     <a href="cookies.html" class="footer-link">Cookies</a>
+    <button type="button" class="footer-link footer-btn" onclick="openCookieSettings()">Cookie settings</button>
     <a href="https://auditsu.com/" target="_blank" rel="noopener" class="footer-link">Accessibility tested with AUDITSU ↗</a>
     <a href="https://www.linkedin.com/in/sharahc/" target="_blank" rel="noopener" class="footer-link">Connect on LinkedIn ↗</a>
     <span class="fillout-trigger" onclick="openFillout()">Submit an event →</span>
@@ -119,6 +120,7 @@
 
 <a href="#top" id="scroll-top-btn" class="scroll-top-btn" aria-label="Scroll to top">↑</a>
 
+<script src="consent.js"></script>
 <script src="legal.js"></script>
 </body>
 </html>
