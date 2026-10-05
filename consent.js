@@ -3,7 +3,7 @@
 // clicks Accept. Rejecting, or never answering, loads nothing.
 // Fill in the IDs below once the accounts exist; until then nothing loads.
 const GA_ID = 'G-58JVDY3B9N';
-const CLARITY_ID = '';   // e.g. 'abcd1234ef'
+const CLARITY_ID = 'ysx75memmf';
 
 const CONSENT_KEY = 'sb_cookie_consent';
 let analyticsLoaded = false;
