@@ -1463,7 +1463,6 @@
     "location": "Leeds, LS7",
     "price": "See listing for price",
     "types": [
-      "disco",
       "family"
     ],
     "desc": "Ages 5+ welcome to our Family Friendly Friday session - expect disco lights and the occasional game in our studio. Skate hire available for a small additional price on the door.",
@@ -1536,7 +1535,6 @@
     "location": "Leeds, LS9",
     "price": "See listing for price",
     "types": [
-      "lesson",
       "family"
     ],
     "desc": "Continue to learn new skills and consolidate essential core techniques for skaters. Quad or inlines welcome. Skate hire available for a small additional fee. Please check your child has the experience required for the session.",
@@ -1736,7 +1734,6 @@
     "location": "Leeds, LS7",
     "price": "See listing for price",
     "types": [
-      "disco",
       "family"
     ],
     "desc": "Ages 5+ welcome to our Family Friendly Friday session - expect disco lights and the occasional game in our studio. Skate hire available for a small additional price on the door.",
@@ -1809,7 +1806,6 @@
     "location": "Leeds, LS9",
     "price": "See listing for price",
     "types": [
-      "lesson",
       "family"
     ],
     "desc": "Continue to learn new skills and consolidate essential core techniques for skaters. Quad or inlines welcome. Skate hire available for a small additional fee. Please check your child has the experience required for the session.",
@@ -1865,7 +1861,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
     "link": "https://www.theskatesanctuary.co.uk/events/summer-hols-roller-skate-special-age-5-2026-08-31-12-00",
@@ -1919,7 +1915,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-08-30-12-00",
@@ -1973,7 +1969,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-08-29-12-00",
@@ -1991,8 +1987,6 @@
     "location": "Leeds, LS7",
     "price": "See listing for price",
     "types": [
-      "taster",
-      "lesson",
       "family"
     ],
     "desc": "Join our coach team to have a skate class that will get you rolling! Skaters only in the studio in this mixed age session. Recommended age 7+",
@@ -2047,7 +2041,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
     "link": "https://www.theskatesanctuary.co.uk/events/summer-hols-roller-skate-special-age-5-2026-08-28-12-00",
@@ -2119,7 +2113,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
     "link": "https://www.theskatesanctuary.co.uk/events/summer-hols-roller-skate-special-age-5-2026-08-27-12-00",
@@ -2155,8 +2149,6 @@
     "location": "Leeds, LS9",
     "price": "See listing for price",
     "types": [
-      "taster",
-      "lesson",
       "family"
     ],
     "desc": "Let's Get Rolling! Kids only session. For children aged 7 and over Learn to roller skate in Leeds this Summer!",
@@ -2193,7 +2185,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
     "link": "https://www.theskatesanctuary.co.uk/events/summer-hols-roller-skate-special-age-5-2026-08-26-12-00",
@@ -2304,7 +2296,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
     "link": "https://www.theskatesanctuary.co.uk/events/summer-hols-roller-skate-special-age-5-2026-08-24-12-00",
@@ -2358,8 +2350,6 @@
     "location": "Leeds, LS7",
     "price": "£8",
     "types": [
-      "disco",
-      "workshop",
       "family"
     ],
     "desc": "A mini roller disco for all ages at the Sikh Centre with a quick workshop to help get you rolling. All tickets £8. Skate hire available for a small additional fee",
@@ -2378,7 +2368,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-08-23-12-00",
@@ -2504,7 +2494,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
     "link": "https://www.theskatesanctuary.co.uk/events/summer-hols-roller-skate-special-age-5-2026-08-20-12-00",
@@ -2540,8 +2530,6 @@
     "location": "Leeds, LS9",
     "price": "See listing for price",
     "types": [
-      "taster",
-      "lesson",
       "family"
     ],
     "desc": "Let's Get Rolling! Kids only session. For children aged 7 and over Learn to roller skate in Leeds this Summer!",
@@ -2578,7 +2566,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
     "link": "https://www.theskatesanctuary.co.uk/events/summer-hols-roller-skate-special-age-5-2026-08-19-12-00",
@@ -2634,8 +2622,6 @@
     "location": "Leeds, LS7",
     "price": "See listing for price",
     "types": [
-      "taster",
-      "lesson",
       "family"
     ],
     "desc": "Join our coach team to have a skate class that will get you rolling! Skaters only in the studio in this mixed age session. Recommended age 7+",
@@ -2692,7 +2678,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
     "link": "https://www.theskatesanctuary.co.uk/events/summer-hols-roller-skate-special-age-5-2026-08-17-12-00",
@@ -2746,7 +2732,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-08-16-12-00",
@@ -2800,7 +2786,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-08-15-12-00",
@@ -2874,7 +2860,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
     "link": "https://www.theskatesanctuary.co.uk/events/summer-hols-roller-skate-special-age-5-2026-08-14-12-00",
@@ -2946,7 +2932,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
     "link": "https://www.theskatesanctuary.co.uk/events/summer-hols-roller-skate-special-age-5-2026-08-13-12-00",
@@ -2982,8 +2968,6 @@
     "location": "Leeds, LS9",
     "price": "See listing for price",
     "types": [
-      "taster",
-      "lesson",
       "family"
     ],
     "desc": "Let's Get Rolling! Kids only session. For children aged 7 and over Learn to roller skate in Leeds this Summer!",
@@ -3020,7 +3004,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
     "link": "https://www.theskatesanctuary.co.uk/events/summer-hols-roller-skate-special-age-5-2026-08-12-12-00",
@@ -3132,7 +3116,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
     "link": "https://www.theskatesanctuary.co.uk/events/summer-hols-roller-skate-special-age-5-2026-08-10-12-00",
@@ -3186,7 +3170,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-08-09-12-00",
@@ -3240,7 +3224,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
     "link": "https://www.theskatesanctuary.co.uk/events/summer-hols-roller-skate-special-age-5-2026-08-07-12-00",
@@ -3276,7 +3260,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-09-02-12-00",
@@ -3330,7 +3314,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-6",
@@ -3348,7 +3332,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-09-03-12-00",
@@ -3366,7 +3350,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-09-04-12-00",
@@ -3384,7 +3368,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-09-05-12-00",
@@ -3402,7 +3386,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-09-06-12-00",
@@ -3420,7 +3404,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-09-07-12-00",
@@ -3438,7 +3422,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-09-09-12-00",
@@ -3456,7 +3440,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-09-10-12-00",
@@ -3474,7 +3458,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-09-11-12-00",
@@ -3492,7 +3476,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-09-12-12-00",
@@ -3510,7 +3494,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-09-13-12-00",
@@ -3528,7 +3512,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-09-14-12-00",
@@ -3546,7 +3530,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-7",
@@ -3564,7 +3548,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-05-12-00",
@@ -3653,7 +3637,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-07-12-00",
@@ -3689,7 +3673,6 @@
     "location": "Leeds, LS9",
     "price": "See listing for price",
     "types": [
-      "lesson",
       "family"
     ],
     "desc": "Continue to learn new skills and consolidate essential core techniques for skaters. Quad or inlines welcome. Skate hire available for a small additional fee. Please check your child has the experience required for the session.",
@@ -3726,7 +3709,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-08-12-00",
@@ -3798,7 +3781,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-09-12-00",
@@ -3834,7 +3817,6 @@
     "location": "Leeds, LS7",
     "price": "See listing for price",
     "types": [
-      "disco",
       "family"
     ],
     "desc": "Ages 5+ welcome to our Family Friendly Friday session - expect disco lights and the occasional game in our studio. Skate hire available for a small additional price on the door.",
@@ -3871,7 +3853,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-10-12-00",
@@ -3925,7 +3907,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-11-12-00",
@@ -4017,7 +3999,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-12-12-00",
@@ -4071,7 +4053,6 @@
     "location": "Leeds, LS9",
     "price": "See listing for price",
     "types": [
-      "workshop",
       "family"
     ],
     "desc": "Special Kids workshop to learn some tricks. Quad or inlines welcome. Skate hire available for a small additional fee. Please check your child has the experience required for the session.",
@@ -4090,7 +4071,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-14-12-00",
@@ -4108,7 +4089,6 @@
     "location": "Leeds, LS9",
     "price": "See listing for price",
     "types": [
-      "lesson",
       "family"
     ],
     "desc": "Continue to learn new skills and consolidate essential core techniques for skaters. Quad or inlines welcome. Skate hire available for a small additional fee. Please check your child has the experience required for the session.",
@@ -4163,7 +4143,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-15-12-00",
@@ -4217,7 +4197,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-16-12-00",
@@ -4253,7 +4233,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-17-12-00",
@@ -4271,7 +4251,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-18-12-00",
@@ -4343,7 +4323,7 @@
     "location": "Leeds, LS7",
     "price": "£5",
     "types": [
-      "social"
+      "family"
     ],
     "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-19-12-00",
