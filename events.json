@@ -3553,5 +3553,802 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 197,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "05",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-05-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 198,
+    "name": "Adult Lv2 Skate Course Week 5 (of 6) (17+)",
+    "day": "05",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Continue to Learn with our Level 6 course. Small group size. Intensive 6 week course + bonus class.",
+    "link": "https://www.theskatesanctuary.co.uk/events/adult-lv2-skate-course-week-5-of-6-17-2026-10-05-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
+  },
+  {
+    "id": 199,
+    "name": "Adult Beginner Skate Course Week 5 (of 6) (17+)",
+    "day": "05",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Adult learn to skate course. Small group size. Intensive 6 week course + bonus class. Absolute beginners.",
+    "link": "https://www.theskatesanctuary.co.uk/events/adult-beginner-skate-course-week-5-of-6-17-2026-10-05-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 200,
+    "name": "Neurodivergent friendly - Wheels of Connection: Spectrum Session",
+    "day": "06",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "We've launched a session specifically for skaters with neurodivergence to come together in a low-stimulus environment. With coaches to support your skate skills as required.",
+    "link": "https://www.theskatesanctuary.co.uk/events/neurodivergent-friendly-wheels-of-connection-spectrum-session-2026-10-06-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 201,
+    "name": "Introduction to... C- Step Age 17+",
+    "day": "06",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "disco"
+    ],
+    "desc": "Roller Dance series for Level 2+ skaters. This series is designed to help you learn roller dance vocabulary and feel more confident to join in at roller discos, skate parties and festivals. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/introduction-to-c-step-age-17-4",
+    "free": false,
+    "region": "West Yorkshire"
+  },
+  {
+    "id": 202,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "07",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-07-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 203,
+    "name": "Focus and Flow SHOWCASE COURSE",
+    "day": "07",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Dance Studio Leeds - Studio 1",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Join our first ever SHOWCASE COURSE and perform on roller skates as part of our crew! Age 18+ only",
+    "link": "https://www.theskatesanctuary.co.uk/events/focus-and-flow-showcase-course-2026-10-07-20-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "8:30 pm – 9:30 pm"
+  },
+  {
+    "id": 204,
+    "name": "Kids All Levels Skate Class Age 7+",
+    "day": "07",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson",
+      "family"
+    ],
+    "desc": "Continue to learn new skills and consolidate essential core techniques for skaters. Quad or inlines welcome. Skate hire available for a small additional fee. Please check your child has the experience required for the session.",
+    "link": "https://www.theskatesanctuary.co.uk/events/kids-all-levels-skate-class-age-7-2026-10-07-19-15",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:15 pm – 8:15 pm"
+  },
+  {
+    "id": 205,
+    "name": "Focus & Flow 17+ TRAINING DRILLS",
+    "day": "07",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Suggested Level 3&4 Great warm up before Choreography class or skill development for roller dance",
+    "link": "https://www.theskatesanctuary.co.uk/events/focus-flow-17-training-drills-2026-10-07-19-15",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:15 pm – 8:15 pm"
+  },
+  {
+    "id": 206,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "08",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-08-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 207,
+    "name": "LGBTQ+ Wheels of Connection: Prism",
+    "day": "08",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Celebrate Connection. All Identities Welcome. Prism is—a supportive, affirming, and celebratory roller skate session for Trans, Gender Non-Conforming (GNC) folks, and their Allies! This space is dedicated to connection, joy, and movement, with coaches to support.",
+    "link": "https://www.theskatesanctuary.co.uk/events/lgbtq-wheels-of-connection-prism-2026-10-08-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
+  },
+  {
+    "id": 208,
+    "name": "Adults Thursday Evening Drop In Session",
+    "day": "08",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Drop in to practise, move or chat. Skate hire available for a small additional fee.",
+    "link": "https://www.theskatesanctuary.co.uk/events/adults-thursday-evening-drop-in-session-2026-10-08-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 209,
+    "name": "Student Roller Disco (NUS card holders)",
+    "day": "09",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "disco"
+    ],
+    "desc": "A special session for NUS card holders - expect disco lights and the occasional game in our studio. Skate hire included",
+    "link": "https://www.theskatesanctuary.co.uk/events/student-roller-disco-nus-card-holders-2026-10-09-17-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "5:00 pm – 7:00 pm"
+  },
+  {
+    "id": 210,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "09",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-09-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 211,
+    "name": "Friday Night Sanctuary Shuffle 18+",
+    "day": "09",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Our weekly meetup is at The Skate Sanctuary, come for a chat, skate and boogie at our studio",
+    "link": "https://www.theskatesanctuary.co.uk/events/friday-night-sanctuary-shuffle-18-2026-10-09-19-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:00 pm – 9:00 pm"
+  },
+  {
+    "id": 212,
+    "name": "Family Friendly Friday Eve Roller Disco 5+",
+    "day": "09",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "disco",
+      "family"
+    ],
+    "desc": "Ages 5+ welcome to our Family Friendly Friday session - expect disco lights and the occasional game in our studio. Skate hire available for a small additional price on the door.",
+    "link": "https://www.theskatesanctuary.co.uk/events/family-friendly-friday-eve-roller-disco-5-2026-10-09-17-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "5:00 pm – 7:00 pm"
+  },
+  {
+    "id": 213,
+    "name": "Adults Afternoon Practise",
+    "day": "10",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Drop in to practise, move or chat. Skate hire available for a small additional fee.",
+    "link": "https://www.theskatesanctuary.co.uk/events/adults-afternoon-practise-2026-10-10-16-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:30 pm – 6:00 pm"
+  },
+  {
+    "id": 214,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "10",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-10-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 215,
+    "name": "Level 1 & 2: Adult Foundation 4 week Accelerator Course (17+) - wk2",
+    "day": "10",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Feel more confident on wheels, ready to roll for the summer! Suitable for those with limited or no roller skate experience and lots of courage. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/level-1-2-adult-foundation-4-week-accelerator-course-17-wk2-2026-10-10-10-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "10:00 am – 12:00 pm"
+  },
+  {
+    "id": 216,
+    "name": "Skate Maintenance & Crafternoon - Halloween Skate Styling",
+    "day": "10",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Skate Maintenance and Crafternoon! Bring all your skate related questions and gain a number of skills to maintain, fix, decorate or even upgrade parts of your skates. Tools provided - Extra Materials such as craft supplies or upgraded parts will need to be purchased separately",
+    "link": "https://www.theskatesanctuary.co.uk/events/skate-maintenance-crafternoon-halloween-skate-styling-2026-10-10-16-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:00 pm – 6:00 pm"
+  },
+  {
+    "id": 217,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "11",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-11-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 218,
+    "name": "Level 4: Skate Skills Workshop 17+",
+    "day": "11",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "workshop",
+      "lesson"
+    ],
+    "desc": "1hr level 4 skills class for confident skaters, who want new challenges and excitement. FOCUS -Week 4: single and double pivots, intro to hurricane kick",
+    "link": "https://www.theskatesanctuary.co.uk/events/level-4-skate-skills-workshop-17-2026-10-11-17-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "5:30 pm – 6:30 pm"
+  },
+  {
+    "id": 219,
+    "name": "Level 3 Skate Skills Workshop 17+",
+    "day": "11",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "workshop",
+      "lesson"
+    ],
+    "desc": "1hr level 3 skills class for confident skaters, who want new challenges and excitement. FOCUS: Wk4 Jumping + Spinning",
+    "link": "https://www.theskatesanctuary.co.uk/events/level-3-skate-skills-workshop-17-2026-10-11-16-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:30 pm – 5:30 pm"
+  },
+  {
+    "id": 220,
+    "name": "Level 2: Roller Skate Fundamentals (17+)",
+    "day": "11",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "We will support you to feel more confident on your wheels. Skate hire available for a small additional fee. FOCUS: Week 4 - Backwards, intro to turning around",
+    "link": "https://www.theskatesanctuary.co.uk/events/level-2-roller-skate-fundamentals-17-2026-10-11-11-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "11:00 am – 12:00 pm"
+  },
+  {
+    "id": 221,
+    "name": "Level 1 : Roller Skate Fundamentals (17+)",
+    "day": "11",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Suitable for those with little or no experience on roller skates. We will support you to feel more confident on your wheels. FOCUS: Week 4 - falling, balancing, intro to turning, lemons",
+    "link": "https://www.theskatesanctuary.co.uk/events/level-1-roller-skate-fundamentals-17-2026-10-11-10-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "10:00 am – 11:00 am"
+  },
+  {
+    "id": 222,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "12",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-12-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 223,
+    "name": "Adult Lv2 Skate Course Week 6 (of 6) (17+)",
+    "day": "12",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Continue to Learn with our Level 6 course. Small group size. Intensive 6 week course + bonus class.",
+    "link": "https://www.theskatesanctuary.co.uk/events/adult-lv2-skate-course-week-6-of-6-17-2026-10-12-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
+  },
+  {
+    "id": 224,
+    "name": "Adult Beginner Skate Course Week 6 (of 6) (17+)",
+    "day": "12",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Adult learn to skate course. Small group size. Intensive 6 week course + bonus class. Absolute beginners.",
+    "link": "https://www.theskatesanctuary.co.uk/events/adult-beginner-skate-course-week-6-of-6-17-2026-10-12-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 225,
+    "name": "Kids Improver Skate Tricks Workshop 1 Age 7+",
+    "day": "14",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "workshop",
+      "family"
+    ],
+    "desc": "Special Kids workshop to learn some tricks. Quad or inlines welcome. Skate hire available for a small additional fee. Please check your child has the experience required for the session.",
+    "link": "https://www.theskatesanctuary.co.uk/events/kids-improver-skate-tricks-workshop-1-age-7-2026-10-14-18-15",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:15 pm – 7:15 pm"
+  },
+  {
+    "id": 226,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "14",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-14-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 227,
+    "name": "Kids All Levels Skate Class Age 7+",
+    "day": "14",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson",
+      "family"
+    ],
+    "desc": "Continue to learn new skills and consolidate essential core techniques for skaters. Quad or inlines welcome. Skate hire available for a small additional fee. Please check your child has the experience required for the session.",
+    "link": "https://www.theskatesanctuary.co.uk/events/kids-all-levels-skate-class-age-7-2026-10-14-18-15",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:15 pm – 7:15 pm"
+  },
+  {
+    "id": 228,
+    "name": "Focus and Flow SHOWCASE COURSE",
+    "day": "14",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Dance Studio Leeds - Studio 1",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Join our first ever SHOWCASE COURSE and perform on roller skates as part of our crew! Age 18+ only",
+    "link": "https://www.theskatesanctuary.co.uk/events/focus-and-flow-showcase-course-2026-10-14-20-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "8:30 pm – 9:30 pm"
+  },
+  {
+    "id": 229,
+    "name": "Focus & Flow 17+ TRAINING DRILLS",
+    "day": "14",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Suggested Level 3&4 Great warm up before Choreography class or skill development for roller dance",
+    "link": "https://www.theskatesanctuary.co.uk/events/focus-flow-17-training-drills-2026-10-14-19-15",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:15 pm – 8:15 pm"
+  },
+  {
+    "id": 230,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "15",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-15-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 231,
+    "name": "LGBTQ+ Wheels of Connection: Prism",
+    "day": "15",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Celebrate Connection. All Identities Welcome. Prism is—a supportive, affirming, and celebratory roller skate session for Trans, Gender Non-Conforming (GNC) folks, and their Allies! This space is dedicated to connection, joy, and movement, with coaches to support.",
+    "link": "https://www.theskatesanctuary.co.uk/events/lgbtq-wheels-of-connection-prism-2026-10-15-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
+  },
+  {
+    "id": 232,
+    "name": "Adults Thursday Evening Drop In Session",
+    "day": "15",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Drop in to practise, move or chat. Skate hire available for a small additional fee.",
+    "link": "https://www.theskatesanctuary.co.uk/events/adults-thursday-evening-drop-in-session-2026-10-15-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 233,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "16",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-16-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 234,
+    "name": "Adults Afternoon Practise",
+    "day": "17",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Drop in to practise, move or chat. Skate hire available for a small additional fee.",
+    "link": "https://www.theskatesanctuary.co.uk/events/adults-afternoon-practise-2026-10-17-16-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:30 pm – 6:00 pm"
+  },
+  {
+    "id": 235,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "17",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-17-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 236,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "18",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-18-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 237,
+    "name": "Essential Skate Care + Glow ups",
+    "day": "18",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Skate Maintenance and Craft session! Bring all your skate related questions and gain a number of skills to maintain, fix, decorate or even upgrade parts of your skates. Tools provided - Extra Materials such as craft supplies or upgraded parts will need to be purchased separately",
+    "link": "https://www.theskatesanctuary.co.uk/events/essential-skate-care-glow-ups-2026-10-18-11-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "11:00 am – 12:00 pm"
+  },
+  {
+    "id": 238,
+    "name": "Level 1 : Roller Skate Fundamentals (17+)",
+    "day": "18",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Suitable for those with little or no experience on roller skates. We will support you to feel more confident on your wheels. FOCUS: Week 4 - falling, balancing, intro to turning, lemons",
+    "link": "https://www.theskatesanctuary.co.uk/events/level-1-roller-skate-fundamentals-17-2026-10-18-10-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "10:00 am – 11:00 am"
+  },
+  {
+    "id": 239,
+    "name": "Adult Lv2 Skate Course Week 1 (of 6) (17+)",
+    "day": "19",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Continue to Learn with our Level 6 course. Small group size. Intensive 6 week course + bonus class.",
+    "link": "https://www.theskatesanctuary.co.uk/events/adult-lv2-skate-course-week-1-of-6-17-2026-10-19-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 240,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "19",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-19-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
   }
 ]
