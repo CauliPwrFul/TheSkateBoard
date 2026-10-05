@@ -1003,3 +1003,65 @@ footer {
     bottom: 1rem;
   }
 }
+
+/* ── Legal pages (privacy, cookies) ── */
+.legal-hero {
+  padding: 4rem 2rem 2rem;
+  max-width: 720px;
+}
+
+.legal-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(2.6rem, 6vw, 4rem);
+  line-height: 0.95;
+  color: var(--text);
+  margin-bottom: 0.6rem;
+}
+
+.legal-title em {
+  font-style: normal;
+  color: var(--accent);
+}
+
+.legal-updated {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 1rem;
+  color: var(--muted);
+}
+
+.legal-content {
+  padding: 0 2rem 4rem;
+  max-width: 720px;
+}
+
+.legal-content h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 1.5rem;
+  letter-spacing: 0.02em;
+  color: var(--text);
+  margin: 2.2rem 0 0.8rem;
+}
+
+.legal-content h2:first-child { margin-top: 0; }
+
+.legal-content p {
+  color: var(--muted);
+  font-size: 0.92rem;
+  line-height: 1.75;
+  margin-bottom: 1rem;
+}
+
+.legal-content ul {
+  color: var(--muted);
+  font-size: 0.92rem;
+  line-height: 1.75;
+  margin: 0 0 1rem 1.2rem;
+}
+
+.legal-content li { margin-bottom: 0.4rem; }
+
+.legal-content a { color: var(--accent); text-decoration: none; }
+.legal-content a:hover { text-decoration: underline; }
+
+.legal-content strong { color: var(--text); }
