@@ -2,7 +2,7 @@
 // Analytics (Google Analytics, Microsoft Clarity) only load after a visitor
 // clicks Accept. Rejecting, or never answering, loads nothing.
 // Fill in the IDs below once the accounts exist; until then nothing loads.
-const GA_ID = '';        // e.g. 'G-XXXXXXXXXX'
+const GA_ID = 'G-58JVDY3B9N';
 const CLARITY_ID = '';   // e.g. 'abcd1234ef'
 
 const CONSENT_KEY = 'sb_cookie_consent';
