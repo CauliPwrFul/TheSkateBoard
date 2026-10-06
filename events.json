@@ -4330,5 +4330,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 269,
+    "name": "Halloween Special Saturday Night Social @ The Skate Sanctuary",
+    "day": "31",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary / Roller Skate Studi",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Unwind at The Skate Sanctuary - come for a chat, skate and boogie at our studio.",
+    "link": "https://www.theskatesanctuary.co.uk/events/halloween-special-saturday-night-social-the-skate-sanctuary-2026-10-31-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 10:00 pm"
   }
 ]
