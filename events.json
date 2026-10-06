@@ -4330,5 +4330,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 285,
+    "name": "Level 2: Roller Skate Fundamentals (17+)",
+    "day": "08",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "We will support you to feel more confident on your wheels. Skate hire available for a small additional fee. FOCUS: Re-cap: Backwards & turning around (f)",
+    "link": "https://www.theskatesanctuary.co.uk/events/level-2-roller-skate-fundamentals-17-2026-11-08-11-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "11:00 am – 12:00 pm"
   }
 ]
