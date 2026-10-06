@@ -5420,5 +5420,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "10:00 am – 11:00 am"
+  },
+  {
+    "id": 306,
+    "name": "Discover Roller Dance Accelerator Course week 1 (of 4)",
+    "day": "07",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS9",
+    "price": "£54",
+    "types": [
+      "disco"
+    ],
+    "desc": "This is an introductory accelerated 4 week course for skaters who have little/no prior experience of roller dance. Skate hire available for a small additional fee (Free FNS ticket at end of course if you buy a course ticket @ £54)",
+    "link": "https://www.theskatesanctuary.co.uk/events/discover-roller-dance-accelerator-course-week-1-of-4-2026-11-07-10-30",
+    "free": true,
+    "region": "West Yorkshire",
+    "time": "10:30 am – 12:00 pm"
   }
 ]
