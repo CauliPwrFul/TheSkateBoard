@@ -104,11 +104,15 @@ def run(apply_changes):
             print(f"    ⚠ {note}")
 
         if apply_changes:
-            open_pr_for_event(candidate, event)
+            try:
+                open_pr_for_event(candidate, event)
+            except subprocess.CalledProcessError as exc:
+                # One bad event must not stop the run or lose progress.
+                print(f"    ✖ could not open PR for this event, skipping: {exc}")
+                subprocess.run(["git", "checkout", "-f", "main"], cwd=REPO_ROOT)
+                continue
             seen.add(candidate["source_key"])
-
-    if apply_changes:
-        save_seen(seen)
+            save_seen(seen)  # save after each success, so a later failure can't cause re-proposals
 
 
 def open_pr_for_event(candidate, event):
@@ -132,7 +136,9 @@ def open_pr_for_event(candidate, event):
         cwd=REPO_ROOT,
         check=True,
     )
-    subprocess.run(["git", "push", "-u", "origin", branch], cwd=REPO_ROOT, check=True)
+    # event/* branches are owned by this bot and fully regenerated each run,
+    # so overwrite any leftover branch of the same name instead of failing.
+    subprocess.run(["git", "push", "--force", "-u", "origin", branch], cwd=REPO_ROOT, check=True)
 
     notes = candidate.get("_confidence_notes", [])
     notes_block = "\n".join(f"- {n}" for n in notes) if notes else "- Nothing flagged — looked clean."
