@@ -4330,5 +4330,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 254,
+    "name": "Half Term ROLLER SKATE SPECIAL (Age 5+)",
+    "day": "26",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary by RGG",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Choose your one-hour skate time between 12- 4pm this school holiday. £5 ticket for all skaters. Skate hire included",
+    "link": "https://www.theskatesanctuary.co.uk/events/half-term-roller-skate-special-age-5-2026-10-26-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 4:00 pm"
   }
 ]
