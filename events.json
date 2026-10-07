@@ -5420,5 +5420,424 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "10:00 am – 11:00 am"
+  },
+  {
+    "id": 301,
+    "name": "Kids Roller Skate Lessons",
+    "day": "08",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson",
+      "family"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9193331/chk/d0215a2eea2b39300033f7b81a0f0479/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:00 pm"
+  },
+  {
+    "id": 302,
+    "name": "Kids Roller Skate Lessons",
+    "day": "15",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson",
+      "family"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9193332/chk/ec0b24ec733bf44c248020e7efb35a90/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:00 pm"
+  },
+  {
+    "id": 303,
+    "name": "Kids Roller Skate Lessons",
+    "day": "22",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson",
+      "family"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9193333/chk/24f5fd9c12e5793e24dd583d144532f5/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:00 pm"
+  },
+  {
+    "id": 304,
+    "name": "Adult Beginner Roller Skate Lessons",
+    "day": "08",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9193487/chk/8da03d8aac40688e36f457bb6b1c3579/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:00 pm – 8:00 pm"
+  },
+  {
+    "id": 305,
+    "name": "Adult Beginner Roller Skate Lessons",
+    "day": "15",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9193488/chk/a9ea7ad4c35303cc5408c8ff802ba571/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:00 pm – 8:00 pm"
+  },
+  {
+    "id": 306,
+    "name": "Adult Beginner Roller Skate Lessons",
+    "day": "22",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9193489/chk/cb432fc87123764dc63abc8d72cd7a4e/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:00 pm – 8:00 pm"
+  },
+  {
+    "id": 307,
+    "name": "Adult Improvers: Learn to Rollerskate Autumn",
+    "day": "08",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9193375/chk/924be95ae758f7816d2b092a409ba534/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "8:00 pm – 9:00 pm"
+  },
+  {
+    "id": 308,
+    "name": "Adult Improvers: Learn to Rollerskate Autumn",
+    "day": "15",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9193376/chk/2ac4669a59b8b1a64ce64bae8124318f/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "8:00 pm – 9:00 pm"
+  },
+  {
+    "id": 309,
+    "name": "Adult Improvers: Learn to Rollerskate Autumn",
+    "day": "22",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9193377/chk/c51609e0c425614ea675e1b3a35ea1a9/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "8:00 pm – 9:00 pm"
+  },
+  {
+    "id": 310,
+    "name": "Saturday Free Kids Roller Skate Lessons",
+    "day": "10",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "Denis Healy Centre",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson",
+      "family"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9193500/chk/5c56731019ba19ed9c1e23ce05168415/",
+    "free": true,
+    "region": "West Yorkshire",
+    "time": "11:00 am – 12:00 pm"
+  },
+  {
+    "id": 311,
+    "name": "Saturday Free Kids Roller Skate Lessons",
+    "day": "17",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "Denis Healy Centre",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson",
+      "family"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9193501/chk/d11ccbf47859c5452fef9cb0d2c6a0ff/",
+    "free": true,
+    "region": "West Yorkshire",
+    "time": "11:00 am – 12:00 pm"
+  },
+  {
+    "id": 312,
+    "name": "Monday Community Roller Dance",
+    "day": "12",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "Yorkshire Dance Leeds",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9193410/chk/029bd7df90c88653b03cab3c39f75515/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:30 pm – 8:00 pm"
+  },
+  {
+    "id": 313,
+    "name": "Monday Community Roller Dance",
+    "day": "19",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "Yorkshire Dance Leeds",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9193411/chk/7e0da0df048c9b0e5a41ce5a3503a5ce/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:30 pm – 8:00 pm"
+  },
+  {
+    "id": 314,
+    "name": "Monday Community Roller Dance",
+    "day": "02",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Yorkshire Dance Leeds",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9193413/chk/9f1711e0671839405c1e9f8486043487/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:30 pm – 8:00 pm"
+  },
+  {
+    "id": 315,
+    "name": "Monday Community Roller Dance",
+    "day": "09",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Yorkshire Dance Leeds",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9193414/chk/467837c1540256ba5d7d0bcd353a4592/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:30 pm – 8:00 pm"
+  },
+  {
+    "id": 316,
+    "name": "Monday Community Roller Dance",
+    "day": "16",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Yorkshire Dance Leeds",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9193415/chk/35c9bdcb062f9fa674d0d0858f9b6de1/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:30 pm – 8:00 pm"
+  },
+  {
+    "id": 317,
+    "name": "Monday Community Roller Dance",
+    "day": "23",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Yorkshire Dance Leeds",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9193416/chk/008d18b9ccac7fb26a6cad7172302d1f/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:30 pm – 8:00 pm"
+  },
+  {
+    "id": 318,
+    "name": "Monday Community Roller Dance",
+    "day": "30",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Yorkshire Dance Leeds",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9193417/chk/8629e50281796220917c80199b5e3388/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:30 pm – 8:00 pm"
+  },
+  {
+    "id": 319,
+    "name": "Monday Community Roller Dance",
+    "day": "07",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "Yorkshire Dance Leeds",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9193418/chk/36f991206c950565ca1af27b0c900512/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:30 pm – 8:00 pm"
+  },
+  {
+    "id": 320,
+    "name": "Middleton Skaters Sunday Sessions",
+    "day": "01",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Cockburn School",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9133730/chk/d83448a59843c53778c96862424d2314/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "2:00 pm – 4:00 pm"
+  },
+  {
+    "id": 321,
+    "name": "Middleton Skaters Sunday Sessions",
+    "day": "29",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Cockburn School",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9133731/chk/8c66c1795b48d08119515d6bf92e9826/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "2:00 pm – 4:00 pm"
+  },
+  {
+    "id": 322,
+    "name": "Middleton Skaters Sunday Sessions",
+    "day": "20",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "Cockburn School",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9133732/chk/ecbc0d9123e691c6a7b4baef4d8f0143/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "2:00 pm – 4:00 pm"
+  },
+  {
+    "id": 323,
+    "name": "Christmas Party",
+    "day": "27",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Ramgharia Sports Centre",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9224195/chk/0a337f16e1e71107fe2c9f47bdbae5a0/?entry_link=%2Fall-tickets%2Ftheskatescholarship%2F%3F",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 10:00 pm"
   }
 ]

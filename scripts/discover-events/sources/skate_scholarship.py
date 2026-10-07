@@ -1,120 +1,165 @@
+import html as html_lib
 import re
 from datetime import date
 
 from lib.http import fetch
 from lib.format import clean_text, infer_types, infer_free, pad_day, month_abbr, is_cancellation_notice
 
-SOURCE_URL = "https://www.theskatescholarship.com/shop"
+# The Skate Scholarship's own site (theskatescholarship.com/skatewithus) embeds
+# its listings as a Ticket Tailor widget, injected client-side — nothing useful
+# is in that page's own HTML. Ticket Tailor's own box office page for them
+# (slug "theskatescholarship") is plain server-rendered HTML, so we read that
+# directly instead.
 SOURCE_NAME = "The Skate Scholarship"
+BASE = "https://www.tickettailor.com"
+LISTING_URL = f"{BASE}/all-tickets/theskatescholarship/"
 
-CARD_ROOT_RE = re.compile(
-    r'<div[^>]*data-slug="(?P<slug>[^"]*)"[^>]*aria-label="(?P<aria>[^"]*)"[^>]*data-hook="product-item-root"'
+# Recurring classes ("Multiple dates and times") link to a page listing each
+# upcoming occurrence; one-off events link straight to checkout with the date
+# already on the listing page.
+RECURRING_RE = re.compile(
+    r'<a href="(?P<href>/events/theskatescholarship/(?P<id>\d+)/select-date[^"]*)">\s*'
+    r'<span class="event_date">\s*Multiple dates and times\s*</span>\s*'
+    r'<span notranslate class="event_name">(?P<name>[^<]*)</span>',
+    re.S,
 )
-LINK_RE = re.compile(r'<a href="(?P<href>https://www\.theskatescholarship\.com/product-page/[^"]*)"')
-PRICE_RE = re.compile(r'data-wix-price="(?P<price>[^"]*)"')
-
-# "Starts 16th June 26" / "Starts 20th April" — day, month, optional 2-digit year
-DATE_RE = re.compile(
-    r"Starts\s+(?P<day>\d{1,2})(?:st|nd|rd|th)?\s+(?P<month>[A-Za-z]+)(?:\s+(?P<year>\d{2,4}))?",
-    re.I,
+SINGLE_RE = re.compile(
+    r'<a href="(?P<href>/checkout/view-event/id/(?P<id>\d+)/chk/[^"]*)">.*?'
+    r'<span notranslate class="event_name">(?P<name>[^<]*)</span>',
+    re.S,
 )
 
-MONTH_LOOKUP = {name.lower(): i + 1 for i, name in enumerate(
-    ["January", "February", "March", "April", "May", "June",
-     "July", "August", "September", "October", "November", "December"]
+# On a recurring class's "select-date" page, each occurrence is one of these,
+# with the ISO date in the id and the time range nearby.
+OCCURRENCE_RE = re.compile(
+    r'<div class="occurrence date_select" id="occurrence_(?P<date>\d{4}-\d{2}-\d{2})">\s*'
+    r'<a href="(?P<href>[^"]+)">.*?'
+    r"<span class='time_portion'>\s*<var>(?P<start>[^<]+)</var>\s*-\s*<var>(?P<end>[^<]+)</var>",
+    re.S,
+)
+
+# A one-off event's checkout page has the full date and time together, unlike
+# the listing page (which omits the year).
+SINGLE_DATE_TIME_RE = re.compile(
+    r'class="date_and_time[^"]*">'
+    r'<span isolate>[A-Za-z]+</span>\s*<var>(?P<day>\d{1,2})</var>\s*'
+    r'<span isolate>(?P<month>[A-Za-z]+)</span>\s*<var>(?P<year>\d{4})</var>\s*'
+    r'<var>(?P<start>[^<]+)</var>\s*-\s*<var>(?P<end>[^<]+)</var>'
+)
+
+H1_RE = re.compile(r"<h1[^>]*>([^<]*)</h1>")
+VENUE_RE = re.compile(r'class="venue_name">([^<]*)<')
+
+MONTH_LOOKUP = {m.lower(): i + 1 for i, m in enumerate(
+    ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 )}
 
 
-def _parse_card_date(aria_label):
-    match = DATE_RE.search(aria_label)
-    if not match:
-        return None, ["Couldn't find a start date in the listing — please confirm and edit."]
+def _clean(raw):
+    return clean_text(html_lib.unescape(raw or ""))
 
-    day = int(match.group("day"))
-    month_name = match.group("month").lower()
-    month_num = MONTH_LOOKUP.get(month_name)
-    if not month_num:
-        return None, ["Couldn't parse the month in the listing — please confirm and edit."]
 
-    notes = []
-    year_raw = match.group("year")
-    if year_raw:
-        year = int(year_raw) if len(year_raw) == 4 else 2000 + int(year_raw)
-    else:
-        # No year on the listing — assume the next upcoming occurrence.
-        today = date.today()
-        year = today.year
-        if (month_num, day) < (today.month, today.day):
-            year += 1
-        notes.append("Listing had no year — assumed the next upcoming occurrence, please confirm.")
+def _venue_and_title(event_html):
+    h1 = H1_RE.search(event_html)
+    venue = VENUE_RE.search(event_html)
+    name = _clean(h1.group(1)) if h1 else None
+    venue_name = _clean(venue.group(1)) if venue else SOURCE_NAME
+    return name, venue_name
 
-    try:
-        parsed = date(year, month_num, day)
-    except ValueError:
-        return None, ["Listing date didn't parse to a real calendar date — please confirm and edit."]
 
-    return parsed, notes
+def _build_event(source_key, source_url, name, event_date, start, end, venue_name, link):
+    time_str = f"{start.lower()} – {end.lower()}" if start and end else None
+    types, matched = infer_types(name)
+    notes = ["Price not shown on the listing page — please confirm and edit."]
+    if not matched:
+        notes.append('No keyword match for a type — defaulted to "social", please check.')
+    return {
+        "source_key": source_key,
+        "source_url": source_url,
+        "name": name,
+        "day": pad_day(event_date.day),
+        "month": month_abbr(event_date.month),
+        "year": str(event_date.year),
+        "time": time_str,
+        "venue": venue_name,
+        "location": "Leeds",
+        "price": "See listing for price",
+        "desc": "",
+        "types": types,
+        "free": infer_free("", name),
+        "link": link,
+        "region": "West Yorkshire",
+        "_confidence_notes": notes,
+    }
 
 
 def fetch_events():
-    html = fetch(SOURCE_URL)
+    listing_html = fetch(LISTING_URL)
+    today = date.today()
     results = []
 
-    for card_match in CARD_ROOT_RE.finditer(html):
-        slug = card_match.group("slug")
-        aria = card_match.group("aria")
-
-        # aria-label is like "<name> . Starts 16th June 26 gallery" or
-        # "<name>. NEW WORKSHOP gallery" — strip the trailing date/badge suffix.
-        name = clean_text(
-            re.sub(r"\s*\.\s*(?:Starts\s+.+|[A-Z][A-Z \d]+)\s*gallery\s*$", "", aria, flags=re.I)
-        ) or clean_text(aria)
-
-        if is_cancellation_notice(name):
+    for m in RECURRING_RE.finditer(listing_html):
+        event_id = m.group("id")
+        name = _clean(m.group("name"))
+        if not name or is_cancellation_notice(name):
             continue
 
-        window = html[card_match.end():card_match.end() + 4000]
+        select_url = BASE + _clean(m.group("href"))
+        try:
+            event_html = fetch(select_url)
+        except Exception:
+            continue  # one broken class page shouldn't drop the rest of this source
 
-        link_match = LINK_RE.search(window)
-        link = link_match.group("href") if link_match else f"{SOURCE_URL.rsplit('/', 1)[0]}/product-page/{slug}"
+        _, venue_name = _venue_and_title(event_html)
 
-        price_match = PRICE_RE.search(window)
-        price = price_match.group("price") if price_match else "See listing for price"
+        for occ in OCCURRENCE_RE.finditer(event_html):
+            y, mo, d = occ.group("date").split("-")
+            occ_date = date(int(y), int(mo), int(d))
+            if occ_date < today:
+                continue
+            checkout_link = BASE + _clean(occ.group("href"))
+            results.append(_build_event(
+                source_key=f"scholarship-tt:{event_id}:{occ.group('date')}",
+                source_url=select_url,
+                name=name,
+                event_date=occ_date,
+                start=occ.group("start"),
+                end=occ.group("end"),
+                venue_name=venue_name,
+                link=checkout_link,
+            ))
 
-        parsed_date, notes = _parse_card_date(aria)
-        if parsed_date is None:
-            # Can't build a usable event without a date — skip, don't half-guess.
+    for m in SINGLE_RE.finditer(listing_html):
+        event_id = m.group("id")
+        checkout_link = BASE + _clean(m.group("href"))
+        try:
+            event_html = fetch(checkout_link)
+        except Exception:
             continue
-        if parsed_date < date.today():
+
+        name, venue_name = _venue_and_title(event_html)
+        if not name or is_cancellation_notice(name):
             continue
 
-        types, types_matched = infer_types(name)
-        type_notes = notes + [
-            "Venue/location defaulted to the org's general Leeds address — the listing page doesn't show the specific venue, please confirm.",
-            "No description available from the shop grid — consider adding one.",
-        ]
-        if not types_matched:
-            type_notes.append('No keyword match for a type — defaulted to "social", please check.')
+        dt_match = SINGLE_DATE_TIME_RE.search(event_html)
+        if not dt_match:
+            continue  # can't build a usable event without a date — skip, don't half-guess
+        month_num = MONTH_LOOKUP.get(dt_match.group("month")[:3].lower())
+        if not month_num:
+            continue
+        event_date = date(int(dt_match.group("year")), month_num, int(dt_match.group("day")))
+        if event_date < today:
+            continue
 
-        results.append(
-            {
-                "source_key": f"scholarship:{slug}",
-                "source_url": link,
-                "name": name,
-                "day": pad_day(parsed_date.day),
-                "month": month_abbr(parsed_date.month),
-                "year": str(parsed_date.year),
-                "time": None,
-                "venue": SOURCE_NAME,
-                "location": "Leeds",
-                "price": price,
-                "desc": "",
-                "types": types,
-                "free": infer_free(price, name),
-                "link": link,
-                "region": "West Yorkshire",
-                "_confidence_notes": type_notes,
-            }
-        )
+        results.append(_build_event(
+            source_key=f"scholarship-tt:{event_id}",
+            source_url=checkout_link,
+            name=name,
+            event_date=event_date,
+            start=dt_match.group("start"),
+            end=dt_match.group("end"),
+            venue_name=venue_name,
+            link=checkout_link,
+        ))
 
     return results
