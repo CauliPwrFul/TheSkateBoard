@@ -5839,5 +5839,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "7:30 pm – 10:00 pm"
+  },
+  {
+    "id": 325,
+    "name": "Christmas Makers Market",
+    "day": "14",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Get your Christmas Shopping in early - Come and get skate related and non skater goodies made my local artists",
+    "link": "https://www.theskatesanctuary.co.uk/events/christmas-makers-market",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "11:00 am – 4:00 pm"
   }
 ]
