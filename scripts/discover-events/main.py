@@ -3,6 +3,7 @@ import json
 import os
 import subprocess
 import sys
+from datetime import date
 
 sys.path.insert(0, os.path.dirname(__file__))
 
@@ -94,75 +95,73 @@ def run(apply_changes):
     print(f"Found {len(new_events)} new event(s):\n")
     next_id = next_event_id(existing_events)
 
+    built = []
     for candidate in new_events:
         event_id = next_id
         next_id += 1
         event = build_event_object(candidate, event_id)
+        built.append((candidate, event))
 
         print(f"- [{event_id}] {event['name']} — {event['day']} {event['month']} {event['year']}")
         for note in candidate.get("_confidence_notes", []):
             print(f"    ⚠ {note}")
 
-        if apply_changes:
-            try:
-                open_pr_for_event(candidate, event)
-            except subprocess.CalledProcessError as exc:
-                # One bad event must not stop the run or lose progress.
-                print(f"    ✖ could not open PR for this event, skipping: {exc}")
-                subprocess.run(["git", "checkout", "-f", "main"], cwd=REPO_ROOT)
-                continue
-            seen.add(candidate["source_key"])
-            save_seen(seen)  # save after each success, so a later failure can't cause re-proposals
+    if not apply_changes:
+        return
+
+    try:
+        open_pr_for_batch(built)
+    except subprocess.CalledProcessError as exc:
+        # Don't mark anything seen if the PR never actually went up — a
+        # failed run should be retried in full next time, not silently
+        # lose events.
+        print(f"✖ could not open the batch PR: {exc}", file=sys.stderr)
+        subprocess.run(["git", "checkout", "-f", "main"], cwd=REPO_ROOT)
+        return
+
+    for candidate, _ in built:
+        seen.add(candidate["source_key"])
+    save_seen(seen)
 
 
-def open_pr_for_event(candidate, event):
-    slug = candidate["source_key"].replace(":", "-").replace(" ", "-").lower()
-    branch = f"event/{slug}"
+def open_pr_for_batch(built):
+    """One PR per run covering every newly discovered event, instead of one
+    PR per event. One-per-event meant any batch of 2+ conflicted with each
+    other the moment the first merged, since they all branched from the same
+    base and appended at the same spot in events.json — this sidesteps that
+    entirely by never having more than one open PR touching events.json from
+    a single run."""
+    today_str = date.today().isoformat()
+    branch = f"event/batch-{today_str}"
 
-    # Always branch from main's current on-disk state, so each PR's diff is
-    # exactly one event — never accumulates with other events proposed in
-    # the same run that haven't been merged yet.
     subprocess.run(["git", "checkout", "main"], cwd=REPO_ROOT, check=True)
     subprocess.run(["git", "checkout", "-b", branch], cwd=REPO_ROOT, check=True)
 
     base_events = load_existing_events()
+    all_events = base_events + [event for _, event in built]
     with open(EVENTS_PATH, "w", encoding="utf-8") as f:
-        json.dump(base_events + [event], f, indent=2, ensure_ascii=False)
+        json.dump(all_events, f, indent=2, ensure_ascii=False)
         f.write("\n")
 
     subprocess.run(["git", "add", "events.json"], cwd=REPO_ROOT, check=True)
     subprocess.run(
-        ["git", "commit", "-m", f"Add discovered event: {event['name']} ({event['day']} {event['month']} {event['year']})"],
+        ["git", "commit", "-m", f"Add {len(built)} discovered event(s) ({today_str})"],
         cwd=REPO_ROOT,
         check=True,
     )
     # event/* branches are owned by this bot and fully regenerated each run,
-    # so overwrite any leftover branch of the same name instead of failing.
+    # so overwrite any leftover branch of the same name (e.g. a manual
+    # re-run on the same day) instead of failing.
     subprocess.run(["git", "push", "--force", "-u", "origin", branch], cwd=REPO_ROOT, check=True)
 
-    notes = candidate.get("_confidence_notes", [])
-    notes_block = "\n".join(f"- {n}" for n in notes) if notes else "- Nothing flagged — looked clean."
-
-    body = f"""Auto-discovered from **{candidate['source_url']}**.
-
-## Formatted entry
-```json
-{json.dumps(event, indent=2, ensure_ascii=False)}
-```
-
-## Worth checking before merging
-{notes_block}
-
----
-Merge to publish as-is. Push a fixup commit to this branch first to publish with edits. Close to reject — it won't be proposed again.
-"""
+    body = _batch_pr_body(built, today_str)
 
     subprocess.run(
         [
             "gh", "pr", "create",
             "--base", "main",
             "--head", branch,
-            "--title", f"New event: {event['name']} — {event['day']} {event['month']} {event['year']}",
+            "--title", f"New events: {len(built)} discovered ({today_str})",
             "--body", body,
             "--label", "auto-discovered",
         ],
@@ -171,6 +170,51 @@ Merge to publish as-is. Push a fixup commit to this branch first to publish with
     )
 
     subprocess.run(["git", "checkout", "main"], cwd=REPO_ROOT, check=True)
+
+
+# GitHub PR bodies are capped at 65536 characters. A handful of events with
+# full JSON easily fits; fall back to a terser summary if a very large batch
+# ever would not — the diff on the PR itself always has the exact values.
+MAX_BODY_CHARS = 60000
+
+
+def _batch_pr_body(built, today_str):
+    sections = []
+    for candidate, event in built:
+        notes = candidate.get("_confidence_notes", [])
+        notes_block = "\n".join(f"  - {n}" for n in notes) if notes else "  - Nothing flagged — looked clean."
+        sections.append(
+            f"### {event['name']} — {event['day']} {event['month']} {event['year']}\n"
+            f"Source: {candidate['source_url']}\n\n"
+            f"```json\n{json.dumps(event, indent=2, ensure_ascii=False)}\n```\n\n"
+            f"{notes_block}"
+        )
+
+    footer = (
+        "\n\n---\n"
+        "Merge to publish all of these as-is. Push a fixup commit to this branch first to publish with "
+        "edits. Close to reject all of them — none will be proposed again. To reject just some, edit "
+        "events.json on this branch to remove those entries before merging."
+    )
+
+    full = f"Auto-discovered, {len(built)} event(s) from this run.\n\n" + "\n\n---\n\n".join(sections) + footer
+    if len(full) <= MAX_BODY_CHARS:
+        return full
+
+    terse_sections = []
+    for candidate, event in built:
+        notes = candidate.get("_confidence_notes", [])
+        notes_block = "\n".join(f"  - {n}" for n in notes) if notes else "  - Nothing flagged — looked clean."
+        terse_sections.append(
+            f"### {event['name']} — {event['day']} {event['month']} {event['year']}\n"
+            f"Source: {candidate['source_url']}\n\n{notes_block}"
+        )
+    return (
+        f"Auto-discovered, {len(built)} event(s) from this run — too many to list in full here, "
+        f"see the diff on this PR's **Files changed** tab for the exact values.\n\n"
+        + "\n\n---\n\n".join(terse_sections)
+        + footer
+    )
 
 
 if __name__ == "__main__":
