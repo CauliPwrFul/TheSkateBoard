@@ -3,6 +3,28 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Consent Mode defaults — must be set before any Google tag loads.
+       Google's own consent message (AdSense > Privacy & messaging) updates
+       these once the visitor responds; see consent.js for Microsoft Clarity,
+       which isn't a Google product and doesn't see this automatically. -->
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('consent', 'default', {
+      'ad_storage': 'denied',
+      'ad_user_data': 'denied',
+      'ad_personalization': 'denied',
+      'analytics_storage': 'denied'
+    });
+  </script>
+  <!-- Google AdSense — also triggers the configured consent message -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9092493215791248" crossorigin="anonymous"></script>
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-58JVDY3B9N"></script>
+  <script>
+    gtag('js', new Date());
+    gtag('config', 'G-58JVDY3B9N');
+  </script>
   <title>Cookie Policy — The Skate Board</title>
   <meta name="description" content="Which cookies The Skate Board uses, what each is for, and how to control them.">
   <link rel="canonical" href="https://theskateboard.co.uk/cookies.html">
@@ -86,8 +108,7 @@
     <li><strong>Microsoft Clarity</strong> — heatmaps and session recordings, so we can see how people use the site and fix anything confusing. See <a href="https://privacy.microsoft.com/privacystatement" target="_blank" rel="noopener">Microsoft's privacy statement</a>.</li>
     <li><strong>Google AdSense</strong> — advertising cookies that show ads and measure how they perform. These can be used to personalise the ads you see. See <a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener">how Google uses advertising cookies</a>.</li>
   </ul>
-  <p>Google's consent message also stores a cookie recording your choice, so it doesn't ask again on every visit. You can change your ad personalisation at any time in <a href="https://adssettings.google.com" target="_blank" rel="noopener">Google's ad settings</a>.</p>
-  <p>Our own consent banner stores your choice in your browser's local storage, so we don't ask again. You can change it at any time with the "Cookie settings" link in the footer.</p>
+  <p>The consent message itself stores a cookie recording your choice, so it doesn't ask again on every visit — this covers Google Analytics and Microsoft Clarity as well as advertising. You can change your choice at any time with the "Cookie settings" link in the footer, or manage ad personalisation directly in <a href="https://adssettings.google.com" target="_blank" rel="noopener">Google's ad settings</a>.</p>
 
   <h2>How to control cookies</h2>
   <p>You can block or delete cookies through your browser's settings at any time — this may affect how some embedded features (like the event submission form) work. Most browsers also let you block third-party cookies specifically while still allowing the site itself to function.</p>
@@ -109,7 +130,7 @@
     <span>Community-powered · Leeds</span>
     <a href="privacy.html" class="footer-link">Privacy</a>
     <a href="cookies.html" class="footer-link">Cookies</a>
-    <button type="button" class="footer-link footer-btn" onclick="openCookieSettings()">Cookie settings</button>
+    <a href="javascript:window.googlefc.showRevocationMessage();" class="footer-link cookie-settings-link" style="display:none;">Cookie settings</a>
     <a href="https://auditsu.com/" target="_blank" rel="noopener" class="footer-link">Accessibility tested with AUDITSU ↗</a>
     <a href="https://www.linkedin.com/in/sharahc/" target="_blank" rel="noopener" class="footer-link">Connect on LinkedIn ↗</a>
     <span class="fillout-trigger" onclick="openFillout()">Submit an event →</span>
