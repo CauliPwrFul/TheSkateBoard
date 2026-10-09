@@ -1,107 +1,50 @@
 // ── Cookie consent ─────────────────────────────────────────────────────────
-// Analytics (Google Analytics, Microsoft Clarity) only load after a visitor
-// clicks Accept. Rejecting, or never answering, loads nothing.
-// Fill in the IDs below once the accounts exist; until then nothing loads.
-const GA_ID = 'G-58JVDY3B9N';
+// Ad, ad-personalisation and analytics cookies are controlled by Google's own
+// consent message (configured in AdSense > Privacy & messaging), which also
+// drives Google Analytics automatically via Consent Mode — see the
+// gtag('consent', 'default', ...) call plus the AdSense and GA tags in each
+// page's <head>. This file no longer builds a banner itself.
+//
+// Microsoft Clarity isn't a Google product, so it can't see that consent
+// signal on its own — gated here instead, using the same decision, via the
+// googlefc JS API: https://developers.google.com/funding-choices/fc-api-docs
+
 const CLARITY_ID = 'ysx75memmf';
 
-const CONSENT_KEY = 'sb_cookie_consent';
-let analyticsLoaded = false;
-
-function getConsent() {
-  try {
-    return localStorage.getItem(CONSENT_KEY); // 'accepted' | 'rejected' | null
-  } catch {
-    return null; // storage blocked: treat as no choice, so the banner shows
-  }
+function loadClarity() {
+  const script = document.createElement('script');
+  script.textContent =
+    '(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};' +
+    't=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;' +
+    'y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})' +
+    '(window,document,"clarity","script",' + JSON.stringify(CLARITY_ID) + ');';
+  document.head.appendChild(script);
 }
 
-function setConsent(value) {
-  try {
-    localStorage.setItem(CONSENT_KEY, value);
-  } catch {
-    // storage blocked: the choice can't be remembered, nothing else to do
-  }
-}
+window.googlefc = window.googlefc || {};
+window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];
 
-function loadAnalytics() {
-  if (analyticsLoaded) return;
-  analyticsLoaded = true;
+// Fires once the visitor's consent mode status is known — either they
+// answered Google's message, or consent mode doesn't apply to them (outside
+// the UK/EEA/Switzerland), in which case NOT_APPLICABLE counts as fine to load.
+window.googlefc.callbackQueue.push({
+  CONSENT_MODE_DATA_READY: function () {
+    if (!CLARITY_ID || !window.googlefc.getGoogleConsentModeValues) return;
+    const status = window.googlefc.getGoogleConsentModeValues();
+    const E = window.googlefc.ConsentModePurposeStatusEnum || {};
+    const allowed =
+      status.analyticsStoragePurposeConsentStatus === E.GRANTED ||
+      status.analyticsStoragePurposeConsentStatus === E.NOT_APPLICABLE;
+    if (allowed) loadClarity();
+  },
+});
 
-  if (GA_ID) {
-    const gaScript = document.createElement('script');
-    gaScript.async = true;
-    gaScript.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(GA_ID);
-    document.head.appendChild(gaScript);
-
-    window.dataLayer = window.dataLayer || [];
-    window.gtag = function () { window.dataLayer.push(arguments); };
-    window.gtag('js', new Date());
-    window.gtag('config', GA_ID);
-  }
-
-  if (CLARITY_ID) {
-    const clarityScript = document.createElement('script');
-    clarityScript.textContent =
-      '(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};' +
-      't=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;' +
-      'y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})' +
-      '(window,document,"clarity","script",' + JSON.stringify(CLARITY_ID) + ');';
-    document.head.appendChild(clarityScript);
-  }
-}
-
-// ── Banner ─────────────────────────────────────────────────────────────────
-let banner = null;
-
-function buildBanner() {
-  banner = document.createElement('div');
-  banner.className = 'cookie-banner';
-  banner.setAttribute('role', 'region');
-  banner.setAttribute('aria-label', 'Cookie consent');
-  banner.hidden = true;
-  banner.innerHTML =
-    '<p class="cookie-banner-text">We use cookies for analytics, to see how the site is used and what to improve. ' +
-    'They only run if you accept. <a href="cookies.html">Cookie policy</a></p>' +
-    '<div class="cookie-banner-actions">' +
-    '<button type="button" class="cookie-btn cookie-btn-reject">Reject</button>' +
-    '<button type="button" class="cookie-btn cookie-btn-accept">Accept</button>' +
-    '</div>';
-  document.body.appendChild(banner);
-
-  banner.querySelector('.cookie-btn-accept').addEventListener('click', () => {
-    setConsent('accepted');
-    hideBanner();
-    loadAnalytics();
-  });
-
-  banner.querySelector('.cookie-btn-reject').addEventListener('click', () => {
-    const wasAccepted = getConsent() === 'accepted';
-    setConsent('rejected');
-    hideBanner();
-    // Scripts already running on this page can't be unloaded, so reload to stop them.
-    if (wasAccepted && analyticsLoaded) location.reload();
-  });
-}
-
-function showBanner() {
-  if (banner) banner.hidden = false;
-}
-
-function hideBanner() {
-  if (banner) banner.hidden = true;
-}
-
-// Called from the "Cookie settings" link in the footer.
-function openCookieSettings() {
-  showBanner();
-}
-
-window.openCookieSettings = openCookieSettings;
-
-buildBanner();
-if (getConsent() === null) {
-  showBanner();
-} else if (getConsent() === 'accepted') {
-  loadAnalytics();
-}
+// Reveal the footer "Cookie settings" link once Google's API has loaded —
+// it starts hidden so it can't be clicked before googlefc actually exists.
+window.googlefc.callbackQueue.push({
+  CONSENT_API_READY: function () {
+    document.querySelectorAll('.cookie-settings-link').forEach(function (el) {
+      el.style.display = '';
+    });
+  },
+});

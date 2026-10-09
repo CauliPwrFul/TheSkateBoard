@@ -1066,74 +1066,7 @@ footer {
 
 .legal-content strong { color: var(--text); }
 
-/* ── Cookie consent banner ── */
-.cookie-banner {
-  position: fixed;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  z-index: 95;
-  background: var(--card);
-  border-top: 1px solid var(--border);
-  padding: 1rem 2rem;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 1.2rem;
-  flex-wrap: wrap;
-  box-shadow: 0 -4px 16px rgba(0,0,0,0.4);
-}
-
-.cookie-banner[hidden] { display: none; }
-
-.cookie-banner-text {
-  color: var(--muted);
-  font-size: 0.85rem;
-  line-height: 1.5;
-  max-width: 640px;
-}
-
-.cookie-banner-text a { color: var(--accent); }
-
-.cookie-banner-actions {
-  display: flex;
-  gap: 0.6rem;
-  flex-shrink: 0;
-}
-
-.cookie-btn {
-  font-family: 'DM Sans', sans-serif;
-  font-size: 0.85rem;
-  font-weight: 500;
-  padding: 0.5rem 1.1rem;
-  border-radius: 2px;
-  cursor: pointer;
-  border: 1px solid var(--accent);
-  min-width: 96px;
-}
-
-.cookie-btn-accept {
-  background: var(--accent);
-  color: var(--bg);
-}
-
-.cookie-btn-reject {
-  background: transparent;
-  color: var(--accent);
-}
-
-.cookie-btn:hover { opacity: 0.85; }
-
-.cookie-btn:focus-visible {
-  outline: 2px solid var(--accent2);
-  outline-offset: 2px;
-}
-
-/* Footer "Cookie settings" button: looks like the other footer links */
-.footer-btn {
-  background: none;
-  border: 0;
-  padding: 0;
-  font: inherit;
-  cursor: pointer;
-}
+/* Ad/analytics/Clarity consent is now handled by Google's own consent
+   message (AdSense > Privacy & messaging) — see consent.js and the
+   gtag/AdSense tags in each page's <head>. The custom banner this site
+   used before that lived here; removed along with it. */
