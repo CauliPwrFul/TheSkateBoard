@@ -3,7 +3,7 @@ import re
 from datetime import datetime, timezone
 
 from lib.http import fetch
-from lib.format import clean_text, infer_types, infer_free, pad_day, month_abbr, extract_price_from_text, is_cancellation_notice
+from lib.format import clean_text, infer_types, infer_free, pad_day, month_abbr, extract_price_from_text, is_cancellation_notice, canonicalize_venue
 
 SOURCE_URL = "https://www.theskatesanctuary.co.uk/"
 SOURCE_NAME = "The Skate Sanctuary"
@@ -69,7 +69,7 @@ def fetch_events():
             continue
 
         desc = clean_text(event.get("description"))
-        venue = clean_text((event.get("location") or {}).get("name")) or SOURCE_NAME
+        venue = canonicalize_venue((event.get("location") or {}).get("name")) or SOURCE_NAME
         location = _location_string(event.get("location"))
         time_formatted = event.get("scheduling", {}).get("startTimeFormatted")
         end_time_formatted = event.get("scheduling", {}).get("endTimeFormatted")

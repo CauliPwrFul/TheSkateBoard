@@ -87,3 +87,25 @@ def next_event_id(existing_events):
     if not existing_events:
         return 1
     return max(e["id"] for e in existing_events) + 1
+
+
+# Venues sometimes name the same physical place differently across sessions on
+# their own site, or differently between sources entirely (e.g. The Skate
+# Sanctuary's own site vs. Ticket Tailor's listing for the same hall). Left
+# unnormalised, this inflates the site's "venues" count with duplicates and
+# makes the same place look like several. Keys are matched case-sensitively
+# against the raw venue string a scraper reads; add to this as new variants
+# turn up rather than letting them drift again.
+VENUE_ALIASES = {
+    "The Skate Sanctuary by RGG": "The Skate Sanctuary",
+    "The Skate Sanctuary / Roller Skate Studi": "The Skate Sanctuary",
+    "The Skate Sanctuary /Roller Skate Studio": "The Skate Sanctuary",
+    "Skate Scholarship - Yorks Dance": "Yorkshire Dance Leeds",
+    "Skate Scholarship - Youth Hub": "South Leeds Youth Hub",
+    "Ramgharia Sports Centre": "Ramgarhia Sikh Sports Centre",
+}
+
+
+def canonicalize_venue(raw_name):
+    name = clean_text(raw_name)
+    return VENUE_ALIASES.get(name, name)
