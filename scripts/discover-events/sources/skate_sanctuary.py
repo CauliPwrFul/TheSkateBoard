@@ -26,12 +26,28 @@ def _find_event_objects(node, found):
             _find_event_objects(value, found)
 
 
+def _postcode_area(location):
+    postcode = ((location or {}).get("fullAddress") or {}).get("postalCode") or ""
+    return postcode.split(" ")[0] if postcode else ""
+
+
 def _location_string(location):
     full = (location or {}).get("fullAddress") or {}
     city = full.get("city") or "Leeds"
-    postcode = full.get("postalCode") or ""
-    area = postcode.split(" ")[0] if postcode else ""
+    area = _postcode_area(location)
     return f"{city}, {area}" if area else city
+
+
+# The Skate Sanctuary's own Wix event data labels the venue "The Skate
+# Sanctuary" by default even for sessions they run at a partner venue
+# instead of their own studio (confirmed: the same recurring class moves
+# between their own address, LS9, and Ramgarhia Sikh Sports Centre, LS7,
+# depending on the week) — the postcode is the reliable signal, the label
+# isn't. Doesn't apply to genuinely ad-hoc/outdoor sessions, which already
+# get their own specific location name from Wix rather than the generic one.
+PARTNER_VENUE_BY_POSTCODE_AREA = {
+    "LS7": "Ramgarhia Sikh Sports Centre",
+}
 
 
 def fetch_events():
@@ -69,8 +85,16 @@ def fetch_events():
             continue
 
         desc = clean_text(event.get("description"))
-        venue = canonicalize_venue((event.get("location") or {}).get("name")) or SOURCE_NAME
-        location = _location_string(event.get("location"))
+        raw_location = event.get("location") or {}
+        venue = canonicalize_venue(raw_location.get("name")) or SOURCE_NAME
+        postcode_area = _postcode_area(raw_location)
+        if venue == SOURCE_NAME and postcode_area in PARTNER_VENUE_BY_POSTCODE_AREA:
+            # Every self-label variant ("by RGG", "/ Roller Skate Studio",
+            # etc.) canonicalizes to their own name regardless of where a
+            # given session actually is — the postcode says this one is
+            # really at a partner venue, not their own studio.
+            venue = PARTNER_VENUE_BY_POSTCODE_AREA[postcode_area]
+        location = _location_string(raw_location)
         time_formatted = event.get("scheduling", {}).get("startTimeFormatted")
         end_time_formatted = event.get("scheduling", {}).get("endTimeFormatted")
         time_str = None
