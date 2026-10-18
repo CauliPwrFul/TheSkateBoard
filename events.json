@@ -6109,5 +6109,95 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 339,
+    "name": "Dust Off Your Skates Challenge",
+    "day": "01",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "JOIN US LIVE",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "If you've got skates languishing in your cupboard and you *meant* to rekindle your roller skate journey this year, it's not too late! Join Mel over 5 days to DUST OFF YOUR SKATES and revitalise your confidence.",
+    "link": "https://www.theskatesanctuary.co.uk/events/dust-off-your-skates-challenge-2026-11-01-15-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "3:00 pm – 4:00 pm"
+  },
+  {
+    "id": 340,
+    "name": "Dust Off Your Skates Challenge",
+    "day": "02",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "JOIN US LIVE",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "If you've got skates languishing in your cupboard and you *meant* to rekindle your roller skate journey this year, it's not too late! Join Mel over 5 days to DUST OFF YOUR SKATES and revitalise your confidence.",
+    "link": "https://www.theskatesanctuary.co.uk/events/dust-off-your-skates-challenge-2026-11-02-19-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:00 pm – 8:00 pm"
+  },
+  {
+    "id": 341,
+    "name": "Dust Off Your Skates Challenge",
+    "day": "03",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "JOIN US LIVE",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "If you've got skates languishing in your cupboard and you *meant* to rekindle your roller skate journey this year, it's not too late! Join Mel over 5 days to DUST OFF YOUR SKATES and revitalise your confidence.",
+    "link": "https://www.theskatesanctuary.co.uk/events/dust-off-your-skates-challenge-2026-11-03-19-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:00 pm – 8:00 pm"
+  },
+  {
+    "id": 342,
+    "name": "Dust Off Your Skates Challenge",
+    "day": "04",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "JOIN US LIVE",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "If you've got skates languishing in your cupboard and you *meant* to rekindle your roller skate journey this year, it's not too late! Join Mel over 5 days to DUST OFF YOUR SKATES and revitalise your confidence.",
+    "link": "https://www.theskatesanctuary.co.uk/events/dust-off-your-skates-challenge-2026-11-04-15-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "3:00 pm – 4:00 pm"
+  },
+  {
+    "id": 343,
+    "name": "Dust Off Your Skates Challenge",
+    "day": "05",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "JOIN US LIVE",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "If you've got skates languishing in your cupboard and you *meant* to rekindle your roller skate journey this year, it's not too late! Join Mel over 5 days to DUST OFF YOUR SKATES and revitalise your confidence.",
+    "link": "https://www.theskatesanctuary.co.uk/events/dust-off-your-skates-challenge-2026-11-05-15-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "3:00 pm – 4:00 pm"
   }
 ]
