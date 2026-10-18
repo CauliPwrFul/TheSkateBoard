@@ -3,7 +3,7 @@ import re
 from datetime import date
 
 from lib.http import fetch
-from lib.format import clean_text, infer_types, infer_free, pad_day, month_abbr, is_cancellation_notice
+from lib.format import clean_text, infer_types, infer_free, pad_day, month_abbr, is_cancellation_notice, canonicalize_venue
 
 # The Skate Scholarship's own site (theskatescholarship.com/skatewithus) embeds
 # its listings as a Ticket Tailor widget, injected client-side — nothing useful
@@ -63,7 +63,7 @@ def _venue_and_title(event_html):
     h1 = H1_RE.search(event_html)
     venue = VENUE_RE.search(event_html)
     name = _clean(h1.group(1)) if h1 else None
-    venue_name = _clean(venue.group(1)) if venue else SOURCE_NAME
+    venue_name = canonicalize_venue(_clean(venue.group(1))) if venue else SOURCE_NAME
     return name, venue_name
 
 
