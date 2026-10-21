@@ -323,7 +323,8 @@
     "time": "4:00pm – 6:00pm",
     "link": "https://www.theskatesanctuary.co.uk/book",
     "free": false,
-    "region": "West Yorkshire"
+    "region": "West Yorkshire",
+    "skateHire": false
   },
   {
     "id": 19,
@@ -857,7 +858,8 @@
     "time": "7:00pm – 10:00pm",
     "link": "https://www.theskatesanctuary.co.uk/book",
     "free": false,
-    "region": "West Yorkshire"
+    "region": "West Yorkshire",
+    "skateHire": false
   },
   {
     "id": 48,
@@ -876,7 +878,8 @@
     "time": "7:00pm – 10:00pm",
     "link": "https://www.theskatesanctuary.co.uk/book",
     "free": false,
-    "region": "West Yorkshire"
+    "region": "West Yorkshire",
+    "skateHire": false
   },
   {
     "id": 49,
@@ -3537,7 +3540,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-05-12-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "12:00 pm – 2:00 pm"
+    "time": "12:00 pm – 2:00 pm",
+    "skateHire": true
   },
   {
     "id": 198,
@@ -3555,7 +3559,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/adult-lv2-skate-course-week-5-of-6-17-2026-10-05-19-30",
     "free": false,
     "region": "West Yorkshire",
-    "time": "7:30 pm – 9:00 pm"
+    "time": "7:30 pm – 9:00 pm",
+    "skateHire": false
   },
   {
     "id": 199,
@@ -3573,7 +3578,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/adult-beginner-skate-course-week-5-of-6-17-2026-10-05-18-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "6:00 pm – 7:30 pm"
+    "time": "6:00 pm – 7:30 pm",
+    "skateHire": false
   },
   {
     "id": 200,
@@ -3591,7 +3597,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/neurodivergent-friendly-wheels-of-connection-spectrum-session-2026-10-06-18-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "6:00 pm – 7:30 pm"
+    "time": "6:00 pm – 7:30 pm",
+    "skateHire": false
   },
   {
     "id": 201,
@@ -3608,7 +3615,8 @@
     "desc": "Roller Dance series for Level 2+ skaters. This series is designed to help you learn roller dance vocabulary and feel more confident to join in at roller discos, skate parties and festivals. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/introduction-to-c-step-age-17-4",
     "free": false,
-    "region": "West Yorkshire"
+    "region": "West Yorkshire",
+    "skateHire": true
   },
   {
     "id": 202,
@@ -3626,7 +3634,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-07-12-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "12:00 pm – 2:00 pm"
+    "time": "12:00 pm – 2:00 pm",
+    "skateHire": true
   },
   {
     "id": 203,
@@ -3644,7 +3653,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/focus-and-flow-showcase-course-2026-10-07-20-30",
     "free": false,
     "region": "West Yorkshire",
-    "time": "8:30 pm – 9:30 pm"
+    "time": "8:30 pm – 9:30 pm",
+    "skateHire": false
   },
   {
     "id": 204,
@@ -3662,7 +3672,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/kids-all-levels-skate-class-age-7-2026-10-07-19-15",
     "free": false,
     "region": "West Yorkshire",
-    "time": "7:15 pm – 8:15 pm"
+    "time": "7:15 pm – 8:15 pm",
+    "skateHire": true
   },
   {
     "id": 205,
@@ -3680,7 +3691,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/focus-flow-17-training-drills-2026-10-07-19-15",
     "free": false,
     "region": "West Yorkshire",
-    "time": "7:15 pm – 8:15 pm"
+    "time": "7:15 pm – 8:15 pm",
+    "skateHire": false
   },
   {
     "id": 206,
@@ -3698,7 +3710,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-08-12-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "12:00 pm – 2:00 pm"
+    "time": "12:00 pm – 2:00 pm",
+    "skateHire": true
   },
   {
     "id": 207,
@@ -3716,7 +3729,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/lgbtq-wheels-of-connection-prism-2026-10-08-19-30",
     "free": false,
     "region": "West Yorkshire",
-    "time": "7:30 pm – 9:00 pm"
+    "time": "7:30 pm – 9:00 pm",
+    "skateHire": false
   },
   {
     "id": 208,
@@ -3734,7 +3748,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/adults-thursday-evening-drop-in-session-2026-10-08-18-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "6:00 pm – 7:30 pm"
+    "time": "6:00 pm – 7:30 pm",
+    "skateHire": true
   },
   {
     "id": 209,
@@ -3752,7 +3767,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/student-roller-disco-nus-card-holders-2026-10-09-17-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "5:00 pm – 7:00 pm"
+    "time": "5:00 pm – 7:00 pm",
+    "skateHire": true
   },
   {
     "id": 210,
@@ -3770,7 +3786,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-09-12-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "12:00 pm – 2:00 pm"
+    "time": "12:00 pm – 2:00 pm",
+    "skateHire": true
   },
   {
     "id": 211,
@@ -3788,7 +3805,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/friday-night-sanctuary-shuffle-18-2026-10-09-19-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "7:00 pm – 9:00 pm"
+    "time": "7:00 pm – 9:00 pm",
+    "skateHire": false
   },
   {
     "id": 212,
@@ -3806,7 +3824,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/family-friendly-friday-eve-roller-disco-5-2026-10-09-17-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "5:00 pm – 7:00 pm"
+    "time": "5:00 pm – 7:00 pm",
+    "skateHire": true
   },
   {
     "id": 213,
@@ -3824,7 +3843,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/adults-afternoon-practise-2026-10-10-16-30",
     "free": false,
     "region": "West Yorkshire",
-    "time": "4:30 pm – 6:00 pm"
+    "time": "4:30 pm – 6:00 pm",
+    "skateHire": true
   },
   {
     "id": 214,
@@ -3842,7 +3862,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-10-12-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "12:00 pm – 2:00 pm"
+    "time": "12:00 pm – 2:00 pm",
+    "skateHire": true
   },
   {
     "id": 215,
@@ -3860,7 +3881,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/level-1-2-adult-foundation-4-week-accelerator-course-17-wk2-2026-10-10-10-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "10:00 am – 12:00 pm"
+    "time": "10:00 am – 12:00 pm",
+    "skateHire": true
   },
   {
     "id": 216,
@@ -3878,7 +3900,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/skate-maintenance-crafternoon-halloween-skate-styling-2026-10-10-16-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "4:00 pm – 6:00 pm"
+    "time": "4:00 pm – 6:00 pm",
+    "skateHire": false
   },
   {
     "id": 217,
@@ -3896,7 +3919,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-11-12-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "12:00 pm – 2:00 pm"
+    "time": "12:00 pm – 2:00 pm",
+    "skateHire": true
   },
   {
     "id": 218,
@@ -3915,7 +3939,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/level-4-skate-skills-workshop-17-2026-10-11-17-30",
     "free": false,
     "region": "West Yorkshire",
-    "time": "5:30 pm – 6:30 pm"
+    "time": "5:30 pm – 6:30 pm",
+    "skateHire": false
   },
   {
     "id": 219,
@@ -3934,7 +3959,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/level-3-skate-skills-workshop-17-2026-10-11-16-30",
     "free": false,
     "region": "West Yorkshire",
-    "time": "4:30 pm – 5:30 pm"
+    "time": "4:30 pm – 5:30 pm",
+    "skateHire": false
   },
   {
     "id": 220,
@@ -3952,7 +3978,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/level-2-roller-skate-fundamentals-17-2026-10-11-11-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "11:00 am – 12:00 pm"
+    "time": "11:00 am – 12:00 pm",
+    "skateHire": true
   },
   {
     "id": 221,
@@ -3970,7 +3997,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/level-1-roller-skate-fundamentals-17-2026-10-11-10-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "10:00 am – 11:00 am"
+    "time": "10:00 am – 11:00 am",
+    "skateHire": false
   },
   {
     "id": 222,
@@ -3988,7 +4016,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-12-12-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "12:00 pm – 2:00 pm"
+    "time": "12:00 pm – 2:00 pm",
+    "skateHire": true
   },
   {
     "id": 223,
@@ -4006,7 +4035,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/adult-lv2-skate-course-week-6-of-6-17-2026-10-12-19-30",
     "free": false,
     "region": "West Yorkshire",
-    "time": "7:30 pm – 9:00 pm"
+    "time": "7:30 pm – 9:00 pm",
+    "skateHire": false
   },
   {
     "id": 224,
@@ -4024,7 +4054,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/adult-beginner-skate-course-week-6-of-6-17-2026-10-12-18-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "6:00 pm – 7:30 pm"
+    "time": "6:00 pm – 7:30 pm",
+    "skateHire": false
   },
   {
     "id": 225,
@@ -4042,7 +4073,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/kids-improver-skate-tricks-workshop-1-age-7-2026-10-14-18-15",
     "free": false,
     "region": "West Yorkshire",
-    "time": "6:15 pm – 7:15 pm"
+    "time": "6:15 pm – 7:15 pm",
+    "skateHire": true
   },
   {
     "id": 226,
@@ -4060,7 +4092,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-14-12-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "12:00 pm – 2:00 pm"
+    "time": "12:00 pm – 2:00 pm",
+    "skateHire": true
   },
   {
     "id": 227,
@@ -4078,7 +4111,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/kids-all-levels-skate-class-age-7-2026-10-14-18-15",
     "free": false,
     "region": "West Yorkshire",
-    "time": "6:15 pm – 7:15 pm"
+    "time": "6:15 pm – 7:15 pm",
+    "skateHire": true
   },
   {
     "id": 228,
@@ -4096,7 +4130,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/focus-and-flow-showcase-course-2026-10-14-20-30",
     "free": false,
     "region": "West Yorkshire",
-    "time": "8:30 pm – 9:30 pm"
+    "time": "8:30 pm – 9:30 pm",
+    "skateHire": false
   },
   {
     "id": 229,
@@ -4114,7 +4149,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/focus-flow-17-training-drills-2026-10-14-19-15",
     "free": false,
     "region": "West Yorkshire",
-    "time": "7:15 pm – 8:15 pm"
+    "time": "7:15 pm – 8:15 pm",
+    "skateHire": false
   },
   {
     "id": 230,
@@ -4132,7 +4168,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-15-12-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "12:00 pm – 2:00 pm"
+    "time": "12:00 pm – 2:00 pm",
+    "skateHire": true
   },
   {
     "id": 231,
@@ -4150,7 +4187,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/lgbtq-wheels-of-connection-prism-2026-10-15-19-30",
     "free": false,
     "region": "West Yorkshire",
-    "time": "7:30 pm – 9:00 pm"
+    "time": "7:30 pm – 9:00 pm",
+    "skateHire": false
   },
   {
     "id": 232,
@@ -4168,7 +4206,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/adults-thursday-evening-drop-in-session-2026-10-15-18-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "6:00 pm – 7:30 pm"
+    "time": "6:00 pm – 7:30 pm",
+    "skateHire": true
   },
   {
     "id": 233,
@@ -4186,7 +4225,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-16-12-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "12:00 pm – 2:00 pm"
+    "time": "12:00 pm – 2:00 pm",
+    "skateHire": true
   },
   {
     "id": 234,
@@ -4204,7 +4244,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/adults-afternoon-practise-2026-10-17-16-30",
     "free": false,
     "region": "West Yorkshire",
-    "time": "4:30 pm – 6:00 pm"
+    "time": "4:30 pm – 6:00 pm",
+    "skateHire": true
   },
   {
     "id": 235,
@@ -4222,7 +4263,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-17-12-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "12:00 pm – 2:00 pm"
+    "time": "12:00 pm – 2:00 pm",
+    "skateHire": true
   },
   {
     "id": 236,
@@ -4240,7 +4282,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-18-12-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "12:00 pm – 2:00 pm"
+    "time": "12:00 pm – 2:00 pm",
+    "skateHire": true
   },
   {
     "id": 237,
@@ -4258,7 +4301,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/essential-skate-care-glow-ups-2026-10-18-11-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "11:00 am – 12:00 pm"
+    "time": "11:00 am – 12:00 pm",
+    "skateHire": false
   },
   {
     "id": 238,
@@ -4276,7 +4320,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/level-1-roller-skate-fundamentals-17-2026-10-18-10-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "10:00 am – 11:00 am"
+    "time": "10:00 am – 11:00 am",
+    "skateHire": false
   },
   {
     "id": 239,
@@ -4294,7 +4339,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/adult-lv2-skate-course-week-1-of-6-17-2026-10-19-18-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "6:00 pm – 7:30 pm"
+    "time": "6:00 pm – 7:30 pm",
+    "skateHire": false
   },
   {
     "id": 240,
@@ -4312,7 +4358,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-19-12-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "12:00 pm – 2:00 pm"
+    "time": "12:00 pm – 2:00 pm",
+    "skateHire": true
   },
   {
     "id": 241,
@@ -4330,7 +4377,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/adult-beginner-skate-course-week-1-of-6-17-2026-10-19-19-30",
     "free": false,
     "region": "West Yorkshire",
-    "time": "7:30 pm – 9:00 pm"
+    "time": "7:30 pm – 9:00 pm",
+    "skateHire": false
   },
   {
     "id": 242,
@@ -4347,7 +4395,8 @@
     "desc": "Roller Dance series for Level 2+ skaters. This series is designed to help you learn roller dance vocabulary and feel more confident to join in at roller discos, skate parties and festivals. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/introduction-to-dribbles-crazy-legs-age-17-4",
     "free": false,
-    "region": "West Yorkshire"
+    "region": "West Yorkshire",
+    "skateHire": true
   },
   {
     "id": 243,
@@ -4365,7 +4414,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/neurodivergent-friendly-wheels-of-connection-spectrum-session-2026-10-20-18-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "6:00 pm – 7:30 pm"
+    "time": "6:00 pm – 7:30 pm",
+    "skateHire": false
   },
   {
     "id": 244,
@@ -4383,7 +4433,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/focus-and-flow-showcase-course-2026-10-21-20-30",
     "free": false,
     "region": "West Yorkshire",
-    "time": "8:30 pm – 9:30 pm"
+    "time": "8:30 pm – 9:30 pm",
+    "skateHire": false
   },
   {
     "id": 245,
@@ -4401,7 +4452,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/focus-flow-17-training-drills-2026-10-21-19-15",
     "free": false,
     "region": "West Yorkshire",
-    "time": "7:15 pm – 8:15 pm"
+    "time": "7:15 pm – 8:15 pm",
+    "skateHire": false
   },
   {
     "id": 246,
@@ -4420,7 +4472,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/kids-improver-skate-tricks-workshop-2-age-7-2026-10-21-18-15",
     "free": false,
     "region": "West Yorkshire",
-    "time": "6:15 pm – 7:15 pm"
+    "time": "6:15 pm – 7:15 pm",
+    "skateHire": true
   },
   {
     "id": 247,
@@ -4438,7 +4491,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-21-12-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "12:00 pm – 2:00 pm"
+    "time": "12:00 pm – 2:00 pm",
+    "skateHire": true
   },
   {
     "id": 248,
@@ -4456,7 +4510,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/lgbtq-wheels-of-connection-prism-2026-10-22-19-30",
     "free": false,
     "region": "West Yorkshire",
-    "time": "7:30 pm – 9:00 pm"
+    "time": "7:30 pm – 9:00 pm",
+    "skateHire": false
   },
   {
     "id": 249,
@@ -4474,7 +4529,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/adults-thursday-evening-drop-in-session-2026-10-22-18-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "6:00 pm – 7:30 pm"
+    "time": "6:00 pm – 7:30 pm",
+    "skateHire": true
   },
   {
     "id": 250,
@@ -4492,7 +4548,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-22-12-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "12:00 pm – 2:00 pm"
+    "time": "12:00 pm – 2:00 pm",
+    "skateHire": true
   },
   {
     "id": 251,
@@ -4510,7 +4567,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/sanctuary-skate-n-chill-18-2026-10-23-19-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "7:00 pm – 9:00 pm"
+    "time": "7:00 pm – 9:00 pm",
+    "skateHire": false
   },
   {
     "id": 252,
@@ -4528,7 +4586,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/student-roller-disco-nus-card-holders-2026-10-23-17-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "5:00 pm – 7:00 pm"
+    "time": "5:00 pm – 7:00 pm",
+    "skateHire": true
   },
   {
     "id": 253,
@@ -4546,7 +4605,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-23-12-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "12:00 pm – 2:00 pm"
+    "time": "12:00 pm – 2:00 pm",
+    "skateHire": true
   },
   {
     "id": 254,
@@ -4564,7 +4624,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/adult-beginner-skate-course-week-2-of-6-17-2026-10-26-19-30",
     "free": false,
     "region": "West Yorkshire",
-    "time": "7:30 pm – 9:00 pm"
+    "time": "7:30 pm – 9:00 pm",
+    "skateHire": false
   },
   {
     "id": 255,
@@ -4582,7 +4643,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/adult-lv2-skate-course-week-2-of-6-17-2026-10-26-18-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "6:00 pm – 7:30 pm"
+    "time": "6:00 pm – 7:30 pm",
+    "skateHire": false
   },
   {
     "id": 256,
@@ -4600,7 +4662,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/half-term-roller-skate-special-age-5-2026-10-26-12-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "12:00 pm – 4:00 pm"
+    "time": "12:00 pm – 4:00 pm",
+    "skateHire": true
   },
   {
     "id": 257,
@@ -4617,7 +4680,8 @@
     "desc": "Roller Dance series for Level 2+ skaters. This series is designed to help you learn roller dance vocabulary and feel more confident to join in at roller discos, skate parties and festivals. Skate hire available for a small additional fee",
     "link": "https://www.theskatesanctuary.co.uk/events/introduction-to-combos-recap-3",
     "free": false,
-    "region": "West Yorkshire"
+    "region": "West Yorkshire",
+    "skateHire": true
   },
   {
     "id": 258,
@@ -4635,7 +4699,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/neurodivergent-friendly-wheels-of-connection-spectrum-session-2026-10-27-18-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "6:00 pm – 7:30 pm"
+    "time": "6:00 pm – 7:30 pm",
+    "skateHire": false
   },
   {
     "id": 259,
@@ -4653,7 +4718,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/focus-and-flow-showcase-course-2026-10-28-20-30",
     "free": false,
     "region": "West Yorkshire",
-    "time": "8:30 pm – 9:30 pm"
+    "time": "8:30 pm – 9:30 pm",
+    "skateHire": false
   },
   {
     "id": 260,
@@ -4671,7 +4737,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/focus-flow-17-training-drills-2026-10-28-19-15",
     "free": false,
     "region": "West Yorkshire",
-    "time": "7:15 pm – 8:15 pm"
+    "time": "7:15 pm – 8:15 pm",
+    "skateHire": false
   },
   {
     "id": 261,
@@ -4689,7 +4756,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/half-term-roller-skate-special-age-5-2026-10-28-12-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "12:00 pm – 4:00 pm"
+    "time": "12:00 pm – 4:00 pm",
+    "skateHire": true
   },
   {
     "id": 262,
@@ -4707,7 +4775,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/lgbtq-wheels-of-connection-prism-2026-10-29-19-30",
     "free": false,
     "region": "West Yorkshire",
-    "time": "7:30 pm – 9:00 pm"
+    "time": "7:30 pm – 9:00 pm",
+    "skateHire": false
   },
   {
     "id": 263,
@@ -4725,7 +4794,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/adults-thursday-evening-drop-in-session-2026-10-29-18-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "6:00 pm – 7:30 pm"
+    "time": "6:00 pm – 7:30 pm",
+    "skateHire": true
   },
   {
     "id": 264,
@@ -4743,7 +4813,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/half-term-roller-skate-special-age-5-2026-10-29-12-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "12:00 pm – 4:00 pm"
+    "time": "12:00 pm – 4:00 pm",
+    "skateHire": true
   },
   {
     "id": 265,
@@ -4761,7 +4832,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/sanctuary-skate-n-chill-18-2026-10-30-19-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "7:00 pm – 9:00 pm"
+    "time": "7:00 pm – 9:00 pm",
+    "skateHire": false
   },
   {
     "id": 266,
@@ -4782,7 +4854,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/family-friendly-learn-to-roller-skate-taster-session-disco-2026-10-30-17-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "5:00 pm – 7:00 pm"
+    "time": "5:00 pm – 7:00 pm",
+    "skateHire": false
   },
   {
     "id": 267,
@@ -4800,7 +4873,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/half-term-roller-skate-special-age-5-2026-10-30-12-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "12:00 pm – 4:00 pm"
+    "time": "12:00 pm – 4:00 pm",
+    "skateHire": true
   },
   {
     "id": 268,
@@ -4818,7 +4892,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/halloween-special-saturday-night-social-the-skate-sanctuary-2026-10-31-19-30",
     "free": false,
     "region": "West Yorkshire",
-    "time": "7:30 pm – 10:00 pm"
+    "time": "7:30 pm – 10:00 pm",
+    "skateHire": false
   },
   {
     "id": 269,
@@ -4836,7 +4911,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-10-31-12-00",
     "free": false,
     "region": "West Yorkshire",
-    "time": "12:00 pm – 2:00 pm"
+    "time": "12:00 pm – 2:00 pm",
+    "skateHire": true
   },
   {
     "id": 270,
@@ -5421,7 +5497,8 @@
     "link": "https://www.tickettailor.com/checkout/view-event/id/9193331/chk/d0215a2eea2b39300033f7b81a0f0479/",
     "free": false,
     "region": "West Yorkshire",
-    "time": "6:00 pm – 7:00 pm"
+    "time": "6:00 pm – 7:00 pm",
+    "skateHire": false
   },
   {
     "id": 302,
@@ -5440,7 +5517,8 @@
     "link": "https://www.tickettailor.com/checkout/view-event/id/9193332/chk/ec0b24ec733bf44c248020e7efb35a90/",
     "free": false,
     "region": "West Yorkshire",
-    "time": "6:00 pm – 7:00 pm"
+    "time": "6:00 pm – 7:00 pm",
+    "skateHire": false
   },
   {
     "id": 303,
@@ -5459,7 +5537,8 @@
     "link": "https://www.tickettailor.com/checkout/view-event/id/9193333/chk/24f5fd9c12e5793e24dd583d144532f5/",
     "free": false,
     "region": "West Yorkshire",
-    "time": "6:00 pm – 7:00 pm"
+    "time": "6:00 pm – 7:00 pm",
+    "skateHire": false
   },
   {
     "id": 304,
@@ -5477,7 +5556,8 @@
     "link": "https://www.tickettailor.com/checkout/view-event/id/9193487/chk/8da03d8aac40688e36f457bb6b1c3579/",
     "free": false,
     "region": "West Yorkshire",
-    "time": "7:00 pm – 8:00 pm"
+    "time": "7:00 pm – 8:00 pm",
+    "skateHire": false
   },
   {
     "id": 305,
@@ -5495,7 +5575,8 @@
     "link": "https://www.tickettailor.com/checkout/view-event/id/9193488/chk/a9ea7ad4c35303cc5408c8ff802ba571/",
     "free": false,
     "region": "West Yorkshire",
-    "time": "7:00 pm – 8:00 pm"
+    "time": "7:00 pm – 8:00 pm",
+    "skateHire": false
   },
   {
     "id": 306,
@@ -5513,7 +5594,8 @@
     "link": "https://www.tickettailor.com/checkout/view-event/id/9193489/chk/cb432fc87123764dc63abc8d72cd7a4e/",
     "free": false,
     "region": "West Yorkshire",
-    "time": "7:00 pm – 8:00 pm"
+    "time": "7:00 pm – 8:00 pm",
+    "skateHire": false
   },
   {
     "id": 307,
@@ -5531,7 +5613,8 @@
     "link": "https://www.tickettailor.com/checkout/view-event/id/9193375/chk/924be95ae758f7816d2b092a409ba534/",
     "free": false,
     "region": "West Yorkshire",
-    "time": "8:00 pm – 9:00 pm"
+    "time": "8:00 pm – 9:00 pm",
+    "skateHire": false
   },
   {
     "id": 308,
@@ -5549,7 +5632,8 @@
     "link": "https://www.tickettailor.com/checkout/view-event/id/9193376/chk/2ac4669a59b8b1a64ce64bae8124318f/",
     "free": false,
     "region": "West Yorkshire",
-    "time": "8:00 pm – 9:00 pm"
+    "time": "8:00 pm – 9:00 pm",
+    "skateHire": false
   },
   {
     "id": 309,
@@ -5567,7 +5651,8 @@
     "link": "https://www.tickettailor.com/checkout/view-event/id/9193377/chk/c51609e0c425614ea675e1b3a35ea1a9/",
     "free": false,
     "region": "West Yorkshire",
-    "time": "8:00 pm – 9:00 pm"
+    "time": "8:00 pm – 9:00 pm",
+    "skateHire": false
   },
   {
     "id": 310,
@@ -5586,7 +5671,8 @@
     "link": "https://www.tickettailor.com/checkout/view-event/id/9193500/chk/5c56731019ba19ed9c1e23ce05168415/",
     "free": true,
     "region": "West Yorkshire",
-    "time": "11:00 am – 12:00 pm"
+    "time": "11:00 am – 12:00 pm",
+    "skateHire": false
   },
   {
     "id": 311,
@@ -5605,7 +5691,8 @@
     "link": "https://www.tickettailor.com/checkout/view-event/id/9193501/chk/d11ccbf47859c5452fef9cb0d2c6a0ff/",
     "free": true,
     "region": "West Yorkshire",
-    "time": "11:00 am – 12:00 pm"
+    "time": "11:00 am – 12:00 pm",
+    "skateHire": false
   },
   {
     "id": 312,
@@ -5623,7 +5710,8 @@
     "link": "https://www.tickettailor.com/checkout/view-event/id/9193410/chk/029bd7df90c88653b03cab3c39f75515/",
     "free": false,
     "region": "West Yorkshire",
-    "time": "6:30 pm – 8:00 pm"
+    "time": "6:30 pm – 8:00 pm",
+    "skateHire": false
   },
   {
     "id": 313,
@@ -5641,7 +5729,8 @@
     "link": "https://www.tickettailor.com/checkout/view-event/id/9193411/chk/7e0da0df048c9b0e5a41ce5a3503a5ce/",
     "free": false,
     "region": "West Yorkshire",
-    "time": "6:30 pm – 8:00 pm"
+    "time": "6:30 pm – 8:00 pm",
+    "skateHire": false
   },
   {
     "id": 314,
@@ -5839,7 +5928,8 @@
     "link": "https://www.theskatesanctuary.co.uk/events/level-3-4-coached-skate-session-age-17-2026-10-18-16-30",
     "free": false,
     "region": "West Yorkshire",
-    "time": "4:30 pm – 6:00 pm"
+    "time": "4:30 pm – 6:00 pm",
+    "skateHire": false
   },
   {
     "id": 325,
@@ -6584,7 +6674,8 @@
     "link": "https://ls-ten.org/quad-and-roller-skate-night",
     "free": false,
     "region": "West Yorkshire",
-    "time": "6:00pm – 7:00pm"
+    "time": "6:00pm – 7:00pm",
+    "skateHire": true
   },
   {
     "id": 366,
@@ -6602,7 +6693,8 @@
     "link": "https://ls-ten.org/quad-and-roller-skate-night",
     "free": false,
     "region": "West Yorkshire",
-    "time": "6:00pm – 7:00pm"
+    "time": "6:00pm – 7:00pm",
+    "skateHire": true
   },
   {
     "id": 367,
@@ -6692,7 +6784,8 @@
     "link": "https://ls-ten.org/quad-and-roller-skate-night",
     "free": false,
     "region": "West Yorkshire",
-    "time": "7:00pm – 10:00pm"
+    "time": "7:00pm – 10:00pm",
+    "skateHire": true
   },
   {
     "id": 372,
@@ -6710,7 +6803,8 @@
     "link": "https://ls-ten.org/quad-and-roller-skate-night",
     "free": false,
     "region": "West Yorkshire",
-    "time": "7:00pm – 10:00pm"
+    "time": "7:00pm – 10:00pm",
+    "skateHire": true
   },
   {
     "id": 373,
