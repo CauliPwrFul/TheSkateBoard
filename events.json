@@ -4453,7 +4453,7 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "7:15 pm – 8:15 pm",
-    "skateHire": false
+    "skateHire": true
   },
   {
     "id": 246,
@@ -4511,7 +4511,7 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "7:30 pm – 9:00 pm",
-    "skateHire": false
+    "skateHire": true
   },
   {
     "id": 249,
@@ -4568,7 +4568,7 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "7:00 pm – 9:00 pm",
-    "skateHire": false
+    "skateHire": true
   },
   {
     "id": 252,
@@ -4625,7 +4625,7 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "7:30 pm – 9:00 pm",
-    "skateHire": false
+    "skateHire": true
   },
   {
     "id": 255,
@@ -4644,7 +4644,7 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm",
-    "skateHire": false
+    "skateHire": true
   },
   {
     "id": 256,
@@ -4700,7 +4700,7 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "6:00 pm – 7:30 pm",
-    "skateHire": false
+    "skateHire": true
   },
   {
     "id": 259,
@@ -4738,7 +4738,7 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "7:15 pm – 8:15 pm",
-    "skateHire": false
+    "skateHire": true
   },
   {
     "id": 261,
@@ -4776,7 +4776,7 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "7:30 pm – 9:00 pm",
-    "skateHire": false
+    "skateHire": true
   },
   {
     "id": 263,
@@ -4833,7 +4833,7 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "7:00 pm – 9:00 pm",
-    "skateHire": false
+    "skateHire": true
   },
   {
     "id": 266,
@@ -4855,7 +4855,7 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "5:00 pm – 7:00 pm",
-    "skateHire": false
+    "skateHire": true
   },
   {
     "id": 267,
@@ -4893,7 +4893,7 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "7:30 pm – 10:00 pm",
-    "skateHire": false
+    "skateHire": true
   },
   {
     "id": 269,
