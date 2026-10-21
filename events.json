@@ -6182,5 +6182,390 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "3:00 pm – 4:00 pm"
+  },
+  {
+    "id": 344,
+    "name": "Kids Roller Skate Lessons",
+    "day": "05",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson",
+      "family"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9325373/chk/c874346bc56d30bda0d0090643207563/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:00 pm"
+  },
+  {
+    "id": 345,
+    "name": "Kids Roller Skate Lessons",
+    "day": "12",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson",
+      "family"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9325374/chk/b1ac036a19451d8d7682660781153357/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:00 pm"
+  },
+  {
+    "id": 346,
+    "name": "Kids Roller Skate Lessons",
+    "day": "19",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson",
+      "family"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9325375/chk/57e35d2178a30e7b67508893ffe5226b/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:00 pm"
+  },
+  {
+    "id": 347,
+    "name": "Kids Roller Skate Lessons",
+    "day": "26",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson",
+      "family"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9325376/chk/22bd0761f70ef428438b366eb7875515/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:00 pm"
+  },
+  {
+    "id": 348,
+    "name": "Kids Roller Skate Lessons",
+    "day": "03",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson",
+      "family"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9325377/chk/fd5d0c1d1c49d6bf0a3f980248db8595/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:00 pm"
+  },
+  {
+    "id": 349,
+    "name": "Kids Roller Skate Lessons",
+    "day": "10",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson",
+      "family"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9325378/chk/45a5c45440357f7bf2b7404c511757f9/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:00 pm"
+  },
+  {
+    "id": 350,
+    "name": "Kids Roller Skate Lessons",
+    "day": "17",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson",
+      "family"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9325379/chk/f387ca5f37bb3b90dffccc71dd12b513/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:00 pm"
+  },
+  {
+    "id": 351,
+    "name": "Adult Beginner Roller Skate Lessons",
+    "day": "05",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9325181/chk/a1db44e07e89e09c7c3a4f93b61423bf/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:00 pm – 8:00 pm"
+  },
+  {
+    "id": 352,
+    "name": "Adult Beginner Roller Skate Lessons",
+    "day": "12",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9325182/chk/4412c1a404ba15b91c3a482bf02e2edb/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:00 pm – 8:00 pm"
+  },
+  {
+    "id": 353,
+    "name": "Adult Beginner Roller Skate Lessons",
+    "day": "19",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9325183/chk/77d06244f9d73520f93534d4a6b34d53/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:00 pm – 8:00 pm"
+  },
+  {
+    "id": 354,
+    "name": "Adult Beginner Roller Skate Lessons",
+    "day": "26",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9325184/chk/60b8954f12fb647043b2e2fb37e58e1b/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:00 pm – 8:00 pm"
+  },
+  {
+    "id": 355,
+    "name": "Adult Beginner Roller Skate Lessons",
+    "day": "03",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9325185/chk/27505c8862c4e1b7e36794749023d76a/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:00 pm – 8:00 pm"
+  },
+  {
+    "id": 356,
+    "name": "Adult Beginner Roller Skate Lessons",
+    "day": "10",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9325186/chk/7a34f6e807347b46c32372155ebca797/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:00 pm – 8:00 pm"
+  },
+  {
+    "id": 357,
+    "name": "Adult Beginner Roller Skate Lessons",
+    "day": "17",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9325187/chk/22b0ff44a74f2a60f1e07d4e3fa55e4d/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:00 pm – 8:00 pm"
+  },
+  {
+    "id": 358,
+    "name": "Adult Improvers: Learn to Rollerskate Autumn",
+    "day": "05",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9325382/chk/b03e913bcf1e007bc375e1f909f9dd0d/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "8:00 pm – 9:00 pm"
+  },
+  {
+    "id": 359,
+    "name": "Adult Improvers: Learn to Rollerskate Autumn",
+    "day": "12",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9325383/chk/abe10fd23eb4bf9d40a61b126e220f52/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "8:00 pm – 9:00 pm"
+  },
+  {
+    "id": 360,
+    "name": "Adult Improvers: Learn to Rollerskate Autumn",
+    "day": "19",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9325384/chk/33a5da0f448c3087a5378f20cc30a3c6/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "8:00 pm – 9:00 pm"
+  },
+  {
+    "id": 361,
+    "name": "Adult Improvers: Learn to Rollerskate Autumn",
+    "day": "26",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9325385/chk/c6ddf9ffceddece04878fed3cbc91077/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "8:00 pm – 9:00 pm"
+  },
+  {
+    "id": 362,
+    "name": "Adult Improvers: Learn to Rollerskate Autumn",
+    "day": "03",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9325386/chk/f27dd8e267773e38ac1df44ee0f3d645/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "8:00 pm – 9:00 pm"
+  },
+  {
+    "id": 363,
+    "name": "Adult Improvers: Learn to Rollerskate Autumn",
+    "day": "10",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9325387/chk/d19d21bce3fefb18465dae4114483dae/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "8:00 pm – 9:00 pm"
+  },
+  {
+    "id": 364,
+    "name": "Adult Improvers: Learn to Rollerskate Autumn",
+    "day": "17",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "South Leeds Youth Hub",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9325388/chk/5704c524757db5abfd927a7ee54e6e28/",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "8:00 pm – 9:00 pm"
   }
 ]
