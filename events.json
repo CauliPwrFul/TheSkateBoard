@@ -6567,5 +6567,221 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "8:00 pm – 9:00 pm"
+  },
+  {
+    "id": 365,
+    "name": "Family Quad & Inline Night",
+    "day": "23",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "LS-TEN",
+    "location": "Leeds, LS10",
+    "price": "£8.00",
+    "types": [
+      "family"
+    ],
+    "desc": "A beginner- and under-13-friendly Friday night quad and inline skating session at LS-TEN's skatepark, with jams and games. Skate hire available.",
+    "link": "https://ls-ten.org/quad-and-roller-skate-night",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00pm – 7:00pm"
+  },
+  {
+    "id": 366,
+    "name": "Family Quad & Inline Night",
+    "day": "30",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "LS-TEN",
+    "location": "Leeds, LS10",
+    "price": "£8.00",
+    "types": [
+      "family"
+    ],
+    "desc": "A beginner- and under-13-friendly Friday night quad and inline skating session at LS-TEN's skatepark, with jams and games. Skate hire available.",
+    "link": "https://ls-ten.org/quad-and-roller-skate-night",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00pm – 7:00pm"
+  },
+  {
+    "id": 367,
+    "name": "Family Quad & Inline Night",
+    "day": "06",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "LS-TEN",
+    "location": "Leeds, LS10",
+    "price": "£8.00",
+    "types": [
+      "family"
+    ],
+    "desc": "A beginner- and under-13-friendly Friday night quad and inline skating session at LS-TEN's skatepark, with jams and games. Skate hire available.",
+    "link": "https://ls-ten.org/quad-and-roller-skate-night",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00pm – 7:00pm"
+  },
+  {
+    "id": 368,
+    "name": "Family Quad & Inline Night",
+    "day": "13",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "LS-TEN",
+    "location": "Leeds, LS10",
+    "price": "£8.00",
+    "types": [
+      "family"
+    ],
+    "desc": "A beginner- and under-13-friendly Friday night quad and inline skating session at LS-TEN's skatepark, with jams and games. Skate hire available.",
+    "link": "https://ls-ten.org/quad-and-roller-skate-night",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00pm – 7:00pm"
+  },
+  {
+    "id": 369,
+    "name": "Family Quad & Inline Night",
+    "day": "20",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "LS-TEN",
+    "location": "Leeds, LS10",
+    "price": "£8.00",
+    "types": [
+      "family"
+    ],
+    "desc": "A beginner- and under-13-friendly Friday night quad and inline skating session at LS-TEN's skatepark, with jams and games. Skate hire available.",
+    "link": "https://ls-ten.org/quad-and-roller-skate-night",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00pm – 7:00pm"
+  },
+  {
+    "id": 370,
+    "name": "Family Quad & Inline Night",
+    "day": "27",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "LS-TEN",
+    "location": "Leeds, LS10",
+    "price": "£8.00",
+    "types": [
+      "family"
+    ],
+    "desc": "A beginner- and under-13-friendly Friday night quad and inline skating session at LS-TEN's skatepark, with jams and games. Skate hire available.",
+    "link": "https://ls-ten.org/quad-and-roller-skate-night",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00pm – 7:00pm"
+  },
+  {
+    "id": 371,
+    "name": "Quad & Inline Night",
+    "day": "23",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "LS-TEN",
+    "location": "Leeds, LS10",
+    "price": "£11.50",
+    "types": [
+      "social"
+    ],
+    "desc": "Friday night quad and inline skating drop-in session at LS-TEN's skatepark, open to all abilities. Skate hire available.",
+    "link": "https://ls-ten.org/quad-and-roller-skate-night",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:00pm – 10:00pm"
+  },
+  {
+    "id": 372,
+    "name": "Quad & Inline Night",
+    "day": "30",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "LS-TEN",
+    "location": "Leeds, LS10",
+    "price": "£11.50",
+    "types": [
+      "social"
+    ],
+    "desc": "Friday night quad and inline skating drop-in session at LS-TEN's skatepark, open to all abilities. Skate hire available.",
+    "link": "https://ls-ten.org/quad-and-roller-skate-night",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:00pm – 10:00pm"
+  },
+  {
+    "id": 373,
+    "name": "Quad & Inline Night",
+    "day": "06",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "LS-TEN",
+    "location": "Leeds, LS10",
+    "price": "£11.50",
+    "types": [
+      "social"
+    ],
+    "desc": "Friday night quad and inline skating drop-in session at LS-TEN's skatepark, open to all abilities. Skate hire available.",
+    "link": "https://ls-ten.org/quad-and-roller-skate-night",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:00pm – 10:00pm"
+  },
+  {
+    "id": 374,
+    "name": "Quad & Inline Night",
+    "day": "13",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "LS-TEN",
+    "location": "Leeds, LS10",
+    "price": "£11.50",
+    "types": [
+      "social"
+    ],
+    "desc": "Friday night quad and inline skating drop-in session at LS-TEN's skatepark, open to all abilities. Skate hire available.",
+    "link": "https://ls-ten.org/quad-and-roller-skate-night",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:00pm – 10:00pm"
+  },
+  {
+    "id": 375,
+    "name": "Quad & Inline Night",
+    "day": "20",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "LS-TEN",
+    "location": "Leeds, LS10",
+    "price": "£11.50",
+    "types": [
+      "social"
+    ],
+    "desc": "Friday night quad and inline skating drop-in session at LS-TEN's skatepark, open to all abilities. Skate hire available.",
+    "link": "https://ls-ten.org/quad-and-roller-skate-night",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:00pm – 10:00pm"
+  },
+  {
+    "id": 376,
+    "name": "Quad & Inline Night",
+    "day": "27",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "LS-TEN",
+    "location": "Leeds, LS10",
+    "price": "£11.50",
+    "types": [
+      "social"
+    ],
+    "desc": "Friday night quad and inline skating drop-in session at LS-TEN's skatepark, open to all abilities. Skate hire available.",
+    "link": "https://ls-ten.org/quad-and-roller-skate-night",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:00pm – 10:00pm"
   }
 ]
