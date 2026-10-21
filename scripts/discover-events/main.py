@@ -9,12 +9,12 @@ sys.path.insert(0, os.path.dirname(__file__))
 
 from lib.dedupe import load_seen, save_seen
 from lib.format import next_event_id
-from sources import skate_sanctuary, skate_scholarship
+from sources import skate_sanctuary, skate_scholarship, ls_ten
 
 REPO_ROOT = os.path.join(os.path.dirname(__file__), "..", "..")
 EVENTS_PATH = os.path.join(REPO_ROOT, "events.json")
 
-SOURCES = [skate_sanctuary, skate_scholarship]
+SOURCES = [skate_sanctuary, skate_scholarship, ls_ten]
 
 
 def load_existing_events():
