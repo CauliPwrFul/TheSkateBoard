@@ -284,6 +284,7 @@ function renderEvents() {
         <div class="meta-row"><span class="meta-icon">📍</span>${escapeHtml(e.venue)}</div>
         <div class="meta-row"><span class="meta-icon">🗺</span>${escapeHtml(e.location)}</div>
         ${e.time ? `<div class="meta-row"><span class="meta-icon">🕐</span>${escapeHtml(e.time)}</div>` : ''}
+        ${e.skateHire !== undefined ? `<div class="meta-row"><span class="meta-icon">🛼</span>Skate hire: ${e.skateHire ? 'Yes' : 'No'}</div>` : ''}
       </div>
       <div class="event-desc">${escapeHtml(e.desc)}</div>
       <div class="card-footer">
