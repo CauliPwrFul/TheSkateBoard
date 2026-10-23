@@ -6877,5 +6877,41 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "7:00pm – 10:00pm"
+  },
+  {
+    "id": 377,
+    "name": "Studio & Shop closed",
+    "day": "24",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Our team are attending roller skate events around the UK - we'll be back on Monday",
+    "link": "https://www.theskatesanctuary.co.uk/events/studio-shop-closed-2026-10-24-10-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "10:00 am – 9:00 pm"
+  },
+  {
+    "id": 378,
+    "name": "Studio & Shop closed",
+    "day": "25",
+    "month": "Oct",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Our team are attending roller skate events around the UK - we'll be back on Monday",
+    "link": "https://www.theskatesanctuary.co.uk/events/studio-shop-closed-2026-10-25-10-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "10:00 am – 9:00 pm"
   }
 ]
