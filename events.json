@@ -6877,5 +6877,895 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "7:00pm – 10:00pm"
+  },
+  {
+    "id": 377,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "16",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-11-16-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 378,
+    "name": "Adult Lv2 Skate Course Week 5 (of 6) (17+)",
+    "day": "16",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Continue to Learn with our Level 6 course. Small group size. Intensive 6 week course + bonus class.",
+    "link": "https://www.theskatesanctuary.co.uk/events/adult-lv2-skate-course-week-5-of-6-17-2026-11-16-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 379,
+    "name": "Adult Beginner Skate Course Week 5 (of 6) (17+)",
+    "day": "16",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Adult learn to skate course. Small group size. Intensive 6 week course + bonus class. Absolute beginners.",
+    "link": "https://www.theskatesanctuary.co.uk/events/adult-beginner-skate-course-week-5-of-6-17-2026-11-16-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
+  },
+  {
+    "id": 380,
+    "name": "Neurodivergent friendly - Wheels of Connection: Spectrum Session",
+    "day": "17",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "We've launched a session specifically for skaters with neurodivergence to come together in a low-stimulus environment. With coaching to support your skate skills as required. Age 14+",
+    "link": "https://www.theskatesanctuary.co.uk/events/neurodivergent-friendly-wheels-of-connection-spectrum-session-2026-11-17-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 381,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "18",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-11-18-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 382,
+    "name": "Kids All Levels Skate Class Age 7+",
+    "day": "18",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson",
+      "family"
+    ],
+    "desc": "Continue to learn new skills and consolidate essential core techniques for skaters. Quad or inlines welcome. Skate hire available for a small additional fee. Please check your child has the experience required for the session.",
+    "link": "https://www.theskatesanctuary.co.uk/events/kids-all-levels-skate-class-age-7-2026-11-18-18-15-1",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:15 pm – 7:15 pm"
+  },
+  {
+    "id": 383,
+    "name": "Focus & Flow 17+ TRAINING DRILLS",
+    "day": "18",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Suggested Level 3&4 Great warm up before Choreography class or skill development for roller dance",
+    "link": "https://www.theskatesanctuary.co.uk/events/focus-flow-17-training-drills-2026-11-18-19-15",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:15 pm – 8:15 pm"
+  },
+  {
+    "id": 384,
+    "name": "Focus and Flow SHOWCASE COURSE",
+    "day": "18",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Dance Studio Leeds - Studio 1",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Join our first ever SHOWCASE COURSE and perform on roller skates as part of our crew! Age 18+ only",
+    "link": "https://www.theskatesanctuary.co.uk/events/focus-and-flow-showcase-course-2026-11-18-20-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "8:30 pm – 9:30 pm"
+  },
+  {
+    "id": 385,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "19",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-11-19-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 386,
+    "name": "Adults Thursday Evening Drop In Session",
+    "day": "19",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Drop in to practise, move or chat. Skate hire available for a small additional fee.",
+    "link": "https://www.theskatesanctuary.co.uk/events/adults-thursday-evening-drop-in-session-2026-11-19-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 387,
+    "name": "LGBTQ+ Wheels of Connection: Prism",
+    "day": "19",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Celebrate Connection. All Identities Welcome. Prism is—a supportive, affirming, and celebratory roller skate session for Trans, Gender Non-Conforming (GNC) folks, and their Allies! This space is dedicated to connection, joy, and movement, with coaches to support. Age 17+",
+    "link": "https://www.theskatesanctuary.co.uk/events/lgbtq-wheels-of-connection-prism-2026-11-19-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
+  },
+  {
+    "id": 388,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "20",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-11-20-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 389,
+    "name": "Friday Night Social 17+",
+    "day": "20",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, have a chat, meet other skaters in the community and unwind! Our skate marshalls are here to ensure everyone has a great time and skate safely.",
+    "link": "https://www.theskatesanctuary.co.uk/events/friday-night-social-17-2026-11-20-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 10:00 pm"
+  },
+  {
+    "id": 390,
+    "name": "Discover Roller Dance Accelerator Course week 2 (of 4)",
+    "day": "21",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "£54",
+    "types": [
+      "disco"
+    ],
+    "desc": "This is an introductory accelerated 4 week course for skaters who have little/no prior experience of roller dance. Skate hire available for a small additional fee (Free FNS ticket at end of course if you buy a course ticket @ £54)",
+    "link": "https://www.theskatesanctuary.co.uk/events/discover-roller-dance-accelerator-course-week-2-of-4-2026-11-21-10-30",
+    "free": true,
+    "region": "West Yorkshire",
+    "time": "10:30 am – 12:00 pm"
+  },
+  {
+    "id": 391,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "21",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-11-21-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 392,
+    "name": "Adults Afternoon Practise",
+    "day": "21",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Drop in to practise, move or chat. Skate hire available for a small additional fee.",
+    "link": "https://www.theskatesanctuary.co.uk/events/adults-afternoon-practise-2026-11-21-16-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:30 pm – 6:00 pm"
+  },
+  {
+    "id": 393,
+    "name": "Level 1 : Roller Skate Fundamentals (17+)",
+    "day": "22",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Suitable for those with little or no experience on roller skates. We will support you to feel more confident on your wheels. FOCUS: Week 4 - falling, balancing, intro to turning, lemons",
+    "link": "https://www.theskatesanctuary.co.uk/events/level-1-roller-skate-fundamentals-17-2026-11-22-10-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "10:00 am – 11:00 am"
+  },
+  {
+    "id": 394,
+    "name": "Essential Skate Care + Glow ups",
+    "day": "22",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Skate Maintenance and Craft session! Bring all your skate related questions and gain a number of skills to maintain, fix, decorate or even upgrade parts of your skates. Tools provided - Extra Materials such as craft supplies or upgraded parts will need to be purchased separately",
+    "link": "https://www.theskatesanctuary.co.uk/events/essential-skate-care-glow-ups-2026-11-22-11-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "11:00 am – 12:00 pm"
+  },
+  {
+    "id": 395,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "22",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-11-22-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 396,
+    "name": "Family Friendly Learn 'n' Roll",
+    "day": "22",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£8",
+    "types": [
+      "disco",
+      "workshop",
+      "family"
+    ],
+    "desc": "A mini roller disco for all ages at the Sikh Centre with a quick workshop to help get you rolling. All tickets £8. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/family-friendly-learn-n-roll-2026-11-22-14-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "2:30 pm – 4:00 pm"
+  },
+  {
+    "id": 397,
+    "name": "Roller Skate Super Session Lv 2-4 (14+)",
+    "day": "22",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "2hrs to develop new skills at the Sikh Sports Hall. Build on the techniques you have learnt in a larger space. Skate hire available. FOCUS for all Levels this month: Finding the Edge",
+    "link": "https://www.theskatesanctuary.co.uk/events/roller-skate-super-session-lv-2-4-14-2026-11-22-16-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:00 pm – 6:00 pm"
+  },
+  {
+    "id": 398,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "23",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-11-23-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 399,
+    "name": "Adult Lv2 Skate Course Week 6 (of 6) (17+)",
+    "day": "23",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Continue to Learn with our Level 6 course. Small group size. Intensive 6 week course + bonus class.",
+    "link": "https://www.theskatesanctuary.co.uk/events/adult-lv2-skate-course-week-6-of-6-17-2026-11-23-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 400,
+    "name": "Adult Beginner Skate Course Week 6 (of 6) (17+)",
+    "day": "23",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Adult learn to skate course. Small group size. Intensive 6 week course + bonus class. Absolute beginners.",
+    "link": "https://www.theskatesanctuary.co.uk/events/adult-beginner-skate-course-week-6-of-6-17-2026-11-23-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
+  },
+  {
+    "id": 401,
+    "name": "Neurodivergent friendly - Wheels of Connection: Spectrum Session",
+    "day": "24",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "We've launched a session specifically for skaters with neurodivergence to come together in a low-stimulus environment. With coaching to support your skate skills as required. Age 14+",
+    "link": "https://www.theskatesanctuary.co.uk/events/neurodivergent-friendly-wheels-of-connection-spectrum-session-2026-11-24-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 402,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "25",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-11-25-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 403,
+    "name": "Kids All Levels Skate Class Age 7+",
+    "day": "25",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson",
+      "family"
+    ],
+    "desc": "Continue to learn new skills and consolidate essential core techniques for skaters. Quad or inlines welcome. Skate hire available for a small additional fee. Please check your child has the experience required for the session.",
+    "link": "https://www.theskatesanctuary.co.uk/events/kids-all-levels-skate-class-age-7-2026-11-25-18-15",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:15 pm – 7:15 pm"
+  },
+  {
+    "id": 404,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "26",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-11-26-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 405,
+    "name": "Adults Thursday Evening Drop In Session",
+    "day": "26",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Drop in to practise, move or chat. Skate hire available for a small additional fee.",
+    "link": "https://www.theskatesanctuary.co.uk/events/adults-thursday-evening-drop-in-session-2026-11-26-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 406,
+    "name": "LGBTQ+ Wheels of Connection: Prism",
+    "day": "26",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Celebrate Connection. All Identities Welcome. Prism is—a supportive, affirming, and celebratory roller skate session for Trans, Gender Non-Conforming (GNC) folks, and their Allies! This space is dedicated to connection, joy, and movement, with coaches to support. Age 17+",
+    "link": "https://www.theskatesanctuary.co.uk/events/lgbtq-wheels-of-connection-prism-2026-11-26-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
+  },
+  {
+    "id": 407,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "27",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-11-27-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 408,
+    "name": "Student Roller Disco (NUS card holders)",
+    "day": "27",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "disco"
+    ],
+    "desc": "A special session for NUS card holders - expect disco lights and the occasional game in our studio. Skate hire included",
+    "link": "https://www.theskatesanctuary.co.uk/events/student-roller-disco-nus-card-holders-2026-11-27-17-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "5:00 pm – 7:00 pm"
+  },
+  {
+    "id": 409,
+    "name": "Sanctuary Skate n Chill 18+",
+    "day": "27",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "This weeks Friday meetup is at The Skate Sanctuary, come for a chat, skate and boogie at our studio",
+    "link": "https://www.theskatesanctuary.co.uk/events/sanctuary-skate-n-chill-18-2026-11-27-19-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:00 pm – 9:00 pm"
+  },
+  {
+    "id": 410,
+    "name": "Discover Roller Dance Accelerator Course week 3 (of 4)",
+    "day": "28",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "£54",
+    "types": [
+      "disco"
+    ],
+    "desc": "This is an introductory accelerated 4 week course for skaters who have little/no prior experience of roller dance. Skate hire available for a small additional fee (Free FNS ticket at end of course if you buy a course ticket @ £54)",
+    "link": "https://www.theskatesanctuary.co.uk/events/discover-roller-dance-accelerator-course-week-3-of-4-2026-11-28-10-30",
+    "free": true,
+    "region": "West Yorkshire",
+    "time": "10:30 am – 12:00 pm"
+  },
+  {
+    "id": 411,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "28",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-11-28-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 412,
+    "name": "Adults Afternoon Practise",
+    "day": "28",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Drop in to practise, move or chat. Skate hire available for a small additional fee.",
+    "link": "https://www.theskatesanctuary.co.uk/events/adults-afternoon-practise-2026-11-28-16-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:30 pm – 6:00 pm"
+  },
+  {
+    "id": 413,
+    "name": "Saturday Night Social @ The Skate Sanctuary",
+    "day": "28",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Unwind at The Skate Sanctuary - come for a chat, skate and boogie at our studio.",
+    "link": "https://www.theskatesanctuary.co.uk/events/saturday-night-social-the-skate-sanctuary-2026-11-28-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 10:00 pm"
+  },
+  {
+    "id": 414,
+    "name": "Level 1 : Roller Skate Fundamentals (17+)",
+    "day": "29",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Suitable for those with little or no experience on roller skates. We will support you to feel more confident on your wheels. FOCUS: Week 4 - falling, balancing, intro to turning, lemons",
+    "link": "https://www.theskatesanctuary.co.uk/events/level-1-roller-skate-fundamentals-17-2026-11-29-10-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "10:00 am – 11:00 am"
+  },
+  {
+    "id": 415,
+    "name": "Level 2: Roller Skate Fundamentals (17+)",
+    "day": "29",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "We will support you to feel more confident on your wheels. Skate hire available for a small additional fee. FOCUS: How to fall safely. Skate forward, push and glide, One leg pushing, Lemons + plough (a)",
+    "link": "https://www.theskatesanctuary.co.uk/events/level-2-roller-skate-fundamentals-17-2026-11-29-11-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "11:00 am – 12:00 pm"
+  },
+  {
+    "id": 416,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "29",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-11-29-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 417,
+    "name": "Level 3 Skate Skills Workshop 17+",
+    "day": "29",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "workshop",
+      "lesson"
+    ],
+    "desc": "1hr level 3 skills class for confident skaters, who want new challenges and excitement. FOCUS: Lemons from stationary, Stance / body position for push and glide, T-start + T-stop (a)",
+    "link": "https://www.theskatesanctuary.co.uk/events/level-3-skate-skills-workshop-17-2026-11-29-16-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:30 pm – 5:30 pm"
+  },
+  {
+    "id": 418,
+    "name": "Level 4: Skate Skills Workshop 17+",
+    "day": "29",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "workshop",
+      "lesson"
+    ],
+    "desc": "1hr level 4 skills class for confident skaters, who want new challenges and excitement. FOCUS -Intro to ballroom (using T-stops both sides) Intro hockey stop/ powerslide (a)",
+    "link": "https://www.theskatesanctuary.co.uk/events/level-4-skate-skills-workshop-17-2026-11-29-17-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "5:30 pm – 6:30 pm"
+  },
+  {
+    "id": 419,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "30",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-11-30-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 420,
+    "name": "Adults Evening Level 1-2 Practice Session",
+    "day": "30",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Drop in to practise, move or chat. Skate hire available for a small additional fee.",
+    "link": "https://www.theskatesanctuary.co.uk/events/adults-evening-level-1-2-practice-session-2026-11-30-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 421,
+    "name": "Adults Evening Level 2+ Practice Session",
+    "day": "30",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Drop in to practise, move or chat. Skate hire available for a small additional fee.",
+    "link": "https://www.theskatesanctuary.co.uk/events/adults-evening-level-2-practice-session-2026-11-30-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
+  },
+  {
+    "id": 422,
+    "name": "Kids All Levels Skate Class Age 7+",
+    "day": "02",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson",
+      "family"
+    ],
+    "desc": "Continue to learn new skills and consolidate essential core techniques for skaters. Quad or inlines welcome. Skate hire available for a small additional fee. Please check your child has the experience required for the session.",
+    "link": "https://www.theskatesanctuary.co.uk/events/kids-all-levels-skate-class-age-7-2026-12-02-18-15",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:15 pm – 7:15 pm"
+  },
+  {
+    "id": 423,
+    "name": "Friday Night Social 17+",
+    "day": "04",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, have a chat, meet other skaters in the community and unwind! Our skate marshalls are here to ensure everyone has a great time and skate safely.",
+    "link": "https://www.theskatesanctuary.co.uk/events/friday-night-social-17-2026-12-04-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 10:00 pm"
+  },
+  {
+    "id": 424,
+    "name": "Discover Roller Dance Accelerator Course week 4 (of 4)",
+    "day": "05",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "£54",
+    "types": [
+      "disco"
+    ],
+    "desc": "This is an introductory accelerated 4 week course for skaters who have little/no prior experience of roller dance. Skate hire available for a small additional fee (Free FNS ticket at end of course if you buy a course ticket @ £54)",
+    "link": "https://www.theskatesanctuary.co.uk/events/discover-roller-dance-accelerator-course-week-4-of-4-2026-12-05-10-30",
+    "free": true,
+    "region": "West Yorkshire",
+    "time": "10:30 am – 12:00 pm"
+  },
+  {
+    "id": 425,
+    "name": "Kids All Levels Skate Class Age 7+",
+    "day": "09",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson",
+      "family"
+    ],
+    "desc": "Continue to learn new skills and consolidate essential core techniques for skaters. Quad or inlines welcome. Skate hire available for a small additional fee. Please check your child has the experience required for the session.",
+    "link": "https://www.theskatesanctuary.co.uk/events/kids-all-levels-skate-class-age-7-2026-12-09-18-15",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:15 pm – 7:15 pm"
   }
 ]
