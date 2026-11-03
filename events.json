@@ -6877,5 +6877,564 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "7:00pm – 10:00pm"
+  },
+  {
+    "id": 377,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "01",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-12-01-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 378,
+    "name": "Neurodivergent friendly - Wheels of Connection: Spectrum Session",
+    "day": "01",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "We've launched a session specifically for skaters with neurodivergence to come together in a low-stimulus environment. With coaching to support your skate skills as required. Age 14+",
+    "link": "https://www.theskatesanctuary.co.uk/events/neurodivergent-friendly-wheels-of-connection-spectrum-session-2026-12-01-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 379,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "02",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-12-02-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 380,
+    "name": "Focus & Flow 17+ (WEEK 1)",
+    "day": "02",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Suggested Level 3&4 The focus for this block of classes is TBC Week 1 - Preparation drills",
+    "link": "https://www.theskatesanctuary.co.uk/events/focus-flow-17-week-1-2026-12-02-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
+  },
+  {
+    "id": 381,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "03",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-12-03-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 382,
+    "name": "Adults Thursday Evening Drop In Session",
+    "day": "03",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Drop in to practise, move or chat. Skate hire available for a small additional fee.",
+    "link": "https://www.theskatesanctuary.co.uk/events/adults-thursday-evening-drop-in-session-2026-12-03-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 383,
+    "name": "LGBTQ+ Wheels of Connection: Prism",
+    "day": "03",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Celebrate Connection. All Identities Welcome. Prism is—a supportive, affirming, and celebratory roller skate session for Trans, Gender Non-Conforming (GNC) folks, and their Allies! This space is dedicated to connection, joy, and movement, with coaches to support. Age 17+",
+    "link": "https://www.theskatesanctuary.co.uk/events/lgbtq-wheels-of-connection-prism-2026-12-03-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
+  },
+  {
+    "id": 384,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "04",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-12-04-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 385,
+    "name": "Family Friendly Friday Eve Roller Disco 5+",
+    "day": "04",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "disco",
+      "family"
+    ],
+    "desc": "Ages 5+ welcome to our Family Friendly Friday session - expect disco lights and the occasional game in our studio. Skate hire available for a small additional price on the door.",
+    "link": "https://www.theskatesanctuary.co.uk/events/family-friendly-friday-eve-roller-disco-5-2026-12-04-17-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "5:00 pm – 7:00 pm"
+  },
+  {
+    "id": 386,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "05",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-12-05-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 387,
+    "name": "Adults Afternoon Practise",
+    "day": "05",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Drop in to practise, move or chat. Skate hire available for a small additional fee.",
+    "link": "https://www.theskatesanctuary.co.uk/events/adults-afternoon-practise-2026-12-05-16-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:30 pm – 6:00 pm"
+  },
+  {
+    "id": 388,
+    "name": "Levels 1 & 2: Coached Skate Session (Age 17+)",
+    "day": "06",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Our coach team is here to work with you to overcome your obstacles to roller skating. Book on this special session to get started in a supportive environment.",
+    "link": "https://www.theskatesanctuary.co.uk/events/levels-1-2-coached-skate-session-age-17-2026-12-06-10-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "10:00 am – 12:00 pm"
+  },
+  {
+    "id": 389,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "06",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-12-06-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 390,
+    "name": "Level 3 & 4: Coached Skate Session (Age 17+)",
+    "day": "06",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Limited number session @ The Skate Sanctuary. What do you want to improve? Come with your request and get tailored support to improve that skill.",
+    "link": "https://www.theskatesanctuary.co.uk/events/level-3-4-coached-skate-session-age-17-2026-12-06-16-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:30 pm – 6:30 pm"
+  },
+  {
+    "id": 391,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "07",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-12-07-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 392,
+    "name": "Neurodivergent friendly - Wheels of Connection: Spectrum Session",
+    "day": "08",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "We've launched a session specifically for skaters with neurodivergence to come together in a low-stimulus environment. With coaching to support your skate skills as required. Age 14+",
+    "link": "https://www.theskatesanctuary.co.uk/events/neurodivergent-friendly-wheels-of-connection-spectrum-session-2026-12-08-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 393,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "09",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-12-09-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 394,
+    "name": "Focus & Flow 17+ (WEEK 2)",
+    "day": "09",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "lesson"
+    ],
+    "desc": "Suggested Level 3&4 The focus for this block of classes is TBC Week 1 - Preparation drills",
+    "link": "https://www.theskatesanctuary.co.uk/events/focus-flow-17-week-2-2026-12-09-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
+  },
+  {
+    "id": 395,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "10",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-12-10-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 396,
+    "name": "Adults Thursday Evening Drop In Session",
+    "day": "10",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Drop in to practise, move or chat. Skate hire available for a small additional fee.",
+    "link": "https://www.theskatesanctuary.co.uk/events/adults-thursday-evening-drop-in-session-2026-12-10-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
+  },
+  {
+    "id": 397,
+    "name": "LGBTQ+ Wheels of Connection: Prism",
+    "day": "10",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Celebrate Connection. All Identities Welcome. Prism is—a supportive, affirming, and celebratory roller skate session for Trans, Gender Non-Conforming (GNC) folks, and their Allies! This space is dedicated to connection, joy, and movement, with coaches to support. Age 17+",
+    "link": "https://www.theskatesanctuary.co.uk/events/lgbtq-wheels-of-connection-prism-2026-12-10-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 9:00 pm"
+  },
+  {
+    "id": 398,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "11",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-12-11-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 399,
+    "name": "Student Roller Disco (NUS card holders)",
+    "day": "11",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "disco"
+    ],
+    "desc": "A special session for NUS card holders - expect disco lights and the occasional game in our studio. Skate hire included",
+    "link": "https://www.theskatesanctuary.co.uk/events/student-roller-disco-nus-card-holders-2026-12-11-17-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "5:00 pm – 7:00 pm"
+  },
+  {
+    "id": 400,
+    "name": "Sanctuary Skate n Chill 18+",
+    "day": "11",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "This weeks Friday meetup is at The Skate Sanctuary, come for a chat, skate and boogie at our studio",
+    "link": "https://www.theskatesanctuary.co.uk/events/sanctuary-skate-n-chill-18-2026-12-11-19-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:00 pm – 9:00 pm"
+  },
+  {
+    "id": 401,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "12",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-12-12-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 402,
+    "name": "Adults Afternoon Practise",
+    "day": "12",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Drop in to practise, move or chat. Skate hire available for a small additional fee.",
+    "link": "https://www.theskatesanctuary.co.uk/events/adults-afternoon-practise-2026-12-12-16-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:30 pm – 6:00 pm"
+  },
+  {
+    "id": 403,
+    "name": "Levels 1 & 2: Coached Skate Session (Age 17+)",
+    "day": "13",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Our coach team is here to work with you to overcome your obstacles to roller skating. Book on this special session to get started in a supportive environment.",
+    "link": "https://www.theskatesanctuary.co.uk/events/levels-1-2-coached-skate-session-age-17-2026-12-13-10-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "10:00 am – 12:00 pm"
+  },
+  {
+    "id": 404,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "13",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-12-13-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 405,
+    "name": "Level 3 & 4: Coached Skate Session (Age 17+)",
+    "day": "13",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "Limited number session @ The Skate Sanctuary. What do you want to improve? Come with your request and get tailored support to improve that skill.",
+    "link": "https://www.theskatesanctuary.co.uk/events/level-3-4-coached-skate-session-age-17-2026-12-13-16-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:30 pm – 6:30 pm"
+  },
+  {
+    "id": 406,
+    "name": "Age 5+ Drop-In Skate",
+    "day": "14",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "£5",
+    "types": [
+      "social"
+    ],
+    "desc": "Come and skate, shuffle, chat, drink tea. Usually weekday sessions are quieter! All tickets £5. Skate hire available for a small additional fee",
+    "link": "https://www.theskatesanctuary.co.uk/events/age-5-drop-in-skate-2026-12-14-12-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "12:00 pm – 2:00 pm"
+  },
+  {
+    "id": 407,
+    "name": "Neurodivergent friendly - Wheels of Connection: Spectrum Session",
+    "day": "15",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "We've launched a session specifically for skaters with neurodivergence to come together in a low-stimulus environment. With coaching to support your skate skills as required. Age 14+",
+    "link": "https://www.theskatesanctuary.co.uk/events/neurodivergent-friendly-wheels-of-connection-spectrum-session-2026-12-15-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:30 pm"
   }
 ]
