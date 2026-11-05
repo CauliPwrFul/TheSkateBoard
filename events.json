@@ -6877,5 +6877,118 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "7:00pm – 10:00pm"
+  },
+  {
+    "id": 377,
+    "name": "Teens 12-16 - Level 1&2: Learn to Roller Skate Taster Session",
+    "day": "19",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "taster",
+      "lesson"
+    ],
+    "desc": "Let's Get Rolling! Teens only session by popular demand. For children aged 12 - 16 only Learn to roller skate in Leeds this Christmas!",
+    "link": "https://www.theskatesanctuary.co.uk/events/teens-12-16-level-1-2-learn-to-roller-skate-taster-session",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "4:00 pm – 5:00 pm"
+  },
+  {
+    "id": 378,
+    "name": "ADULT: Level 3 Taster Session",
+    "day": "21",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "taster",
+      "lesson"
+    ],
+    "desc": "Already attended some level 2 classes or have the fundamentals down already? Try out our Level 3 taster session to give you confidence to move on up to the next level",
+    "link": "https://www.theskatesanctuary.co.uk/events/adult-level-3-taster-session-2026-11-21-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:00 pm"
+  },
+  {
+    "id": 379,
+    "name": "ADULT: Level 2 Taster Session",
+    "day": "07",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "taster"
+    ],
+    "desc": "Can you already skate a bit? Try out our Level 2 taster session to help you progress your skills",
+    "link": "https://www.theskatesanctuary.co.uk/events/adult-level-2-taster-session-2026-12-07-18-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "6:00 pm – 7:00 pm"
+  },
+  {
+    "id": 380,
+    "name": "ADULT: Level 3 Taster Session",
+    "day": "07",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "taster",
+      "lesson"
+    ],
+    "desc": "Already attended some level 2 classes or have the fundamentals down already? Try out our Level 3 taster session to give you confidence to move on up to the next level",
+    "link": "https://www.theskatesanctuary.co.uk/events/adult-level-3-taster-session-2026-12-07-19-30-1",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 8:30 pm"
+  },
+  {
+    "id": 381,
+    "name": "ADULT: Beginners Learn to Roller Skate Taster Session (Lv1)",
+    "day": "14",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "Ramgarhia Sikh Sports Centre",
+    "location": "Leeds, LS7",
+    "price": "See listing for price",
+    "types": [
+      "taster",
+      "lesson",
+      "family"
+    ],
+    "desc": "Let's Get Rolling! Ever wanted to Roller Skate? This is one for the big kids! (Most of our adult sessions are attended by people 40+ if you are worried about being too old to give it a go!)",
+    "link": "https://www.theskatesanctuary.co.uk/events/adult-beginners-learn-to-roller-skate-taster-session-lv1-2026-12-14-17-00",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "5:00 pm – 6:00 pm"
+  },
+  {
+    "id": 382,
+    "name": "ADULT: Level 2 Taster Session",
+    "day": "14",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "taster"
+    ],
+    "desc": "Can you already skate a bit? Try out our Level 2 taster session to help you progress your skills",
+    "link": "https://www.theskatesanctuary.co.uk/events/adult-level-2-taster-session-2026-12-14-19-30",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "7:30 pm – 8:30 pm"
   }
 ]
