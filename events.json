@@ -6877,5 +6877,23 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "7:00pm – 10:00pm"
+  },
+  {
+    "id": 377,
+    "name": "THE BIG SKATE SHOP EVENT",
+    "day": "13",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "The Skate Sanctuary",
+    "location": "Leeds, LS9",
+    "price": "See listing for price",
+    "types": [
+      "social"
+    ],
+    "desc": "A Special day to shop and craft at The Skate Sanctuary. We'll have extra stock in today so why not book a fitting or drop in and try some wheels?",
+    "link": "https://www.theskatesanctuary.co.uk/events/the-big-skate-shop-event-2",
+    "free": false,
+    "region": "West Yorkshire",
+    "time": "2:00 pm – 9:00 pm"
   }
 ]
