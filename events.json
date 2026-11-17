@@ -6877,5 +6877,62 @@
     "free": false,
     "region": "West Yorkshire",
     "time": "7:00pm – 10:00pm"
+  },
+  {
+    "id": 377,
+    "name": "FREE Kids Roller Skate Lessons Seacroft",
+    "day": "28",
+    "month": "Nov",
+    "year": "2026",
+    "venue": "Denis Healy Centre Foundry Mill St, Seacroft, Leeds LS14 6RD",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson",
+      "family"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9483883/chk/04d99d5b0b816bb16aff94f8e5ffa39a/",
+    "free": true,
+    "region": "West Yorkshire",
+    "time": "11:00 am – 12:30 pm"
+  },
+  {
+    "id": 378,
+    "name": "FREE Kids Roller Skate Lessons Seacroft",
+    "day": "05",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "Denis Healy Centre Foundry Mill St, Seacroft, Leeds LS14 6RD",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson",
+      "family"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9483885/chk/f6bc4688c8514cd6f28f4cfac013ab57/",
+    "free": true,
+    "region": "West Yorkshire",
+    "time": "11:00 am – 12:30 pm"
+  },
+  {
+    "id": 379,
+    "name": "FREE Kids Roller Skate Lessons Seacroft",
+    "day": "12",
+    "month": "Dec",
+    "year": "2026",
+    "venue": "Denis Healy Centre Foundry Mill St, Seacroft, Leeds LS14 6RD",
+    "location": "Leeds",
+    "price": "See listing for price",
+    "types": [
+      "lesson",
+      "family"
+    ],
+    "desc": "",
+    "link": "https://www.tickettailor.com/checkout/view-event/id/9483886/chk/19d80484839fa8b88fc00d3aabf4dc1d/",
+    "free": true,
+    "region": "West Yorkshire",
+    "time": "11:00 am – 12:30 pm"
   }
 ]
